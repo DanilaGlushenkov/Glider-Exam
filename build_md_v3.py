@@ -2,8 +2,8 @@
 Build comprehensive SPL question list in Markdown from all extracted sources.
 v3 - Filters out answer keys that were being parsed as questions.
 """
-import re
 import os
+import re
 
 OUTPUT = r"c:\!Projects\Glider Exam\SPL_Otazky.md"
 BASE = r"c:\!Projects\Glider Exam"

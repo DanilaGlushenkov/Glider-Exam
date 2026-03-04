@@ -1,8 +1,8 @@
 """
 Build comprehensive SPL question list in Markdown from all extracted sources.
 """
-import re
 import os
+import re
 
 OUTPUT = r"c:\!Projects\Glider Exam\SPL_Otazky.md"
 
