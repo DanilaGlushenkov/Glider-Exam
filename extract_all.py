@@ -1,7 +1,8 @@
-import fitz
 import os
-import zipfile
 import xml.etree.ElementTree as ET
+import zipfile
+
+import fitz
 
 OUTPUT_DIR = r"c:\!Projects\Glider Exam"
 

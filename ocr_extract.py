@@ -1,5 +1,6 @@
-import easyocr
 import os
+
+import easyocr
 
 reader = easyocr.Reader(['cs', 'en'], gpu=False)
 
