@@ -1,12 +1,68 @@
 """
 Build comprehensive SPL question list in Markdown from all extracted sources.
 v3 - Filters out answer keys that were being parsed as questions.
+v3.1 - Deduplicates questions across sources per category.
 """
+from __future__ import annotations
+
+import json
 import os
 import re
+import unicodedata
 
 OUTPUT = r"c:\!Projects\Glider Exam\SPL_Otazky.md"
+ANSWER_KEY_OUTPUT = r"c:\!Projects\Glider Exam\answer_keys.json"
 BASE = r"c:\!Projects\Glider Exam"
+
+# Lower number = higher priority (preferred when deduplicating)
+SOURCE_PRIORITY: dict[str, int] = {"vzor": 0, "komunikace": 1, "pilotky": 2}
+
+
+def _normalize_for_dedup(text: str) -> str:
+    """Normalize text for duplicate comparison.
+
+    Strips accents, collapses whitespace, lowercases.
+    """
+    text = re.sub(r"\s+", " ", text.strip().lower())
+    text = unicodedata.normalize("NFD", text)
+    return "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+
+
+def _get_source_priority(source_label: str) -> int:
+    """Return numeric priority for a source label (lower = better)."""
+    for prefix, priority in SOURCE_PRIORITY.items():
+        if source_label.startswith(prefix):
+            return priority
+    return 99
+
+
+def deduplicate_questions(questions: list[dict]) -> tuple[list[dict], int]:
+    """Deduplicate questions by normalized text.
+
+    For each group of duplicates, keeps the version from the
+    highest-priority source (vzor > komunikace > pilotky).
+    Returns (deduplicated list, number of duplicates removed).
+    """
+    best: dict[str, dict] = {}
+    for question in questions:
+        norm = _normalize_for_dedup(question["text"])
+        if norm not in best:
+            best[norm] = question
+        elif _get_source_priority(question["source"]) < _get_source_priority(
+            best[norm]["source"]
+        ):
+            best[norm] = question
+
+    seen: set[str] = set()
+    result: list[dict] = []
+    for question in questions:
+        norm = _normalize_for_dedup(question["text"])
+        if norm not in seen:
+            seen.add(norm)
+            result.append(best[norm])
+
+    removed = len(questions) - len(result)
+    return result, removed
 
 
 def is_answer_key_line(text):
@@ -273,14 +329,23 @@ SECTIONS = [
 ]
 
 # ============================================================
+# PARSE ANSWER KEYS FROM VZOR for mapping
+# ============================================================
+print("\nČtu odpovědi z vzor...")
+from parsers.answer_key_parser import parse_answer_keys as _parse_ak
+
+vzor_answer_map = _parse_ak(os.path.join(BASE, "extracted_vzor.txt"))
+print(f"  Načteno {len(vzor_answer_map)} odpovědí.")
+
+# ============================================================
 # BUILD MARKDOWN
 # ============================================================
-print("\nSestavuji Markdown...")
+print("\nSestavuji Markdown (s deduplicací)...")
 
 md = []
 md.append("# SPL Zkušební otázky — Kompletní seznam\n")
 md.append("Komplexní sbírka otázek pro teoretickou zkoušku SPL (Sailplane Pilot Licence).\n")
-md.append("**Zdroje:**")
+md.append("**Zdroje (sloučeno a deduplikováno):**")
 md.append("- `otázky vzor` — vzorové testy (PDF): Aerodynamika, Letadla, Meteorologie, Navigace, Předpisy, Spojovací předpisy")
 md.append("- `Pilotky - SPL` — otázky SPL (ODT): Letecký zákon, Základy letu, Letové výkony, Lidská výkonnost, Meteorologie, Navigace, Provozní postupy, Komunikace, Všeobecné znalosti letadel")
 md.append("- `2-4. KOMUNIKACE` — otázky z komunikace (PDF)")
@@ -294,14 +359,16 @@ md.append("---\n")
 
 toc_entries = []
 total_qs = 0
+total_removed = 0
+unified_answer_keys: dict[str, str] = {}  # new_id -> answer letter(s)
 
 for anchor, title, vzor_key, pilotky_key, ocr_key in SECTIONS:
     section_md = []
-    section_md.append(f"## {title}\n")
+    section_md.append(f"## {title} " + "{" + f"#{anchor}" + "}" + "\n")
     sources_info = []
-    all_questions = []
+    all_questions: list[dict] = []
 
-    # 1) Vzor PDF
+    # 1) Vzor PDF (highest priority)
     if vzor_key and vzor_key in vzor_data:
         qs = parse_questions_from_text(vzor_data[vzor_key], f"vzor/{vzor_key}")
         if qs:
@@ -315,7 +382,7 @@ for anchor, title, vzor_key, pilotky_key, ocr_key in SECTIONS:
             sources_info.append(f"komunikace PDF — {len(qs)} otázek")
             all_questions.extend(qs)
 
-    # 3) Pilotky ODT
+    # 3) Pilotky ODT (lowest priority)
     if pilotky_key and pilotky_key in pilotky_sections:
         qs = parse_questions_from_text(pilotky_sections[pilotky_key], f"pilotky/{pilotky_key}")
         if qs:
@@ -325,16 +392,39 @@ for anchor, title, vzor_key, pilotky_key, ocr_key in SECTIONS:
     if not all_questions:
         continue
 
-    for s in sources_info:
-        section_md.append(f"*Zdroj: {s}*  ")
+    # --- DEDUPLICATE ---
+    raw_count = len(all_questions)
+    all_questions, removed = deduplicate_questions(all_questions)
+    total_removed += removed
+
+    # Renumber sequentially and build answer key mapping
+    for idx, question in enumerate(all_questions, 1):
+        question["original_num"] = question["num"]
+        question["num"] = idx
+
+        # Map answer key from vzor source
+        new_id = f"{anchor}/{idx}"
+        if question["source"].startswith("vzor/"):
+            pdf_name = question["source"].split("/", 1)[1]  # e.g. "Aerodynamika.pdf"
+            stem = pdf_name.replace(".pdf", "")
+            old_vzor_id = f"vzor/{stem}/{question['original_num']}"
+            answer = vzor_answer_map.get(old_vzor_id)
+            if answer:
+                unified_answer_keys[new_id] = answer
+
+    # Section header with dedup stats
+    if removed > 0:
+        section_md.append(
+            f"*{len(all_questions)} unikátních otázek "
+            f"(z celkových {raw_count}, odstraněno {removed} duplikátů)*  "
+        )
+    else:
+        section_md.append(f"*{len(all_questions)} otázek*  ")
     section_md.append("")
 
-    current_source = None
-    for q in all_questions:
-        if q['source'] != current_source:
-            current_source = q['source']
-            section_md.append(f"### Zdroj: {current_source}\n")
-        section_md.append(format_question_md(q))
+    # Flat list — no sub-source headers
+    for question in all_questions:
+        section_md.append(format_question_md(question))
 
     count = len(all_questions)
     total_qs += count
@@ -366,7 +456,7 @@ if ocr_sections:
 # Fill TOC
 # ============================================================
 toc_lines = []
-toc_lines.append(f"**Celkem: ~{total_qs} otázek**\n")
+toc_lines.append(f"**Celkem: {total_qs} unikátních otázek (odstraněno {total_removed} duplikátů)**\n")
 for anchor, title, count in toc_entries:
     suffix = f" ({count} otázek)" if count > 0 else ""
     toc_lines.append(f"- [{title}](#{anchor}){suffix}")
@@ -375,15 +465,23 @@ toc_lines.append("")
 md[toc_idx + 1] = "\n".join(toc_lines)
 
 # ============================================================
-# WRITE
+# WRITE MARKDOWN
 # ============================================================
 final = "\n".join(md)
 with open(OUTPUT, "w", encoding="utf-8") as f:
     f.write(final)
 
+# ============================================================
+# WRITE ANSWER KEYS JSON
+# ============================================================
+with open(ANSWER_KEY_OUTPUT, "w", encoding="utf-8") as f:
+    json.dump(unified_answer_keys, f, ensure_ascii=False, indent=2)
+
 print(f"\n{'='*60}")
 print(f"HOTOVO: {OUTPUT}")
-print(f"Celkem otázek: ~{total_qs}")
+print(f"Odpovědi: {ANSWER_KEY_OUTPUT} ({len(unified_answer_keys)} klíčů)")
+print(f"Celkem unikátních otázek: {total_qs}")
+print(f"Odstraněno duplikátů: {total_removed}")
 print(f"Velikost souboru: {os.path.getsize(OUTPUT):,} bytes")
 for anchor, title, count in toc_entries:
     print(f"  {title}: {count}")

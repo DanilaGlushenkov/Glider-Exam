@@ -4,7 +4,7 @@ from pathlib import Path
 import streamlit as st
 
 from models import QuestionBank, UserProgress
-from parsers.answer_key_parser import parse_answer_keys
+from parsers.answer_key_parser import load_json_answer_keys, parse_answer_keys
 from parsers.markdown_parser import parse_markdown_questions
 from progress import ProgressManager
 
@@ -18,7 +18,8 @@ st.set_page_config(
 # --- Paths ---
 BASE_DIR = Path(__file__).parent
 MD_PATH = BASE_DIR / "SPL_Otazky.md"
-VZOR_PATH = BASE_DIR / "extracted_vzor.txt"
+ANSWER_KEY_JSON_PATH = BASE_DIR / "answer_keys.json"
+VZOR_PATH = BASE_DIR / "extracted_vzor.txt"  # legacy fallback
 PROGRESS_PATH = BASE_DIR / "progress.json"
 
 
@@ -26,7 +27,12 @@ PROGRESS_PATH = BASE_DIR / "progress.json"
 def load_question_bank() -> dict:
     """Parse questions and match answer keys. Cached across reruns."""
     bank = parse_markdown_questions(MD_PATH)
-    answer_keys = parse_answer_keys(VZOR_PATH)
+
+    # Prefer unified JSON answer keys; fall back to legacy vzor parser
+    if ANSWER_KEY_JSON_PATH.exists():
+        answer_keys = load_json_answer_keys(ANSWER_KEY_JSON_PATH)
+    else:
+        answer_keys = parse_answer_keys(VZOR_PATH)
 
     merged_questions = []
     for question in bank.questions:

@@ -1,8 +1,8 @@
 # SPL Zkušební otázky — Testovací výběr
 
-## Aerodynamika a mechanika letu
+## Aerodynamika a mechanika letu {#aerodynamika}
 
-### Zdroj: vzor/Aerodynamika.pdf
+*5 otázek*
 
 **1.** Podle standardní atmosféry hustota vzduchu s rostoucí výškou
 
@@ -36,9 +36,9 @@
    a) statický tlak
    b) celkový tlak
 
-## Meteorologie
+## Meteorologie {#meteorologie}
 
-### Zdroj: vzor/Meteorologie.pdf
+*5 otázek*
 
 **1.** Co je rosný bod?
 
@@ -75,9 +75,9 @@
    c) index turbulence
    d) gradient tlaku
 
-## Navigace
+## Navigace {#navigace}
 
-### Zdroj: vzor/Navigace.pdf
+*5 otázek*
 
 **1.** Co znamená zkratka QNH?
 

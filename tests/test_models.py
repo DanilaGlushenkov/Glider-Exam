@@ -8,23 +8,23 @@ from models import Question, QuestionBank, QuizMode, UserProgress
 
 def test_question_creation_valid_data() -> None:
     question = Question(
-        id="vzor/Aerodynamika/1",
-        category="Aerodynamika",
+        id="aerodynamika/1",
+        category="aerodynamika",
         number=1,
         text="Test question",
         options={"a": "One", "b": "Two", "c": "Three"},
         correct_answer="b",
     )
 
-    assert question.id == "vzor/Aerodynamika/1"
+    assert question.id == "aerodynamika/1"
     assert question.correct_answer == "b"
 
 
 def test_question_validation_error_empty_options() -> None:
     with pytest.raises(ValidationError):
         Question(
-            id="vzor/Aerodynamika/2",
-            category="Aerodynamika",
+            id="aerodynamika/2",
+            category="aerodynamika",
             number=2,
             text="Invalid question",
             options={},
@@ -32,31 +32,34 @@ def test_question_validation_error_empty_options() -> None:
         )
 
 
-def test_question_validation_error_correct_answer_not_in_options() -> None:
-    with pytest.raises(ValidationError):
-        Question(
-            id="vzor/Aerodynamika/3",
-            category="Aerodynamika",
-            number=3,
-            text="Invalid question",
-            options={"a": "One", "b": "Two"},
-            correct_answer="d",
-        )
+def test_question_validation_clears_invalid_correct_answer() -> None:
+    """When correct_answer references an option not in options, the model
+    silently clears it (sets to None) rather than raising."""
+    question = Question(
+        id="aerodynamika/3",
+        category="aerodynamika",
+        number=3,
+        text="Invalid question",
+        options={"a": "One", "b": "Two"},
+        correct_answer="d",
+    )
+
+    assert question.correct_answer is None
 
 
 def test_question_bank_get_by_category() -> None:
     bank = QuestionBank(
         questions=[
             Question(
-                id="vzor/Aerodynamika/1",
-                category="Aerodynamika",
+                id="aerodynamika/1",
+                category="aerodynamika",
                 number=1,
                 text="Q1",
                 options={"a": "A", "b": "B"},
             ),
             Question(
-                id="vzor/Meteorologie/1",
-                category="Meteorologie",
+                id="meteorologie/1",
+                category="meteorologie",
                 number=1,
                 text="Q2",
                 options={"a": "A", "b": "B"},
@@ -64,32 +67,32 @@ def test_question_bank_get_by_category() -> None:
         ]
     )
 
-    aero_questions = bank.get_by_category("Aerodynamika")
+    aero_questions = bank.get_by_category("aerodynamika")
     assert len(aero_questions) == 1
-    assert aero_questions[0].id == "vzor/Aerodynamika/1"
+    assert aero_questions[0].id == "aerodynamika/1"
 
 
 def test_question_bank_get_by_id_found_and_not_found() -> None:
     q1 = Question(
-        id="vzor/Navigace/10",
-        category="Navigace",
+        id="navigace/10",
+        category="navigace",
         number=10,
         text="Q10",
         options={"a": "A", "b": "B"},
     )
     bank = QuestionBank(questions=[q1])
 
-    assert bank.get_by_id("vzor/Navigace/10") == q1
-    assert bank.get_by_id("vzor/Navigace/999") is None
+    assert bank.get_by_id("navigace/10") == q1
+    assert bank.get_by_id("navigace/999") is None
 
 
 def test_user_progress_record_answer() -> None:
     progress = UserProgress()
 
-    progress.record_answer("vzor/Aerodynamika/1", "b", True)
-    progress.record_answer("vzor/Aerodynamika/1", "a", False)
+    progress.record_answer("aerodynamika/1", "b", True)
+    progress.record_answer("aerodynamika/1", "a", False)
 
-    entry = progress.entries["vzor/Aerodynamika/1"]
+    entry = progress.entries["aerodynamika/1"]
     assert entry.answered is True
     assert entry.correct is False
     assert entry.attempts == 2
@@ -99,32 +102,32 @@ def test_user_progress_record_answer() -> None:
 def test_user_progress_toggle_flag() -> None:
     progress = UserProgress()
 
-    progress.toggle_flag("vzor/Aerodynamika/1")
-    assert progress.entries["vzor/Aerodynamika/1"].flagged is True
+    progress.toggle_flag("aerodynamika/1")
+    assert progress.entries["aerodynamika/1"].flagged is True
 
-    progress.toggle_flag("vzor/Aerodynamika/1")
-    assert progress.entries["vzor/Aerodynamika/1"].flagged is False
+    progress.toggle_flag("aerodynamika/1")
+    assert progress.entries["aerodynamika/1"].flagged is False
 
 
 def test_user_progress_get_category_stats(populated_user_progress: UserProgress) -> None:
     questions = [
         Question(
-            id="vzor/Aerodynamika/1",
-            category="Aerodynamika",
+            id="aerodynamika/1",
+            category="aerodynamika",
             number=1,
             text="Q1",
             options={"a": "A", "b": "B"},
         ),
         Question(
-            id="vzor/Aerodynamika/2",
-            category="Aerodynamika",
+            id="aerodynamika/2",
+            category="aerodynamika",
             number=2,
             text="Q2",
             options={"a": "A", "b": "B"},
         ),
         Question(
-            id="vzor/Aerodynamika/3",
-            category="Aerodynamika",
+            id="aerodynamika/3",
+            category="aerodynamika",
             number=3,
             text="Q3",
             options={"a": "A", "b": "B"},
@@ -143,15 +146,15 @@ def test_user_progress_get_category_stats(populated_user_progress: UserProgress)
 def test_user_progress_get_wrong_ids(populated_user_progress: UserProgress) -> None:
     questions = [
         Question(
-            id="vzor/Aerodynamika/1",
-            category="Aerodynamika",
+            id="aerodynamika/1",
+            category="aerodynamika",
             number=1,
             text="Q1",
             options={"a": "A", "b": "B"},
         ),
         Question(
-            id="vzor/Aerodynamika/2",
-            category="Aerodynamika",
+            id="aerodynamika/2",
+            category="aerodynamika",
             number=2,
             text="Q2",
             options={"a": "A", "b": "B"},
@@ -159,28 +162,28 @@ def test_user_progress_get_wrong_ids(populated_user_progress: UserProgress) -> N
     ]
 
     wrong_ids = populated_user_progress.get_wrong_ids(questions)
-    assert wrong_ids == ["vzor/Aerodynamika/2"]
+    assert wrong_ids == ["aerodynamika/2"]
 
 
 def test_user_progress_get_flagged_ids(populated_user_progress: UserProgress) -> None:
     questions = [
         Question(
-            id="vzor/Aerodynamika/1",
-            category="Aerodynamika",
+            id="aerodynamika/1",
+            category="aerodynamika",
             number=1,
             text="Q1",
             options={"a": "A", "b": "B"},
         ),
         Question(
-            id="vzor/Aerodynamika/2",
-            category="Aerodynamika",
+            id="aerodynamika/2",
+            category="aerodynamika",
             number=2,
             text="Q2",
             options={"a": "A", "b": "B"},
         ),
         Question(
-            id="vzor/Meteorologie/1",
-            category="Meteorologie",
+            id="meteorologie/1",
+            category="meteorologie",
             number=1,
             text="Q3",
             options={"a": "A", "b": "B"},
@@ -188,7 +191,7 @@ def test_user_progress_get_flagged_ids(populated_user_progress: UserProgress) ->
     ]
 
     flagged_ids = populated_user_progress.get_flagged_ids(questions)
-    assert flagged_ids == ["vzor/Aerodynamika/2", "vzor/Meteorologie/1"]
+    assert flagged_ids == ["aerodynamika/2", "meteorologie/1"]
 
 
 def test_quiz_mode_enum_values() -> None:

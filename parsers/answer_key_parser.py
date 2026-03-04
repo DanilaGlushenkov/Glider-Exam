@@ -77,3 +77,30 @@ def parse_answer_keys(answer_file_path: str | Path) -> dict[str, str]:
         answer_map[question_id] = normalized_answers
 
     return answer_map
+
+
+def load_json_answer_keys(json_path: str | Path) -> dict[str, str]:
+    """Load unified answer keys from a JSON file.
+
+    Returns a mapping of ``{question_id: answer_letters}``.
+    Falls back to an empty dict if the file is missing or malformed.
+    """
+    import json
+    import logging
+
+    logger = logging.getLogger(__name__)
+    path = Path(json_path)
+
+    if not path.exists():
+        logger.warning("Answer key file not found: %s", path)
+        return {}
+
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if not isinstance(data, dict):
+            logger.warning("Answer key file is not a JSON object: %s", path)
+            return {}
+        return {str(k): str(v) for k, v in data.items()}
+    except (json.JSONDecodeError, OSError) as exc:
+        logger.error("Failed to load answer keys from %s: %s", path, exc)
+        return {}

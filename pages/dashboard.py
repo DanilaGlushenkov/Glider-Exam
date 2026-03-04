@@ -4,6 +4,18 @@ from models import QuestionBank, QuizMode, UserProgress
 from utils import _get_session_dependencies
 
 CATEGORY_DISPLAY_NAMES = {
+    # Unified categories (new format)
+    "aerodynamika": "Aerodynamika a mechanika letu",
+    "zaklady-letu": "Základy letu",
+    "letadla": "Všeobecné znalosti letadel",
+    "letove-vykony": "Letové výkony a plánování",
+    "meteorologie": "Meteorologie",
+    "navigace": "Navigace",
+    "predpisy": "Letecké předpisy",
+    "provozni-postupy": "Provozní postupy",
+    "lidska-vykonnost": "Lidská výkonnost",
+    "komunikace": "Komunikace a spojovací předpisy",
+    # Legacy categories (backward compat)
     "Aerodynamika": "Aerodynamika",
     "Letadla": "Všeobecné znalosti letadel",
     "Meteorologie": "Meteorologie",

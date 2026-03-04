@@ -23,6 +23,11 @@ def sample_vzor_path(fixture_dir: Path) -> Path:
 
 
 @pytest.fixture
+def sample_answer_keys_path(fixture_dir: Path) -> Path:
+    return fixture_dir / "sample_answer_keys.json"
+
+
+@pytest.fixture
 def tmp_progress_path(tmp_path: Path) -> Path:
     return tmp_path / "progress.json"
 
@@ -31,21 +36,21 @@ def tmp_progress_path(tmp_path: Path) -> Path:
 def populated_user_progress() -> UserProgress:
     return UserProgress(
         entries={
-            "vzor/Aerodynamika/1": ProgressEntry(
+            "aerodynamika/1": ProgressEntry(
                 answered=True,
                 correct=True,
                 attempts=1,
                 last_answer="b",
                 flagged=False,
             ),
-            "vzor/Aerodynamika/2": ProgressEntry(
+            "aerodynamika/2": ProgressEntry(
                 answered=True,
                 correct=False,
                 attempts=2,
                 last_answer="c",
                 flagged=True,
             ),
-            "vzor/Meteorologie/1": ProgressEntry(
+            "meteorologie/1": ProgressEntry(
                 answered=False,
                 correct=False,
                 attempts=0,
