@@ -1,0 +1,44 @@
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ----- IDE / Editor -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ----- OS -----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ----- Testing / Coverage -----
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ----- Streamlit -----
+.streamlit/secrets.toml
+
+# ----- Project-specific -----
+# OCR extracted text files (regenerable from Source/)
+extracted_*.txt
+
+# Progress / state files
+progress.json
