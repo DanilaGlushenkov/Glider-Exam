@@ -1,0 +1,2852 @@
+ 
+KOMUNIKACE 
+1. 
+Vyberte správný Q-kód pro tlak, indikující nadmořskou výšku, přepočtený na střední 
+hladinu moře: 
+a) QNH 
+b) QDM 
+c) QFE 
+2. 
+Vyberte správný Q-kód pro tlak indikující výšku nad úrovní letiště: 
+a) QNH 
+b) QFF 
+c) QFE 
+3. 
+Slovo čekejte znamená: 
+a) čekejte, zavolám Vás  
+b) čekejte a zavolejte později 
+4. 
+Fráze jak slyšíte znamená: 
+a) jaká je čitelnost mého vysílání  
+b) rozuměl jste mi správně 
+5. 
+Slovo schváleno znamená: 
+a) oprávněn pokračovat za určitých podmínek 
+b) povolení pro požadovaný úkon je schváleno  
+6. 
+Letadlová stanice může přejít na jiný kmitočet: 
+a) podle vlastního uvážení 
+b) po oznámení svého úmyslu letecké stanici  
+7. 
+Ve volací značce letecké stanice pro lety VFR je název: 
+a) INFORMACE  
+b) APPROACH 
+c) TOWER 
+8. 
+Radiové spojení může být ukončeno: 
+a) na pokyn letecké stanice  
+b) podle uvážení letadlové stanice 
+9. 
+Fráze vysílám naslepo se použije: 
+a) při neznalosti frekvence volané stanice 
+b) při neúspěšném navázání spojení  
+c) na pokyn letecké stanice  
+10. Musí se jména, zkratky a slova, jejichž výslovnost může vyvolat pochybnost 
+v radiotelefonii hláskovat? 
+a) ano  
+ 
+b) ne 
+ 
+ 
+
+ 
+11. Číslo 47 se slovy vysílá 
+a) čtyry sedm  
+b) čtyrycet sedm 
+12. Čas 18 hodin 43 minuty se vysílá 
+a) čtyřicet tři 
+b) jedna osm čtyry tři nebo čtyry tři  
+c) osumnáct čtyrycet tři 
+13. Poznávací značka civilního letadla je složena ze: 
+• značky státní příslušnosti, 
+• rejstříkové značky. 
+a) ano  
+ 
+b) ne 
+14. Zkrácenou volací značku letadla lze použít 
+a) podle vlastního uvážení 
+b) až po zkrácení leteckou stanicí  
+15. Zkušební vysílání obsahuje: 
+• volací značku volané stanice, 
+• volací značku letadla, 
+• frázi „zkouška radia“, 
+• používaný kmitočet. 
+a) ano  
+b) ne 
+16. Čitelnost zkušebního vysílání se udává: 
+a) pěti stupni  
+b) třemi stupni 
+c) čtyřmi stupni 
+17. Zkušební vysílání obsahuje: 
+• volací značku volané stanice 
+• volací značku letadla 
+• frázi „zkouška vysílání“ 
+• používaný kmitočet. 
+a) ano 
+b) ne  
+18. Při uložení ticha se použije fráze 
+a) zastavte vysílání 
+b) MAY DAY 
+c) zastavte vysílání - MAY DAY 3x  
+19. Zpráva rušící tísňový provoz a uloženého ticha obsahuje frázi 
+a) období ticha ukončeno 
+b) tísňový provoz ukončen  
+c) MAY DAY ukončeno 
+
+ 
+20. PAN PAN MEDICAL je radiotelefonní signál zprávy 
+a) pilnostní  
+b) tísňové 
+c) pro zajištění bezpečnosti letu 
+21. Vysílání pokusných signálů nesmí trvat déle než 
+a) 10 sekund 
+b) 5 sekund 
+22. Vyberte správný Q-kód pro „přistání zakázáno“ 
+a) QGO 
+b) QGN 
+c) QGL 
+23. Slovo „konec“ znamená 
+a) moje vysílání skončilo, očekávám Vaší odpověď 
+b) rozhovor je ukončen a neočekává se odpověď  
+24. Slovo „potvrďte“ znamená 
+a) potvrďte mi, že jste zprávu přijal a rozuměl jí 
+b) ověřte a odsouhlaste zprávu 
+25. Slovo „věž“ znamená 
+a) stanoviště letištní řídící věže 
+b) letové informační středisko 
+26. Slovo „správně“ znamená 
+a) to je správné 
+b) povolení pro požadovaný úkon je schváleno 
+27. Stanice letecké pohyblivé služby používají 
+a) středoevropský čas 
+b) greenwichský čas 
+c) světový koordinovaný čas  
+28. V případě, že bylo navázáno uspokojivé spojení, služba (stanoviště) se  
+a) nemůže vynechat 
+b) může vynechat 
+29. Ve volací značce letecké stanice letištního stanoviště je název 
+a) CONTROL 
+b) APPROACH 
+c) VĚŽ 
+30. UTC je zkratka 
+a) greenwichského času 
+b) světového koordinovaného času 
+c) středoevropského času 
+ 
+
+ 
+31. Volací značka letecké stanice je tvořena 
+a) zeměpisným názvem její polohy a službou (stanovištěm), která je k dispozici 
+b) pouze zeměpisným názvem 
+32. Rychlost hovoru při RTF spojení nemá převyšovat 
+a) 50 slov za minutu 
+b) 80 slov za minutu 
+c) 100 slov za minutu  
+33. Číslo 383 se slovy vysílá 
+a) třista osm tři 
+b) tři osm tři 
+34. Čas 02 hodin 40 minut se vysílá 
+a) nula dva čtyrycet 
+b) čtyry nula nebo nula dva čtyry nula 
+c) čtyrycet 
+35. Číslo 4000 se slovy vysílá 
+a) čtyry tisíce 
+b) čtyry nula nula nula 
+36. Volací značku letadla lze tvořit 
+• volací značkou odpovídající poznávací značce letadla, nebo 
+• radiotelefonním označením provozovatele letadla, za kterým následují poslední čtyři 
+znaky poznávací značky letadla, nebo 
+• radiotelefonním označením provozovatele letadla za kterým následuje označení letu 
+a) ano  
+b) ne 
+37. Je zkrácení následující radiotelefonické volací značky letadla OK-ALR na OLR správné? 
+a) ano  
+b) ne 
+38. Při navazování spojení lze použít 
+a) zkrácenou volací značku 
+b) pouze nezkrácenou volací značku  
+39. Musí zkušební vysílání obsahovat frázi „zkouška radia“? 
+a) ano  
+b) ne 
+40. Při zkušebním vysílání fráze „chvílemi nečitelné“ označuje stupeň čitelnosti 
+a) 4 
+b) 1 
+c) 2  
+ 
+ 
+ 
+
+ 
+41. Fráze „vysílám naslepo“ se použije 
+a) při neznalosti frekvence volané stanice 
+b) při neúspěšném navázání spojení  
+c) na pokyn letecké stanice 
+42. Právo uložit ticho má 
+a) pouze stanice řídící 
+b) kterákoliv jiná stanice 
+c) stanice v tísni a stanice řídící  
+43. Slovo přejděte znamená 
+a) navažte radiové spojení s ....  
+b) volejte znovu na pracovním kmitočtu 
+44. Slovo žádám znamená 
+a) žádám objasnění 
+b) rád bych věděl nebo přeji si obdržet  
+45. Slovo rozumím znamená 
+a) ano  
+b) přijal jsem vše z Vašeho posledního vysílání  
+46. Slovo opakujte znamená 
+a) opakujte vše přesně tak, jak jste přijal 
+b) opakujte vše nebo následující část Vašeho posledního vysílání  
+47. Ve volací značce letecké stanice řízení pohybu na zemi je název 
+a) APRON 
+b) GROUND  
+c) RADIO 
+48. Vysílání pokusných signálů nesmí trvat déle než 
+a) 10 sekund  
+b) 5 sekund 
+49. Letadlová stanice udržuje radiové spojení s řídící stanicí letadlo – země 
+a) na požádání 
+b) vždy, je-li to možné  
+c) podle vlastního uvážení 
+50. Pro vysílání pokusných signálů je třeba získat souhlas před zahájením takového vysílání 
+a) ano  
+b) ne 
+51. Letadlová stanice přechází z jednoho kmitočtu na jiný 
+a) na příkaz letecké stanice  
+b) dle vlastního uvážení 
+ 
+ 
+
+ 
+52. Číslo 18 900 se slovy vysílá 
+a) jedna osm devět nula nula 
+b) jedna osm tisíc devět set  
+c) osmnáct tisíc devět set 
+53. Číslo (ne frekvence) 100,125 se slovy vysílá 
+a) jedno sto čárka jedna dva pět 
+b) sto čárka stodvacet pět 
+c) jedna nula nula čárka jedna dva pět  
+54. Číslo 20 se slovy vysílá 
+a) dva nula  
+b)  dvacet 
+55. Frekvence 118,725 se slovy vysílá 
+a) jedna jedna osm čárka sedum dva pět 
+b) jedna jedna osm čárka sedum dva  
+c) sto osmnáct čárka sedum set dvacet pět 
+56. Je zkrácení následující radiotelefonické volací značky letadla OK-ALR na ALR správné? 
+a) ano 
+b) ne  
+57. Při zkušebním vysílání dokonalá čitelnost je uváděna stupněm 
+a) 1 
+b) 4 
+c) 5 
+58. Při zkušebním vysílání stupeň 4 označuje, že zpráva je 
+a) čitelná  
+b) čitelná, ale s obtížemi 
+c) dokonale čitelná 
+59. Je složení pilnostní zprávy správné? 
+• pilnostní signál „PAN PAN“ 3x 
+• název stanice, které je zpráva adresována 
+• označení letadla 
+• povaha pilnostního stavu 
+• úmysl velitele letadla 
+• poloha, hladina, kurs 
+a) ano  
+b) ne 
+60. MAY DAY je radiotelefonní signál zprávy 
+a) pilnostní 
+b) tísňové  
+c) pro zajištění bezpečnosti letu 
+ 
+
+
+
+=== Pilotky - SPL.odt ===
+LETECKÝ ZÁKON A POSTUPY ATZ
+  
+1. Všeobecný výraz používaný k vyjádření vertikální polohy letadla znamenající buď výšku,  nadmořskou výšku nebo letovou hladinu je: 
+a) hladina  
+b) letová hladina 
+c) hladina letu 
+2. Letištní provozní zóna (ATZ) je vymezena horizontální kružnicí (nebo její částí) o poloměru:
+a) 1,8 NM 
+b) 2 NM 
+c) 3 NM  
+3. Letištní provozní zóna (ATZ) je vymezena vertikálně zemským povrchem a nadmořskou  výškou: 
+a) 3 000 ft 
+b) 4 000 ft  
+c) 5 000 ft 
+4. Přibližují-li se dvě letadla čelně nebo přibližně čelně a existuje-li nebezpečí srážky, každé  letadlo se musí vyhnout změnou kurzu: 
+a) doprava  
+b) doleva 
+c) druhé letadlo do opačného směru než provedlo změnu první letadlo 
+5. Ve třídě E vzdušného prostoru nad 900 m AMSL nebo 300 m nad terénem je minimální  vzdálenost od oblaků horizontálně: 
+a) 800 m  
+b) 1000 m 
+c) 1500 m  
+6. Let VFR nad oblačností může být proveden není-li celkové pokrytí oblačnosti pod letadlem:
+a) větší než 4/8 a je možno jej provádět podle srovnávací navigace  
+b) větší než 5/8 a je možno jej provádět podle srovnávací navigace 
+c) takové, aby bránilo srovnávací navigaci  
+7. Čtyři oranžové obdélníkové plochy sestavené do tvaru kříže s prázdným  čtvercem uprostřed znamenají že: 
+a) letiště není schopné 
+Obsah obrázku symbol, čtverec, žlutá, pixel
+
+Obsah generovaný pomocí AI může být nesprávný.
+b) v místě vytyčení je neschopná RWY  
+c) na letišti se provádějí výsadky  
+8. Veškerý provoz na provozní ploše letiště a všechna letadla letící v blízkosti letiště  nazýváme: 
+a) smíšený provoz 
+b) letištní provoz  
+c) letový provoz
+9. Průmět dráhy letadla na povrch země, jehož směr se v kterémkoli bodě obvykle vyjadřuje  ve stupních měřených od severu se nazývá: 
+a) kurz 
+b) směr 
+c) trať  
+10. Ve vzdušném prostoru G je požadavek na spojení: 
+a) nevyžaduje se  
+b) musí být stálé obousměrné 
+c) vyžaduje se nad 150 m.n.t 
+11. Ukazatel směru větru na letišti musí být jasně viditelný a nezaměnitelný s pozadím z výšky  nejméně: 
+a) 200 m 
+b) 300 m  
+c) 500 m 
+12. Výška letiště nad mořem je: 
+a) výška nad mořem nejvyššího bodu přistávací plochy  
+b) výška nad mořem nejnižšího bodu přistávací plochy  
+c) průměrná výška přistávací dráhy nad mořem 
+13. Hladina dodržovaná letadlem během značné části letu se nazývá: 
+a) hladina 
+b) standardní hladina 
+c) cestovní hladina  
+14. Altitude je: 
+a) výška letu letadla nad úrovní letiště 
+b) výška letu nad zemí 
+c) výška letu měřená od střední hladiny moře  
+15. S výjimkou kdy je to nezbytné pro vzlet nebo přistání nebo pokud to povolí příslušný úřad,  let VFR nesmí být prováděn nad hustě zastavěnými místy nebo nad shromážděními osob  na volném prostranství ve výšce nižší než: 
+a) 100 m nad nejvyšší překážkou v okruhu 600 m od letadla 
+b) 300 m nad nejvyšší překážkou v okruhu 600 m od letadla  
+c) 300 m nad nejvyšší překážkou v okruhu 500 m od letadla 
+16. Smysl kroužení více kluzáků ve stoupavém proudu: 
+a) určuje pilot kluzáku, který začal kroužit jako první  
+b) je určena podle nejvyššího kluzáku 
+c) se řídí kluzákem který stoupá nejrychleji 
+17. Ověřovat, zda je osvědčení o letové způsobilosti platné je povinností:
+a) provozovatele 
+b) vedoucího letového provozu 
+c) velitele letadla 
+18. Část letiště určená pro vzlety, přistání a pojíždění letadel, sestávající z provozní plochy a  odbavovací plochy (ploch) se nazývá: 
+a) pohybová plocha  
+b) provozní plocha 
+c) letištní plocha 
+19. Letadlo, které přilétává na neřízené letiště nebo z něho odlétává, je povinno dodržet  publikované parametry letištního okruhu, pokud informace přijatá ze stanoviště AFIS  nestanoví jinak. V případě, že parametry letištního okruhu nejsou známy, letadlo musí  provádět všechny zatáčky při přiblížení na přistání nebo po vzletu: 
+a) doprava 
+b) doleva nebo doprava dle skutečné provozní situace na letišti a na jeho okruhu
+c) doleva  
+20. Letová dohlednost je: 
+a) dohlednost dopředu z kabiny letadla  
+b) dohlednost z letadla za letu nad výšku 700 m QNH 
+c) největší vzdálenost, na kterou je možno spolehlivě rozeznat na neosvětleném  pozadí světla o svítivosti přibližně 1 000 cd. 
+21. Doba mezi koncem občanského soumraku a začátkem občanského svítání nebo jiný  podobný časový úsek mezi západem a východem slunce, který může stanovit příslušný  úřad je: 
+a) noc  
+b) nautický soumrak 
+c) soumrak 
+22. Letadlo, které přilétává do ATZ mimo provozní dobu letiště, nastavuje výškoměr na: a) QNH nastavené na počátku prováděného letu  
+b) na regionální QFE 
+c) oblastní QNH 
+23. Letištní provozní zóna (ATZ) je vymezena:  
+a) horizontální kružnicí (nebo její částí) o poloměru 3 NM (5,5 km) od vztažného bodu  letiště a vertikálně zemským povrchem a nadmořskou výškou 4000 ft (1200 m) nad  vztažným bodem letiště.  
+b) horizontální kružnicí (nebo její částí) o poloměru 2 NM (5 km) od vztažného bodu  letiště a vertikálně zemským povrchem a nadmořskou výškou 3000 ft (900 m) nad  vztažným bodem letiště 
+c) horizontální kružnicí (nebo její částí) o poloměru 3 NM (5,5 km) od středu letiště a  vertikálně zemským povrchem a nadmořskou výškou 4000 ft (1200 m) nad středem  letiště.  
+24. Předlétávající je to letadlo, které se k druhému přibližuje zezadu po trati, svírající  s podélnou osou druhého letadla úhel menší než: 
+a) 70°  
+b) 60° 
+c) 80°
+25. Vymezená pravoúhlá plocha ne zemi nebo na vodě pod dohledem příslušné služby řízení  letového provozu, vybraná nebo upravená jako použitelná plocha, nad níž může letadlo  provést část svého počátečního stoupání do předepsané výšky je:  
+a) pohybová plocha 
+b) rozletová plocha 
+c) předpolí  
+26. Za vedení Palubního deníku je odpovědný: 
+a) provozovatel letadla  
+b) velitel letadla 
+c) velitel letadla. který může pověřit jinou osobu, avšak toto ho nezbavuje  zodpovědnosti za úplnost uvedených údajů 
+27. Let VFR nad oblačností může být proveden není-li celkové pokrytí oblačnosti pod letadlem:
+a) větší než 4/8 a je možno jej provádět podle srovnávací navigace  
+b) větší než 5/8 a je možno jej provádět podle srovnávací navigace 
+c) takové, aby bránilo srovnávací navigaci 
+28. Letecký rejstřík je: 
+a) veřejně přístupný seznam  
+b) seznam pro potřeby ÚCL a MDS 
+c) seznam, do kterého mohou nahlížet ÚCL, MDS, evidovaný letecký personál, letečtí  provozovatelé 
+29. Vztažný bod letiště: 
+a) je stanoven na letištích s řízeným provozem 
+b) musí být stanoven pro všechna veřejná letiště 
+c) musí být stanoven pro každé letiště  
+30. S výjimkou, kdy je to nezbytné pro vzlet nebo přistání nebo pokud tak povolí příslušný úřad (MDS) let VFR nesmí být prováděn: 
+a) ve výšce ne nižší než 300 m nad zemí nebo vodou 
+b) ve výšce ne nižší než 150 m nad zemí nebo vodou  
+c) ve výšce ne nižší než 100 m nad zemí nebo vodou 
+31. Pokud fyzická osoba vykonává činnost leteckého personálu bez platného průkazu  způsobilosti může jí být uložena pokuta až do výše: 
+a) 50 000 Kč 
+b) 100 000 Kč  
+c) 150 000 Kč  
+32. Tabulka východů a západů slunce je uvedena v AIP části: 
+a) ENR 
+b) AD 
+c) GEN
+33. Dvojitý bílý kříž, umístěný horizontálně v návěstní ploše znamená, že:
+a) na letišti se provádějí výsadky 
+b) na letišti je kombinovaný provoz  
+c) na letišti je provoz kluzáků 
+34. Pokud není schváleno příslušným úřadem (ÚCL) jinak, lety VFR se nesmí provádět:
+a) nad 3050 m 
+b) nad FL 200  
+c) nad FL 150 
+35. Celková vypočítaná doba letu pro lety podle VFR je vypočítaná doba:
+a) od vzletu do přistání 
+b) od vzletu do příletu nad letiště určení.  
+c) od odletu z VBT do příletu nad letiště určení 
+36. Letištní provozní zóna (ATZ) má tyto rozměry: 
+a) kružnice 3 NM / nadmořská výška 5000ft 
+b) kružnice 3NM / nadmořská výška 4000ft.  
+c) kružnice 5,5 NM / nadmořská výška 4 000 ft 
+37. Letové povolení je oprávnění vydané: 
+a) veliteli letadla  
+b) provozovateli letadla 
+c) majiteli letadla 
+38. Pojezdová dráha je vymezený pás na pozemním letišti, zřízený pro pojíždění letadel a  určený pro spojení jedné části letiště s druhou, zahrnující: 
+a) pojezdový pruh  
+b) pojezdový pruh, pojezdovou dráhu na odbavovací ploše  
+c) pojezdový pruh, pojezdovou dráhu na odbavovací ploše, pojezdovou dráhu pro  rychlé odbočení  
+39. Zvláštní let VFR se smí provádět: 
+a) v řízeném nebo neřízeném okrsku, vně oblaků za stálé viditelnosti země při  minimální letové dohlednosti 1500m 
+b) pouze v řízeném okrsku, vně oblaků minimálně 100 m. nad zemí při minimální  letové dohlednosti 1500m 
+c) pouze v řízeném okrsku, vně oblaků za stálé viditelnosti země při minimální letové  dohlednosti 1500m. 
+40. Fráze používaná zakročujícím letadlem YOU LAND znamená: 
+a) následujte mě 
+b) klesejte na přistání. 
+c) přistaňte na tomto letišti  
+41. Horizontálně vyložena v signální ploše nebo na konci dráhy a nebo na pásu  v používaní, doprava lomená šipka nápadné barvy znamená že: 
+a) zatáčky po vzletu se mají provádět doprava  
+b) zatáčky před přistáním nebo po vzletu se mají provádět doprava  
+c) zatáčky před přistáním nebo po vzletu se mohou provádět i doprava 
+42. Za bezpečné provedení letu odpovídá: 
+a) Vlastník letadla 
+b) Provozovatel letadla 
+c) Velitel letadla 
+43. Letová dohlednost ve vzdušném prostoru třídy C ve výšce nad 3050 m AMSL je:
+a) 5 km  
+b) 8 km  
+c) 3 km 
+44. Vymezená pravoúhlá plocha na zemi nebo na vodě pod dohledem příslušné služby řízení  letového provozu, vybraná nebo upravená jako použitelná plocha, nad níž může letadlo  provést část svého počátečního stoupání do předepsané výšky je: 
+a) předpolí  
+b) TORA 
+c) vzletový sektor 
+45. Občanský soumrak končí večer, když střed slunečního disku: 
+a) je 6 stupňů pod horizontem   
+b) je 6 stupňů nad horizontem 
+c) prochází horizontem 
+46. Spodní hranici řízeného okrsku tvoří: 
+a) povrch země  
+b) horní hranice třídy G 
+c) stanovená výška nad mořem. 
+47. Doba letu je: 
+a) celková doba od okamžiku, kdy se letadlo začalo pohybovat vlastní silou za účelem  vzletu do okamžiku, kdy se zastavilo po skončení letu  
+b) celková doba od okamžiku, kdy letadlo vzlétlo do okamžiku, kdy se zastavilo po  skončení letu  
+c) doba od zahájení pojíždění do příletu nad letiště  
+48. Příručka, vydaná státem nebo pověřenou organizací, obsahující letecké informace trvalého  charakteru důležité pro letectví je: 
+a) NOTAM 
+b) AIP  
+c) DATABÁZE LETIŠŤ 
+49. Údaj QNH se vztahuje k: 
+a) střední hladině moře  
+b) vztažnému bodu letiště 
+c) prahu hlavní RWY 
+50. V údobí nouze může letadlo nastavit odpovídač na kód: 
+a) 2000 
+b) 7700  
+c) 7600 
+51. Vztažný bod letiště je bod určující: 
+a) geometrický střed hlavní RWY 
+b) zeměpisnou polohu letiště  
+c) místo nejvyšší nadmořské výšky RWY
+52. Potvrzení o údržbě musí být na palubě: 
+a) při každém letu  
+b) pouze při letech mimo letištní okruh 
+c) pouze při letech do zahraničí.  
+53. Leteckým personálem jsou : 
+a) výkonní letci, personál ŘLP, pozemní letecký personál:
+b) výkonní letci, obsluhující personál, pozemní letecký personál  
+c) výkonní letci, obsluhující personál, personál ŘLP
+LIDSKÁ VÝKONNOST
+1. Atmosférický vzduch obsahuje přibližně 78%:
+a) dusíku.
+b) kyslíku
+c) vzácných plynů.
+2. Zraková ostrost je schopnost oka:
+a) určit vzdálenost daného bodu.
+b) rozlišit blízko sebe umístněné předměty.
+c) určit barvu daného předmětu.
+3. Pilot před letem smí požít alkohol v množství:
+a) ne, alkohol požít nesmí.
+b) maximálně 2x 0,5l piva nebo 0.05 cl destilátu.
+c) do 0,3 promile hladiny alkoholu v krvi.
+4. Jednotka pro měření tlaku krve je:
+a) Pa.
+b) hPa.
+c) mm Hg
+5. Pilot před letem nemá omezeno:
+a) kouření cigaret.
+b) požití povoleného množství alkoholu.
+c) užití lehkých drog.
+6. Stavová rovnice ideálního plynu stálé hmotnosti je:
+a) p xV x T=konst.
+b) p x V/T=konst.
+c) p/V x T=konst.
+7. Při konstantní teplotě je objem daného množství plynu:
+a) přímo úměrný tlaku.
+b) nepřímo úměrný tlaku
+c) konstantní.
+8. Oko se nejrychleji adaptuje při přechodu:
+a) ze světla do tmy.
+b) ze šera do tmy.
+c) z tmy do světla.
+9. Dýcháním se z lidského organismu odvádí do vnějšího prostředí:
+a) čistý kyslík.
+b) oxid uhličitý.
+c) oxid uhelný.
+10. Oběhový systém lidského organismu tvoří:
+a) horní dýchací cesty a žilní systém.
+b) srdce a cévní systém.
+c) dolní dýchací cesty a žilní systém.
+11. Člověk získává kyslík:
+a) z vody.
+b) z vodíku.
+c) ze vzduchu.
+12. Tlak vzduchu se stoupající nadmořskou výškou:
+a) stoupá.
+b) exponenciálně stoupá.
+c) exponenciálně klesá.
+13. Který ze smyslů je při hypoxii nejvíc postižen:
+a) zrak.
+b) chuť.
+c) hmat.
+14. Při hypoxii vnímá člověk bílou barvu jako:
+a) červenou.
+b) hnědozelenou.
+c) šedožlutou.
+15. Který z těchto faktorů, když dlouhodobě působí na člověka, může vést až k onemocnění:
+a) odpovědnost.
+b) stres.
+c) zátěž.
+16. Práh sluchu:
+a) je nejnižší intenzita záření, kterou dokážeme vnímat.
+b) je nejnižší intenzita zvuku, kterou dokážeme vnímat.
+c) je hodnota tlaku, při které dochází k přeslechu.
+17. K uchování informace v dlouhodobé paměti slouží:
+a) opakování.
+b) myšlení.
+c) soustředění.
+18. Při letech nad 3000 m dochází v lidském organismu k hypobarii, co způsobuje problémy při používání:
+a) kyslíkového přístroje.
+b) brýlí.
+c) kontaktních čoček.
+19. Doba užitečného vědomí ve výšce 5000 m je průměrně:
+a) 5 minut.
+b) 30 minut.
+c) 90 minut.
+20. Hyperventilaci se dá zabránit:
+a) zrychlením dýchání.
+b) zpomalením dýchání, případně krátkým zadržením dechu.
+c) použitím teplejšího oblečení.
+21. Krev se z horní poloviny těla pilota přesouvá do dolní poloviny:
+a) při podélném kladném přetížení.
+b) při podélném záporném přetížení.
+c) hypoxii.
+22. Atmosférický vzduch obsahuje přibližně 21%:
+a) dusíku.
+b) kyslíku
+c) vzácných plynů.
+23. Vlnovou délkou záření se určuje:
+a) barevný tón.
+b) barevný jas.
+c) sytost barvy.
+24. Sytost dané barvy je dána:
+a) mohutností světelného zdroje.
+b) vlnovou délkou světla.
+c) obsahem bílé barvy.
+25. Vada zraku, při které člověk nevidí ostrý obraz vzdálených předmětů se nazývá:
+a) dalekozrakost.
+b) krátkozrakost.
+c) barvoslepost.
+26. Při létání s rýmou můžete mít problémy především s/se:
+a) ztrátou nočního vidění
+b) zvýšení srdeční činnosti
+c) bolestí kolem čela
+27. Modrou barvu vidíme lépe než červenou:
+a) při námraze.
+b) ve dne.
+c) za šera.
+28. Při konstantním tlaku je objem daného množství plynu:
+a) konstantní.
+b) přímo úměrný teplotě.
+c) nepřímo úměrný teplotě.
+29. Závažné změny zrakových funkcí se začínají výrazně projevovat ve výšce:
+a) 4000 ft.
+b) 5000 ft.
+c) 4000 m.
+30. Tři základní části oka jsou:
+a) Zrakový nerv, sítnice, slepé místo na sítnici
+b) Rohovka, čočka, sklivec
+c) Oční bělmo, čočka, sítnice
+31. Letová iluze při přistání na sníh nebo na vodní hladinu způsobuje:
+a) že odhad výšky letadla nad povrchem je větší, než ve skutečnosti je.
+b) že odhad výšky letadla nad povrchem je menší, než ve skutečnosti je.
+c) pocit odtržení.
+32. Při letové iluzi nazývané "autokineze":
+a) pilot začíná mít zdravotní problémy (např. ztrátu vědomí) při pohledu na Slunce
+přes pohybující se vrtuli.
+b) považuje v noci pozemní světla za hvězdy.
+c) pilot při tmavém pozadí vnímá nepatrný pohyb svého oka jako pohyb sledovaného
+předmětu.
+33. Který ze smyslů je při hypoxii nejvíc postižen:
+a) zrak.
+b) chuť.
+c) hmat.
+34. Rovnovážný orgán ucha tvoří:
+a) tři na sebe kolmé polokruhové kanálky.
+b) nosohltan a Eustachova trubice.
+c) nosohltan se zvukovodem.
+35. Bubínek je v uchu umístěn:
+a) za kovadlinkou.
+b) před kladívkem.
+c) za hlemýžděm.
+36. Při hypoxii dochází v lidském organismu:
+a) k poklesu tlaku kyslíku v krvi.
+b) ke zvýšení tlaku kyslíku v krvi.
+c) ke zvýšení tlaku oxidu uhličitého v krvi
+37. Hluk se měří v:
+a) Hz.
+b) dB.
+c) Hg.
+38. Mezi zdroje leteckého hluku nepatří:
+a) radiokorespondence.
+b) pracující letecký motor.
+c) osvětlení prahu dráhy.
+39. Nepřesnou interpretaci vyslechnuté zprávy nazýváme:
+a) přeslech.
+b) hluk.
+c) šum
+40. Nejčastějším příznakem kinetózy je:
+a) ztráta barvocitu.
+b) dráždění žaludku.
+c) kýchání.
+41. Valsalvův manévr slouží:
+a) k uvolnění dýchacích cest při zalknutí.
+b) k zavedení přívodu kyslíku při bezvědomí.
+c) k odstranění zalehnutí v uších.
+42. Optimální délka spánku u dospělého člověka je:
+a) 5 - 6 hodin.
+b) 7 - 8 hodin.
+c) 9 - 10 hodin.
+43. Oxidu uhličitého je v atmosférickém vzduchu přibližně:
+a) 30%.
+b) 3%.
+c) 0,03 %.
+44. Smí pilot před letem užít léky?
+a) Ano, kromě léků způsobujících útlum centrální nervové soustavy.
+b) Ne, pouze příslušně schválená léčiva.
+c) Ne, léky užívat nesmí.
+45. Tlak vzduchu na úrovni hladiny moře podle definice standardní atmosféry ICAO je:
+a) 760 mmHg.
+b) 760 Pa.
+c) 760 kPa.
+46. Mezi opiáty nepatří:
+a) kokain.
+b) kofein.
+c) heroin.
+47. Alkohol v lidském organizmu způsobuje:
+a) desynchronizaci.
+b) dehydrataci.
+c) dysrytmii.
+48. Člověk k poznávání svého okolí využívá:
+a) vnímání.
+b) představivost.
+c) paměť.
+49. Přímým výsledkem procesu vnímání není:
+a) počitek.
+b) charakter.
+c) vjem.
+50. Který stav pozornosti je pro pilota užitečný a považuje se za schopnost:
+a) kolísání pozornosti.
+b) oscilace pozornosti.
+c) rozdělení pozornosti.
+51. Pozornost blíže nespecifikuje:
+a) zaměření.
+b) koncentrace.
+c) představivost.
+52. Vnímání nejvýrazněji ovlivňuje:
+a) citlivost smyslů.
+b) paměť.
+c) rozhodnost.
+53. Mezi psychické zátěže nepatří:
+a) zrychlení.
+b) pozornost.
+c) rozhodování.
+54. Fyzikální zátěž pilota způsobuje:
+a) odpovědnost.
+b) emoce.
+c) mikroklima.
+55. Hypoxii můžeme zabránit:
+a) dýcháním vzácných plynů.
+b) přesunem do vyšší nadmořské výšky.
+c) dýcháním čistého kyslíku.
+56. K rychlému a správnému rozhodování nejvíc přispívá:
+a) zkušenost a důsledná příprava na danou činnost.
+b) určité pracovní zatížení a týmová spolupráce.
+c) fyzická kondice.
+57. Odolnost lidského organismu vůči hypoxii je v průběhu dne nejvyšší:
+a) kolem 17. hodiny
+b) kolem 12. hodiny
+c) kolem 3. hodiny.
+58. Na vědomé činnosti člověka k dosažení stanoveného cíle se nejvíce podílí jeho:
+a) charakter a vlohy.
+b) vůle a houževnatost.
+c) temperament a paměť
+59. Které psychické vlastnosti nejvíc přispívají k rozhodnosti:
+a) trpělivost a svědomitost.
+b) charakter a nadání.
+c) zkušenost a sebejistota.
+60. Abychom v noci viděli daný předmět dobře, musíme se dívat:
+a) zaostřit přímo na předmět, aby byl ve středu sítnice
+b) zaostřit oko do nekonečna
+c) dívat se v rozmezí 15° až 20° okolo pozorovaného předmětu
+61. Přízrakem hyperventilace je:
+a) zrychlené dýchání.
+b) zpomalené dýchání
+c) vznik tlaku v prostoru nadočnicových oblouků.
+62. Prudké stoupání a klesání nejvíce ovlivňuje v lidském těle obsažené:
+a) svaly.
+b) kapaliny.
+c) plyny.
+METEOROLOGIE
+1. Která z uvedených vrstev zemské atmosféry má průměrnou vertikální mohutnost 11 km
+a) stratosféra
+b) troposféra
+c) tropopauza
+2. Jev nazývaný turbulence je definován jako
+a) síly působící na letadlo v různých směrech a udělující tomuto letadlu různá přídavná
+zrychlení
+b) síly, které působí na letadlo ve vertikálním směru
+c) síly, které zvyšují rychlost letícího letadla
+3. Dráhovou dohledností (RVR) nazýváme
+a) subjektivně určenou dohlednost na vzletové a přistávací dráze
+b) jakoukoliv horizontální dohlednost změřenou v oblasti systému vzletových a přistávacích
+drah letiště
+c) objektivně změřenou horizontální dohlednost podél osy příslušné vzletové a přistávací
+dráhy
+4. Turbulentní proudění je charakteristické pro
+a) stratosféru
+b) troposféru
+c) tropopauzu
+5. Jaká změna teploty ve vertikálním směru je charakteristická pro advekční mlhy
+a) isotermie
+b) inverze
+c) pokles s výškou
+6. V oblasti tlakové níže vane vítr při zemi
+a) ve směru pohybu hodinových ručiček
+b) proti směru pohybu hodinových ručiček
+c) směr větru nesouvisí se směrem pohybu hodinových ručiček
+7. Inverzí rozumíme
+a) pokles teploty s výškou
+b) vzrůst teploty s výškou
+c) teplota se s výškou nemění
+8. Oblačnost středních výšek tvoří
+a) Ac - altocumulus, As – altostratus
+b) Cu - cumulus, Sc - stratocumulus
+c) Ci - cirrus, Cc – cirrocumulus
+9. Který z uvedených dějů je nejvýznamnější pro tvoření srážek
+a) mísení dvou různě teplých vzduchových hmot
+b) adiabatický výstup vzduchu
+c) vyzařování
+10. Inverzní situace jsou charakteristické pro
+a) horní vrstvy troposféry
+b) přízemní vrstvu troposféry
+c) stratosféru
+11. Mezi vysoká oblaka patří
+a) St - stratus, Sc - stratocumulus
+b) Cc - cirrocumulus, Cs – cirrostratus
+c) Cu - cumulus, Ac – altocumulus
+12. Zdrojem atmosférické vlhkosti je
+a) zemský povrch
+b) troposféra
+c) stratosféra
+13. Ve stratosféře převládá proudění vzduchu
+a) ve směru horizontálním
+b) turbulentní
+c) je nulové (klid)
+14. Proudění jakého směru převládá nad střední Evropou během celého roku
+a) severní - meridionální (podél poledníků)
+b) východní
+c) západní - zonální (podél rovnoběžek)
+15. Změna teploty s výškou - vertikální teplotní gradient ve vrstvě isotermie má hodnotu
+a) zápornou
+b) nulovou
+c) kladnou
+16. Jaká je průměrná výška standardní isobarické hladiny 850 HPa
+a) 1200 m
+b) 1500 m
+c) 2000 m
+17. Zvrstvení vzduchu ve vrstvě inverze je
+a) indiferentní
+b) stabilní
+c) instabilní
+18. Intenzitou námrazy rozumíme
+a) tloušťku vrstvy ledu v desetinách mm vytvořenou za 10 sekund
+b) tloušťku vrstvy ledu v násobkách mm vytvořenou za 1 minutu
+c) tloušťku vrstvy ledu v mm vytvořenou za 1 minutu
+19. Hmotnost zemské atmosféry s výškou
+a) se nemění
+b) vzrůstá
+c) klesá
+20. Prostorové rozložení standardní isobarické hladiny získáme rozborem (analýzou) této hladiny pomocí čar, které nazýváme
+a) isobary
+b) isohypsy
+c) isotermy
+21. Teplotou rosného bodu nazýváme
+a) teplotu, kterou by vzduch měl v okamžiku stavu nasycení
+b) teplotu vzduchu se stanovenou relativní vlhkostí
+c) teplotu vzduchu v určité výšce
+22. Změna fáze voda - vodní pára se nazývá
+a) kondenzace
+b) vypařování
+c) sublimace
+23. Bouřky vznikající uvnitř vzduchových hmot rozdělujeme do dvou skupin podle podstaty jejich vzniku. Jednu skupinu bouřek nazýváme bouřky insolační (z tepla), tyto vznikají když se
+a) ohřívá vlhký studený vzduch během dne
+b) studený vlhký vzduch se přesouvá nad teplý zemský povrch
+c) v cestě vlhkému studenému vzduchu stojí mechanická překážka
+24. Na základě pravidelných leteckých meteorologických pozorování jsou sestavovány
+a) zprávy nazývané „ATIS“
+b) zprávy METAR, hlášení MET-REPORT
+c) upozornění na nebezpečné meteorologické jevy
+25. Definice relativní vlhkosti zní
+a) množství vodní páry v gramech v kubickém metru vzduchu
+b) množství vodní páry v gramech v kilogramu vzduchu
+c) poměr skutečného tlaku vodní páry k maximálně možnému tlaku vodní páry při dané
+teplotě, vyjádřený v procentech
+26. Posuzujeme-li regionální rozdělení bouřek, pak bouřek ubývá směrem
+a) od západu k východu
+b) kumulují se v mírném pásu
+c) od rovníku k pólu
+27. Může se při přechodu studené fronty vytvořit mlha a ve které její oblasti
+a) ano, před čárou fronty v oblasti vypadávajících srážek
+b) ne
+c) ano, za čárou fronty - mlha zafrontální
+28. Vertikální teplotní gradient je
+a) hodnota změny teploty připadající na jednotkovou vzdálenost ve vertikálním směru
+b) hodnota teploty v určité výšce
+c) hodnota teploty v určité isobarické hladině
+29. Nejvíce dní s bouřkou se soustřeďuje do oblastí
+a) tropických šířek
+b) mírných zeměpisných šířek
+c) polárních oblastí
+30. Stavová křivka je definována jako
+a) čára o stejných hodnotách teploty
+b) křivka znázorňující průběh teploty v závislosti na výšce v reálné atmosféře
+c) křivka se stálou hodnotou změny teploty na každých 100 m výšky
+31. Výškový barometrický stupeň vyjadřuje
+a) obecně změnu tlaku vzduchu s výškou
+b) změnu tlaku vzduchu na změnu výšky o 100 m
+c) hodnotu změny výšky, podle které se tlak změní o jednotku (př. O 1 HPa, o 1 mmHg)
+32. Jakou hodnotu má výškový barometrický stupeň při zemském povrchu
+a) 1 HPa/11 m výšky
+b) 1 HPa/16 m výšky
+c) 1 HPa/08 m výšky
+33. Který z druhů námrazy vznikne ve vrstvě, kde jsou převážně velké vodní kapky
+a) jinovatka
+b) ledovka
+c) zrnitá námraza
+34. Jak souvisí hodnota výškového barometrického stupně s teplotou vzduchu
+a) zmenšuje se s klesající teplotou vzduchu
+b) zvětšuje se s klesající teplotou vzduchu
+c) nemění se s klesající teplotou vzduchu
+35. Pokud je vertikální mohutnost proudící vrstvy poměrně malá - srovnatelná s výškou překážky, pak na závětrné straně překážky vzniká proudění (při dostatečné rychlosti větru), které nazýváme
+a) vlnové
+b) rotorové
+c) laminární
+36. Dynamická turbulence se vyskytuje ve velkých výškách, převážně v bezoblačném prostoru, proč
+a) je tam minimální vlhkost
+b) neexistují výstupné proudy
+c) je tam isotermie
+37. K tomu, aby byly tlaky stanic v různých nadmořských výškách srovnatelné, provádí se redukce naměřeného tlaku
+a) k nadmořské výšce stanice
+b) ke standardní hladině - střední hladině moře (MSL)
+c) na střední hladinu moře při stanovené teplotě
+38. Který z jevů vznikajících na studené frontě II. Druhu je zvláště nebezpečný pro nízko letící letadla
+a) snížení základny oblačnosti, někdy až k zemi
+b) silný pokles tlaku a teploty
+c) silná turbulence omezená na úzký prostor horizontálního víru - húlavy, s osou přibližně
+v úrovni základny Cb
+39. Která z uvedených jednotek se v současnosti používá jako jednotka tlaku
+a) HPa
+b) mb
+c) dyn/cm2
+40. Tlak, zakreslovaný na přízemních meteorologických mapách, se nazývá tlak QFF a je to
+a) staniční tlak redukovaný na střední hladinu moře podle barometrické formule -
+předpokládá se, že teplota fiktivního vzduchového sloupce odpovídá aktuální teplotě
+naměřené na stanici v době pozorování
+b) staniční tlak redukovaný na střední hladinu moře podle podmínek atmosféry
+c) staniční tlak redukovaný na nejvyšší bod dráhového systému
+41. Výškoměr nastavený na tlak QNH letiště ukazuje po přistání na letišti
+a) přibližnou nadmořskou výšku letiště
+b) nadmořskou výšku VPD
+c) nulovou výšku
+42. Změna fáze led - vodní pára se nazývá
+a) sublimace
+b) kondenzace
+c) vypařování
+43. V blízkosti tropopauzy se velice často setkáváme
+a) s termickou turbulencí
+b) s dynamickou turbulenci – CAT
+c) s vlnovým prouděním
+44. V případě, že letadlo letí ve studeném vzduchu, pak
+a) letadlo je výše, než je hodnota výšky udávané výškoměrem
+b) letadlo je níže, než je hodnota udávaná výškoměrem
+c) letadlo je ve výšce udávané výškoměrem
+45. Na základě mimořádných leteckých meteorologických pozorování jsou sestavovány
+a) předpovědi pro vzlet a přistání
+b) hlášení „VOLMET“
+c) zvláštní zprávy SPECI, mimořádná hlášení SPECIAL
+46. Isobary jsou čáry na přízemních meteorologických mapách, které spojují místa
+a) se stejnou teplotou
+b) se stejným tlakem
+c) se stejnou vlhkostí
+47. Tlaková níže - cyklona - je oblastí
+a) nízkého tlaku s nejnižší hodnotou ve svém středu
+b) se snižující se hodnotou tlaku směrem od středu
+c) s nejnižší hodnotou po okrajích oblasti
+48. Nebezpečné jevy spojené s bouřkou
+a) výstupné proudy a růst Cb oblaku
+b) silné výstupné proudy s maximem v horní polovině Cb - silná turbulence, sestupné proudy
+s maximem blízko základny, silná námraza, elektrické vlastnosti Cb
+c) hustota oblaku, který je složen z kapalné i pevné fáze vody
+49. Bouřky se tvoří
+a) v každé denní době, jsou-li příhodné podmínky
+b) nejčastěji odpoledne a večer, v hodinách nejvyšších přízemních teplot
+c) nejčastěji během noci
+50. Isobarická hladina je plocha
+a) v jejímž každém bodě je stejný tlak
+b) v jejímž každém bodě je stejná výška
+c) v jejímž každém bodě je stejná hustota
+51. Mapy absolutní barické topografie (mapy výškové) jsou meteorologické mapy, na kterých jsou zakresleny
+a) výšky daných isobarických ploch v daném čase na střední hladinou moře
+b) výšky stejných teplot
+c) výšky stejných hustot
+52. Kolísání tlakové isobarické hladiny s místem je znázorněno isočarami, které se nazývají
+a) isotachy
+b) isobary
+c) isohypsy
+53. Podle příčin vzniku známe turbulenci termickou, která vzniká
+a) v prostředí, které je charakteristické isotermií
+b) vlivem nestejnoměrného zahřívání zemského povrchu a tím i nestejnoměrného ohřívání
+přilehlých vzduchových vrstev
+c) vlivem kopcovitého terénu
+54. Jak nazýváme turbulenci vzniklou vlivem nestejnoměrného ohřátí zemského povrchu
+a) mechanickou
+b) dynamickou
+c) termickou
+55. Které z oblaků považujeme za význačné konvektivní oblaky
+a) Cu - cumulus, Cb - cumulonimbus
+b) TCu - věžovitý cumulus, Cu – cumulus
+c) Cb - cumulonimbus, TCu -věžovitý cumulus
+56. Aby se vytvořila námraza na letadle ve značném množství, musí být splněno
+a) musí být přítomny velké přechlazené vodní kapky a povrch letadla musí mít teplotu nižší
+než 0°C
+b) letadlo musí letět rychlostí alespoň 500 km/h a v prostoru, kde je vysoká vlhkost a teplota
+alespoň -10°C
+c) letadlo musí letět pomalu v oblasti kladných teplot blízkých 0°C
+57. Jak je správně dekódován uvedený stav počasí REDZ
+a) po dešti
+b) mrznoucí déšť
+c) po mrholení
+58. Na mapě standardní isobarické hladiny se zakreslují čáry, které nazýváme isotachy a tyto čáry vymezují
+a) místa se stejnou hustotou vzduchu
+b) místa se stejnou rychlostí větru v této hladině
+c) místa se stejnou vlhkost
+59. Výstraha na sněžení se vydává
+a) pro letovou oblast (FIR)
+b) pro letiště
+c) SIGMET
+60. Provedeme-li na přízemní meteorologické mapě frontální analýzu, získáme tím
+a) rozložení oblastí stejného počasí
+b) rozložení oblastí bouřek
+c) polohy jednotlivých front, frontálního počasí a rozdělení vzduchových hmot
+61. Postupujeme-li ve vertikálním směru od země, pak směr větru se poněkud liší od směru, který byl naměřen u země a stáčí se
+a) vlevo od směru isobar
+b) nestáčí se
+c) vpravo od směru isobar
+62. Konvergencí vzdušných proudů rozumíme
+a) rozbíhavost vzdušných proudů
+b) neutrální chování vzdušných proudů
+c) sbíhavost vzdušných proudů
+63. Pokud je pozorováno bezvětří, kóduje se jako
+a) 00000 MPS
+b) bezvětří
+c) klid
+64. Měření větru
+a) vítr je určen směrem
+b) vítr je určen rychlostí
+c) vítr je určen směrem a rychlostí
+65. Vliv větru na let v letové hladině
+a) ovlivňuje ekonomickou a bezpečnostní stránku letu
+b) nemá žádný vliv
+c) nemá vliv na bezpečnost letu
+66. Víme, že kondenzace v troposféře je podmíněna ochlazením vodních par. Dalším nezbytným předpokladem je přítomnost tak zvaných kondenzačních jader v ovzduší, což jsou
+a) pouze pevné částice
+b) pouze kapalné částice
+c) kapalné i pevné částice v ovzduší
+67. Tropopauzou nazýváme vrstvu
+a) inverzní vrstvu v troposféře
+b) přechodovou vrstvu mezi troposférou a stratosférou
+c) isotermickou vrstvu ve spodní stratosféře
+68. Letová meteorologická dokumentace sestává z
+a) předpovědi celkové meteorologické situace v příslušných oblastech
+b) souboru METARů a TAFů v příslušných FIR, kterými vede letová trať
+c) předpovědí výškových větrů a teplot, předpovědí význačného počasí na trati letu,
+letištních předpovědí
+69. Atmosférickou konvekcí nazýváme
+a) více či méně uspořádaný pohyb četných malých objemů vzduchu ve vertikálním směr
+b) pohyb malých objemů vzduchu v horizontálním směru
+c) chaotický pohyb malých vzduchový objemů v atmosféře
+70. Základní příčinou vzniku oblačnosti v atmosféře je
+a) pokles teploty vzduchu s výškou
+b) dosažení stavu nasycení
+c) dosažení stavu nasycení s následnou kondenzací, nebo sublimací vodních par
+71. Mezi oblačnost s mohutným vertikálním vývojem řadíme
+a) Cu - cumulus
+b) Ac – altocumulus
+c) Cb – cumulonimbus
+72. Smíšenou oblačnost svým složením tvoří
+a) Ci, Cc
+b) Cu, Ac
+c) Cb, Ns
+73. Vizuálně na meteorologických stanicích u oblačnosti pozorujeme
+a) výšku základny oblačnosti
+b) pokrytí oblohy oblačností
+c) pohyb oblačnosti
+74. Meteorologickou dohlednost (horizontální) v praxi určujeme
+a) subjektivním odhadem
+b) odhadem dle plánku orientačních bodu
+c) objektivním měřením
+75. Které meteorologické jevy nejčastěji a nejvíce zhoršují dohlednost
+a) mlhy
+b) sněžení
+c) déšť
+76. Pokud se mlha vytvoří tím, že vlivem radiačního ochlazení zemského povrchu dojde ke snížení dohlednosti pod 1 km, pak jde o mlhu
+a) místní
+b) radiační
+c) advekční
+77. Které základní parametry a jevy určují počasí uvnitř vzduchové hmoty
+a) srážky, dohlednost
+b) tlak, oblačnost, hustota vzduchu
+c) teplota, vlhkost, vertikální teplotní gradient
+78. Podle termické klasifikace dělíme vzduchové hmoty na
+a) teplé, studené, místní
+b) instabilní, stabilní
+c) vlhké, suché
+79. Instabilní vzduchovou hmotou nazýváme vzduchovou hmotu, ve které dochází ke vzniku
+a) inverzí
+b) konvektivních vertikálních pohybů
+c) k tvorbě vrstevnaté oblačnosti
+80. Co je to atmosférická fronta
+a) šikmá a úzká přechodová vrstva (plocha) mezi rozdílnými vzduchovými hmotami
+b) čára fronty
+c) vertikální rozhraní mezi dvěma rozdílnými vzduchovými hmotami
+81. Advekcí v meteorologii rozumíme pohyb
+a) svislý
+b) vodorovný
+c) ve směru magnetických siločar
+KOMUNIKACE
+1. Vyberte správný Q-kód pro tlak, indikující nadmořskou výšku, přepočtený na střední
+hladinu moře:
+a) QNH
+b) QDM
+c) QFE
+2. Vyberte správný Q-kód pro tlak indikující výšku nad úrovní letiště:
+a) QNH
+b) QFF
+c) QFE
+3. Slovo čekejte znamená:
+a) čekejte, zavolám Vás
+b) čekejte a zavolejte později
+4. Fráze jak slyšíte znamená:
+a) jaká je čitelnost mého vysílání
+b) rozuměl jste mi správně
+5. Slovo schváleno znamená:
+a) oprávněn pokračovat za určitých podmínek
+b) povolení pro požadovaný úkon je schváleno
+6. Letadlová stanice může přejít na jiný kmitočet:
+a) podle vlastního uvážení
+b) po oznámení svého úmyslu letecké stanici
+7. Ve volací značce letecké stanice pro lety VFR je název:
+a) INFORMACE
+b) APPROACH
+c) TOWER
+8. Radiové spojení může být ukončeno:
+a) na pokyn letecké stanice
+b) podle uvážení letadlové stanice
+9. Fráze vysílám naslepo se použije:
+a) při neznalosti frekvence volané stanice
+b) při neúspěšném navázání spojení
+c) na pokyn letecké stanice
+10. Musí se jména, zkratky a slova, jejichž výslovnost může vyvolat pochybnost
+v radiotelefonii hláskovat?
+a) ano
+b) ne
+11. Číslo 47 se slovy vysílá
+a) čtyry sedm
+b) čtyrycet sedm
+12. Čas 18 hodin 43 minuty se vysílá
+a) čtyřicet tři
+b) jedna osm čtyry tři nebo čtyry tři
+c) osumnáct čtyrycet tři
+13. Poznávací značka civilního letadla je složena ze:
+• značky státní příslušnosti,
+• rejstříkové značky.
+a) ano
+b) ne
+14. Zkrácenou volací značku letadla lze použít
+a) podle vlastního uvážení
+b) až po zkrácení leteckou stanicí
+15. Zkušební vysílání obsahuje:
+• volací značku volané stanice,
+• volací značku letadla,
+• frázi „zkouška radia“,
+• používaný kmitočet.
+a) ano
+b) ne
+16. Čitelnost zkušebního vysílání se udává:
+a) pěti stupni
+b) třemi stupni
+c) čtyřmi stupni
+17. Zkušební vysílání obsahuje:
+• volací značku volané stanice
+• volací značku letadla
+• frázi „zkouška vysílání“
+• používaný kmitočet.
+a) ano
+b) ne
+18. Při uložení ticha se použije fráze
+a) zastavte vysílání
+b) MAY DAY
+c) zastavte vysílání - MAY DAY 3x
+19. Zpráva rušící tísňový provoz a uloženého ticha obsahuje frázi
+a) období ticha ukončeno
+b) tísňový provoz ukončen
+c) MAY DAY ukončeno
+20. PAN PAN MEDICAL je radiotelefonní signál zprávy
+a) pilnostní
+b) tísňové
+c) pro zajištění bezpečnosti letu
+21. Vysílání pokusných signálů nesmí trvat déle než
+a) 10 sekund
+b) 5 sekund
+22. Vyberte správný Q-kód pro „přistání zakázáno“
+a) QGO
+b) QGN
+c) QGL
+23. Slovo „konec“ znamená
+a) moje vysílání skončilo, očekávám Vaší odpověď
+b) rozhovor je ukončen a neočekává se odpověď
+24. Slovo „potvrďte“ znamená
+a) potvrďte mi, že jste zprávu přijal a rozuměl jí
+b) ověřte a odsouhlaste zprávu
+25. Slovo „věž“ znamená
+a) stanoviště letištní řídící věže
+b) letové informační středisko
+26. Slovo „správně“ znamená
+a) to je správné
+b) povolení pro požadovaný úkon je schváleno
+27. Stanice letecké pohyblivé služby používají
+a) středoevropský čas
+b) greenwichský čas
+c) světový koordinovaný čas
+28. V případě, že bylo navázáno uspokojivé spojení, služba (stanoviště) se
+a) nemůže vynechat
+b) může vynechat
+29. Ve volací značce letecké stanice letištního stanoviště je název
+a) CONTROL
+b) APPROACH
+c) VĚŽ
+30. UTC je zkratka
+a) greenwichského času
+b) světového koordinovaného času
+c) středoevropského času
+31. Volací značka letecké stanice je tvořena
+a) zeměpisným názvem její polohy a službou (stanovištěm), která je k dispozici
+b) pouze zeměpisným názvem
+32. Rychlost hovoru při RTF spojení nemá převyšovat
+a) 50 slov za minutu
+b) 80 slov za minutu
+c) 100 slov za minutu
+33. Číslo 383 se slovy vysílá
+a) třista osm tři
+b) tři osm tři
+34. Čas 02 hodin 40 minut se vysílá
+a) nula dva čtyrycet
+b) čtyry nula nebo nula dva čtyry nula
+c) čtyrycet
+35. Číslo 4000 se slovy vysílá
+a) čtyry tisíce
+b) čtyry nula nula nula
+36. Volací značku letadla lze tvořit
+• volací značkou odpovídající poznávací značce letadla, nebo
+• radiotelefonním označením provozovatele letadla, za kterým následují poslední čtyři
+znaky poznávací značky letadla, nebo
+• radiotelefonním označením provozovatele letadla za kterým následuje označení letu
+a) ano
+b) ne
+37. Je zkrácení následující radiotelefonické volací značky letadla OK-ALR na OLR správné?
+a) ano
+b) ne
+38. Při navazování spojení lze použít
+a) zkrácenou volací značku
+b) pouze nezkrácenou volací značku
+39. Musí zkušební vysílání obsahovat frázi „zkouška radia“?
+a) ano
+b) ne
+40. Při zkušebním vysílání fráze „chvílemi nečitelné“ označuje stupeň čitelnosti
+a) 4
+b) 1
+c) 2
+41. Fráze „vysílám naslepo“ se použije
+a) při neznalosti frekvence volané stanice
+b) při neúspěšném navázání spojení
+c) na pokyn letecké stanice
+42. Právo uložit ticho má
+a) pouze stanice řídící
+b) kterákoliv jiná stanice
+c) stanice v tísni a stanice řídící
+43. Slovo přejděte znamená
+a) navažte radiové spojení s ....
+b) volejte znovu na pracovním kmitočtu
+44. Slovo žádám znamená
+a) žádám objasnění
+b) rád bych věděl nebo přeji si obdržet
+45. Slovo rozumím znamená
+a) ano
+b) přijal jsem vše z Vašeho posledního vysílání
+46. Slovo opakujte znamená
+a) opakujte vše přesně tak, jak jste přijal
+b) opakujte vše nebo následující část Vašeho posledního vysílání
+47. Ve volací značce letecké stanice řízení pohybu na zemi je název
+a) APRON
+b) GROUND
+c) RADIO
+48. Vysílání pokusných signálů nesmí trvat déle než
+a) 10 sekund
+b) 5 sekund
+49. Letadlová stanice udržuje radiové spojení s řídící stanicí letadlo – země
+a) na požádání
+b) vždy, je-li to možné
+c) podle vlastního uvážení
+50. Pro vysílání pokusných signálů je třeba získat souhlas před zahájením takového vysílání
+a) ano
+b) ne
+51. Letadlová stanice přechází z jednoho kmitočtu na jiný
+a) na příkaz letecké stanice
+b) dle vlastního uvážení
+52. Číslo 18 900 se slovy vysílá
+a) jedna osm devět nula nula
+b) jedna osm tisíc devět set
+c) osmnáct tisíc devět set
+53. Číslo (ne frekvence) 100,125 se slovy vysílá
+a) jedno sto čárka jedna dva pět
+b) sto čárka stodvacet pět
+c) jedna nula nula čárka jedna dva pět
+54. Číslo 20 se slovy vysílá
+a) dva nula
+b) dvacet
+55. Frekvence 118,725 se slovy vysílá
+a) jedna jedna osm čárka sedum dva pět
+b) jedna jedna osm čárka sedum dva
+c) sto osmnáct čárka sedum set dvacet pět
+56. Je zkrácení následující radiotelefonické volací značky letadla OK-ALR na ALR správné?
+a) ano
+b) ne
+57. Při zkušebním vysílání dokonalá čitelnost je uváděna stupněm
+a) 1
+b) 4
+c) 5
+58. Při zkušebním vysílání stupeň 4 označuje, že zpráva je
+a) čitelná
+b) čitelná, ale s obtížemi
+c) dokonale čitelná
+59. Je složení pilnostní zprávy správné?
+• pilnostní signál „PAN PAN“ 3x
+• název stanice, které je zpráva adresována
+• označení letadla
+• povaha pilnostního stavu
+• úmysl velitele letadla
+• poloha, hladina, kurs
+a) ano
+b) ne
+60. MAY DAY je radiotelefonní signál zprávy
+a) pilnostní
+b) tísňové
+c) pro zajištění bezpečnosti letu
+ZÁKLADY LETU
+ 
+1. Podle Mezinárodní standardní atmosféry (MSA) hustota vzduchu s rostoucí výškou
+a) Roste 
+b) klesá v závislosti na tlaku a teplotě podle stavové rovnice pro suchý vzduch  
+c) nejprve roste a potom prudce klesá 
+2. Při klouzavém letu je úhel náběhu 
+a) menší než při letu minimální rychlostí  
+b) menší než ve střemhlavém letu 
+c) roven nule, neboť let probíhá téměř v horizontální rovině 
+3. Jestliže letadlo letí ve výšce, ve které je tlak vzduchu roven tlaku podle MSA pro tuto výšku, ale  teplota je výrazně vyšší, než odpovídá průběhu MSA, pak 
+a) hustota vzduchu je větší, než odpovídá MSA pro tuto výšku 
+b) hustota vzduchu je menší, než odpovídá MSA pro tuto výšku  
+c) hustota vzduchu má hodnotu odpovídající MSA pro tuto výšku, neboť teplot ji neovlivní 
+4. Ve kterých letových režimech je velký součinitel indukovaného odporu? 
+a) při malých úhlech náběhu, např. ve střemhlavém letu 
+b) při malých úhlech náběhu, např. v kroužení a při letu minimální rychlostí 
+c) při velkých úhlech náběhu, např. v kroužení a při letu malou rychlostí  
+5. Kluzák o hmotnosti 500 kg letí klouzavým letem ustálenou rychlostí 110 km/h na úhlu náběhu 7  stupňů. Přejde-li tento kluzák do střemhlavého letu a při jeho vybrání dosáhne rychlosti 220  km/h na úhlu náběhu také 7 stupňů, pak vztlak 
+a) vzrostl dvakrát a činí asi 10 000 N 
+b) vzrostl nepatrně, neboť při vybrání působí setrvačné síly 
+c) vzrostl čtyřikrát a činí asi 20 000 N  
+6. Záporný součinitel vztlaku (a tím i vztlak kluzáku) může být pouze jen 
+a) při záporném úhlu náběhu  
+b) při kladném úhlu náběhu 
+c) při úhlu náběhu větším, než je “kritický” 
+7. Zkratka “IAS” uváděná např. v letové příručce znamená 
+a) označení Mezinárodní standardní atmosféry 
+b) označení “střední aerodynamické tětivy” 
+c) indikovanou rychlost letu, tj. rychlost letadla, kterou udává indikátor pitot-statické  rychloměrné soustavy  
+8. Vzduch proudí ustáleně trubicí kruhového proměnného průřezu nakreslenou na obrázku. V části  II je ze všech tří částí trubice největší 
+a) průřez trubice 
+b) rychlost proudu  
+c) statický tlak
+9. Při překročení kritického úhlu náběhu dochází k odtržení proudu nejdříve
+a) na křídle  
+b) na vodorovných ocasních plochách 
+c) v okolí kabiny kluzáku 
+10. Čím je způsobeno značné snížení indukovaného odporu za letu a jaké jsou jeho projevy?
+a) ke snížení induk. odporu dojde za letu v těsné blízkosti země, kdy malá vzdálenost křídla od  země omezí vznik koncových vírů. Zmenší se tak klesání v kroužení 
+b) ke snížení induk. odporu dojde za letu v těsné blízkosti země, kdy malá vzdálenost křídla od  země zabrání vytvoření koncových víru. Výrazně se tak zvýší klouzavost  
+c) ke snížení induk. odporu dojde za letu ve velké výšce, kdy se vlivem malé hustoty vzduchu  nevytvoří dostatečně velký tlakový spád pro vznik koncových vírů. Výrazně se tak zvýší  klouzavost 
+11. Vzduch proudí ustáleně trubicí kruhového proměnného průřezu nakreslenou na obrázku. (otázka  č. 8) V části II je statický tlak ze všech tří částí trubice 
+a) největší, proudění je nejvíce stlačené 
+b) nejmenší, je zde největší dynamický tlak  
+c) nejmenší, jsou zde nejvíce rozšířené proudnice 
+12. Dynamický tlak je závislý na rychlosti letu. Zvětší-li se rychlost letu dvakrát, pak dynamický tlak se
+a) dvakrát zmenší 
+b) dvakrát zvětší  
+c) čtyřikrát zvětší  
+13. Součinitel vztlaku profilu je nejvíce ovlivněn 
+a) tloušťkou profilu 
+b) hloubkou profilu 
+c) zakřivením profilu  
+14. Když je těžiště kluzáku posunuto směrem dozadu za krajní zadní centráž, potom
+a) bude kluzák podélně nestabilní  
+b) bude kluzák podélně stabilní 
+c) bude kluzák velmi těžko ovladatelný, např. při vybrání střemhlavého letu nebo při vzletu  
+15. Jak souvisí hodnota náklonu v zatáčce (ustálená správná zatáčka) s velikostí násobku?
+a) násobek klesá s rostoucím náklonem zatáčky 
+b) násobek roste s rostoucím náklonem zatáčky  
+c) náklon a násobek v zatáčce spolu nesouvisí, záleží výlučně na rychlosti letu  
+16. Odtržení proudu na profilu má za následek 
+a) náhlý pokles součinitele vztlaku, změnu součinitele klopivého momentu a vzrůst součinitele  odporu  
+b) náhlý pokles součinitele odporu a vztlaku 
+c) vzrůst součinitele odporu  
+17. Na obrázku je nakreslena pitot-statická sonda. Jaký tlak je odebírán snímačem 1  a jaký
+snímačem 2? 
+a) 1 - statický, 2 - dynamický 
+b) 1 - dynamický, 2 - celkový 
+c) 1 - statický, 2 - celkový 
+18. Jaké geometrické charakteristiky profilu jsou označeny na obrázku? 
+a) X - tloušťka Y - délka 
+b) X - hloubka Y – tloušťka  
+c) X - délka Y – tloušťka 
+19. Do jaké výšky lze počítat s “přízemní efektem” v blízkosti země? 
+a) asi do výšky jako je polovina rozpětí křídla  
+b) do výšky 1 m 
+c) do výšky 30 m  
+20. Velikost násobku při průletu poryvem se zvětšuje, když kluzák 
+a) letí větší rychlostí, má větší letovou hmotnost poryv je slabý 
+b) letí větší rychlostí, má větší letovou hmotnost a poryv je silný 
+c) letí větší rychlostí, má menší letovou hmotnost a poryv je silný  
+21. Jestliže se při stejném úhlu náběhu zvýší rychlost letu ze 110 km/h na 220 km/h, pak
+vztlak  vzroste 
+a) zůstane stejný 
+b) čtyřikrát  
+c) třikrát 
+22. Podle průběhu MSA teplota s rostoucí výškou 
+a) roste, a to o 0,65 °C na 100 m 
+b) klesá, a to o 0,65 °C na 100 m  
+c) klesá tak, že na horní hranici MSA dosahuje tzv. “absolutní nuly” 
+23. Zvětší-li se úhle náběhu za letu dvakrát (při stejné rychlosti letu), pak vztlak
+a) vzroste součinitel vztlaku i vztlak čtyřikrát 
+b) vzroste součinitel vztlaku čtyřikrát, vztlak vzroste dvakrát 
+c) součinitel vztlaku se nezmění, vztlak vzroste čtyřikrát  
+24. Vzroste-li během letu rychlost dvakrát (při stále stejném úhlu náběhu), tak
+a) součinitel vztlaku se nezmění, vztlak vzroste čtyřikrát  
+b) vzroste součinitel vztlaku čtyřikrát, vztlak vzroste dvakrát 
+c) vzroste součinitel vztlaku i vztlak čtyřikrát  
+25. Princip vybrání kluzáku z vývrtky spočívá 
+a) ve srovnání náklonu vychýlením křidélek na opačnou stranu, než je smysl vývrtky v převedení  kluzáku do strmého letu potlačením řídící páky, otáčení se potom zastaví vychýlením  směrovky 
+b) v urychlení vnitřního křídla vychýlením směrovky na opačnou stranu, než je smysl vývrtky a  převedením kluzáku do strmého letu následným potlačením řídící páky  
+c) ve změně polohy těžiště kluzáku, proto je nutné vysunout podvozek a posunout náklad (nebo  alespoň volné předměty) směrem dopředu 
+26. Během letu se vztlak kluzáku (při stejné konfiguraci) může měnit pouze vlivem
+a) rychlosti letu, úhlu náběhu a výšky letu  
+b) rychlosti letu 
+c) úhlu náběhu
+27. Hodnota optimální klouzavosti kluzáků cvičné kategorie (L 13, L 23 a pod) se pohybuje kolem
+a) 0,8 
+b) 8 
+c) 28  
+28. Vztlak na profilu vzniká v důsledku 
+a) zhuštění proudnic pod profilem, tím se pod profilem vytvoří přetlak, nad profilem se  proudnice rozšíří a tím se nad profilem vytvoří podtlak rychlost proudu  
+b) zhuštěním proudnic nad profilem, tím se nad profilem vytvoří podtlak, pod profilem se  proudnice rozšíří a tím se pod profilem vytvoří přetlak  
+c) odtržení proudu na křídle  
+29. Dynamický tlak je závislý na konstantní rychlosti letu i na hustotě vzduchu. V důsledku toho je  ovlivněn také 
+a) vlhkostí vzduchu, neboť při vyšším obsahu vodní páry je vzduch hustší 
+b) výškou letu, čím je výška letu větší, tím je hustota vzduchu také větší. 
+c) teplotou, se zvýšením teploty klesá hustota vzduchu a tedy i dynamický tlak  
+30. Kde začíná na profilu odtrhávání proudu? 
+a) v mezní vrstvě na sací straně profilu u odtokové hrany  
+b) v mezní vrstvě na sací straně profilu u náběžné hrany 
+c) v úplavu na sací straně profilu u náběžné hrany  
+31. Jak se změní rychlost proudu a statický tlak, když se rozšíří v nějakém místě proudnice?
+a) rychlost se zvýší, statický tlak klesne 
+b) rychlost se zvýší, statický tlak vzroste 
+c) rychlost klesne, statický tlak se zvýší  
+32. V horizontálním letu dochází k pádu kluzáku vždy 
+a) při vyšší rychlosti letu, než v zatáčce 
+b) při nižší rychlosti letu, než v zatáčce  
+c) při vyšší rychlosti letu, než při které kluzák přejde do vývrtky 
+33. Rozdílem tlaků nad a pod profilem při jeho obtékání vzniká 
+a) vztlak, odpor a klopivý moment  
+b) vztlak a třecí odpor 
+c) vztlak a interferenční odpor 
+3
+4. Který profil na obrázku může mít při nulovém úhlu náběhu nulový vztlak
+a) A/ 
+b) B/ 
+c) B/ a D/ 
+35. Oblast proudění označená v obrázku číslem 2 je charakterizována tím, že je zde vzduch
+značně  rozvířen. Jak se tato oblast nazývá a k jakému ději zde dochází? 
+a) mezní vrstva, přechází zde laminární proudění na turbulentní 
+b) úplav, zabrzděný vzduch prošlý mezní vrstvou je strháván za profil ve formě vírů  
+c) úplav, přechází zde laminární proudění na turbulentní  
+36. Přivedení kluzáku za letu do blízkosti kritického úhlu náběhu se projeví 
+a) zvýšením rychlosti letu 
+b) znatelným snížením velikosti sil v řízení  
+c) zvětšením sil v řízení  
+37. Při obtékání tělesa vznikají aerodynamické síly. Nazývají se 
+a) vztlak, odpor a výsledná aerodynamická síla 
+b) vztlak, tíha a odpor 
+c) výsledná aerodynamická síla, která se rozkládá na vztlak a odpor  
+38. Který profil na obrázku je laminární a jaký režim letu nejvíce ovlivní znečištění jeho náběžné  hrany? 
+a) B/, znečištěním jsou nejvíce ovlivněny výkony v klouzavém letu, neboť je narušené laminární  proudění a tím značně snížen efekt tzv. “laminární boule”  
+b) B/, znečištěním se značně snižuje max. součinitel vztlaku a tím vzrůstá min, rychlost letu
+c) A/ a C/, znečištění nejvíce ovlivní vzlet kluzáku 
+Obsah obrázku černá, černobílý
+
+Obsah generovaný pomocí AI může být nesprávný.
+39. Minimální poloměr ustálené správné zatáčky je omezen 
+a) max. součinitelem vztlaku, max. povoleným násobkem a nepřekročitelnou rychlostí zn. VNE b) max. součinitelem vztlaku, tahem motoru (u motorového kluzáku) a max. povoleným  násobkem  
+c) max. povoleným násobkem a úhlem náklonu 90° 
+40. Při letu se záporným násobkem 
+a) je pilot tlačen do sedačky a vztlak ohýbá křídlo kluzáku směrem dolů 
+b) hrozí nebezpečí rozkmitání konstrukce kluzáku 
+c) je pilot tažen ze sedačky a vztlak ohýbá křídlo kluzáku směrem dolů 
+41. Obtékání křídla se na rozdíl od profilu vyznačuje 
+a) tloustnutím mezní vrstvy, zvětšením součinitele odporu a vzrůstem součinitele vztlaku b) vytvořením vírů na jeho koncích, zvětšením součinitele odporu a změnou průběhu vztlakové  čáry  
+c) vytvořením vírů na jeho koncích, poklesem součinitele odporu a změnou průběhu vztlakové  čáry 
+42. Podle průběhu MSA tlak s rostoucí výškou 
+a) klesá a dosahuje ve výšce 5,5 km poloviční hodnoty, než při hladině moře  b) roste a dosahuje ve výšce 5,5 km dvojnásobné hodnoty, než odpovídá MSA c) zpočátku klesá a po dosažení izobarické hodnoty roste 
+43. Ve kterých letových režimech je součinitel indukovaného odporu velmi malý nebo nulový?
+a) při malých úhlech náběhu, např. ve střemhlavém letu  
+b) při malých úhlech náběhu, např. v kroužení a při letu malou rychlostí 
+c) při velkých úhlech náběhu, např. v kroužení a při letu malou rychlostí 
+44. Vzduch proudí ustáleně trubicí kruhového proměnného průřezu nakreslenou na obrázku. Součet  statického a dynamického tlaku je 
+a) ve všech částech trubice stále stejný a je roven celkovému  
+b) největší v části trubice I a III, v části II je menší o tu část, která způsobí urychlení proudu a  vzrůst dynamického tlaku 
+c) největší v části II, oproti části I a III je větší o tu část, která způsobí urychlení proudu a vzrůst  dynamického tlaku 
+45. V blízkosti země kluzák “plave”. To je způsobeno 
+a) zvětšením klouzavosti, neboť vlivem blízkosti země se omezí vznik koncových vírů na křídle  
+b) zmenšením minimální rychlosti letu v důsledku větší hustoty vzduchu v menších výškách
+c) zvětšenou účinností výškového kormidla u země, která umožní přivést kluzák na mnohem vyšší  úhel náběhu, než je tomu ve volné atmosféře  
+46. Výraznější účinek blízkosti země lze očekávat u kluzáku 
+a) s vysunutými vztlakovými a brzdícími klapkami 
+b) se zasunutými vztlakovými a brzdícími klapkami  
+c) s vysunutým podvozkem  
+47. V letové příručce je uvedena minimální rychlost kluzáku ve vzletové konfiguraci 65km/h. Je  možné očekávat, že v blízkosti země, kdy na kluzák působí “přízemní efekt” bude
+minimální  rychlost 
+a) také 65 km/h, neboť blízkost země nemá vliv na součinitel vztlaku 
+b) také 65 km/h, neboť vzletové příručce je vždy minimální rychlost ve vzletové a přistávací  konfiguraci uváděna s vlivem země 
+c) menší než 65 km/h 
+48. Který kluzák bude mít zřejmě nejmenší součinitel indukovaného odporu? Kluzák s
+a) předním závěsem vlečného lana 
+b) obdélníkovým křídlem 
+c) lichoběžníkovým křídlem  
+49. Pád letadla nastane mimo jiné za předpokladu  
+a) nesouměrného odtržení proudu na obou polovinách křídla 
+b) souměrného odtržení proudu na výškovém kormidle 
+c) souměrného odtržení proudu na obou polovinách křídla  
+50. Na kterém obrázku je správně nakreslena oblast, kde dojde nejdříve k odtržení proudu
+na  nezkrouceném lichoběžníkovém křídle, (oblast je vyznačen šrafováním)? 
+a) A/  
+b) B/ 
+c) C/  
+51. Zasunutím brzdících klapek se 
+a) zvětší klouzavost i minimální rychlost letu 
+b) zmenší klouzavost, minimální rychlost letu se zvětší 
+c) zvětší klouzavost, minimální rychlost letu se zmenší  
+52. Každá síla aerodynamického původu, která vzniká obtékáním tělesa je závislá pouze na
+a) dynamickém tlaku (tj. součinu hustoty vzduchu a druhé mocniny rychlosti letu), ploše křídla a  součiniteli aerodynamické síly  
+b) dynamickém tlaku (tj. součinu hustoty a druhé mocniny rychlosti letu), ploše křídla a tíze  letadla 
+c) dynamickém tlaku (tj. součinu hustoty a rychlosti letu), úhlu náběhu a tvaru tělesa 
+53. Aerodynamickým a geometrickým zkroucením křídla se 
+a) zmenšuje indukovaný odpor  
+b) zabraňuje odtrhávání proudu na koncích lichoběžníkového křídla  
+c) zabraňuje odtrhávání proudu u kořene lichoběžníkového křídla 
+54. Při letu s vysunutými vztlakovými klapkami rychlostí blízkou max. povolené rychlosti pro let s vysunutými vztlakovými klapkami působí vzduch na klapky tak, že 
+a) se je snaží více vysunout 
+b) vyvolá ohybově torsní kmity křídla 
+c) se je snaží zasunout  
+55. V čem spočívá princip geometrického zkroucení lichoběžníkového křídla, které zabraňuje odtržení  proudu na jeho koncích v oblasti křidélek? 
+a) na konci křídla je použit profil, který dosahuje později kritického úhlu náběhu, než profil  použitý u kořene 
+b) na konci křídla je profil nastaven na menší úhel, než profil u kořene  
+c) u lichoběžníkového křídla se obvykle geometrické zkroucení nepoužívá
+56. Minimální rychlost letu v ustálené zatáčce v horizontu 
+a) je tím větší, čím je zatáčka ostřejší  
+b) je dána letovou příručkou a platí pro všechny režimy letu 
+c) je tím menší, čím je zatáčka ostřejší 
+57. Vysunutím brzdících klapek vznikne oblast proudění na křídle, kde je zrušen vztlak. Jaký tvar
+má  tato oblast? 
+a) vztlak je zrušen pouze na té části křídla, ze které se vysunuly brzdící klapky b) pokrývá celé křídlo 
+c) klínovitě se rozšiřuje za brzdícími klapkami po celé hloubce křídla a v některých případech  může zasáhnout i ocasní plochy a vyvolat rozkmitání konstrukce kluzáku  
+58. Jaký vliv má na klesací rychlost v kroužení vyšší letová hmotnost? 
+a) při velkých poloměrech kroužení výrazně zvyšuje klesání, při malých poloměrech zmenšuje  klesání 
+b) při malých poloměrech kroužení výrazně zvyšuje klesání, při velkých poloměrech zvyšuje  klesání málo  
+c) žádný 
+59. Při kritickém úhlu náběhu 
+a) dochází k náhlému poklesu součinitele odporu 
+b) dosahuje součinitel vztlaku max. hodnoty, při dalším zvyšování úhlu náběhu prudce klesá  
+c) hrozí nebezpečí deformace konstrukce kluzáku, protože je dosažen vždy max. povolený  násobek 
+Obsah obrázku text, černobílá
+
+Obsah generovaný pomocí AI může být nesprávný.
+60. Jak je v aerodynamické poláře označen bod, kdy akrobatický kluzák letí na zádech? 
+a) 1 
+b) 2 
+c) 6  
+61. Ve čtyřech dnech byly na letišti o nadmořské výšce 800 m naměřeny hodnoty tlaku a teploty.  Které tyto hodnoty odpovídají podmínkám MSA pro výšku 800 m? 
+a) tlak QFE 1013 hPa, teplota 10 °C 
+b) tlak QFE 921 hPa, teplota -5 °C 
+c) tlak QFE 921 hPa, teplota 10 °C  
+62. Při střemhlavém letu je úhle náběhu 
+a) “kritický”, neboť letu dojde snadno k překročení max. povoleného zatížení konstrukce
+b) blízký nule, součinitel vztlaku je velmi malý nebo nulový  
+c) větší než v klouzavém letu
+Obsah obrázku text, černá, černobílá
+
+Obsah generovaný pomocí AI může být nesprávný.
+63. Který bod nakreslené vztlakové čáry odpovídá nulovému vztlaku kluzáku?
+a) E  
+b) C 
+c) A 
+64. Výchozí hodnoty MSA jsou 
+a) tlak 1013,25 hPa, teplota 15 °C, hustota vzduchu 1,225 kg/m
+3
+, tíhové zrychlení 9,81 m/s
+2
+. Tyto  hodnoty jsou vždy vztaženy na nadmořskou výšku letiště. 
+b) tlak 1013,25 hPa, teplota 15 °C, hustota vzduchu 1,225 kg/m
+3
+, tíhové zrychlení 9,81 m/s
+2
+. Tyto  hodnoty jsou vztaženy na střední hladinu moře  
+c) tlak 760 hPa, teplota 15 °C, hustota vzduchu 1,225 kg/m
+3
+, tíhové zrychlení 9,81 m/s
+2
+. Tyto  hodnoty jsou vztaženy na střední hladinu moře. 
+65. Při překročení kritického úhlu náběhu 
+a) nedochází ke změně klopivého momentu 
+b) se mění klopivý moment kluzáku  
+c) klopivý moment způsobí pád kluzáku do vývrtky  
+Obsah obrázku diagram, snímek obrazovky, černá, řada/pruh
+
+Obsah generovaný pomocí AI může být nesprávný.
+66. Vzduch proudí ustáleně trubicí kruhového proměnného průřezu nakreslenou na obrázku. V části I  je ze všech tří částí trubice největší 
+a) hmotnostní tok 
+b) rychlost proudu 
+c) statický tlak  
+67. Vytvoření námrazy na nosných plochách kluzáku má za následek 
+a) značný vzrůst součinitele odporu, součinitel vztlaku zůstává stejný 
+b) změnu všech aerodynamických charakteristik, max. součinitel vztlaku výrazně klesá, roste  součinitel odporu, průběh klopivého momentu se stává nepravidelný  
+c) přírůstek hmotnosti, aerodynamické charakteristiky obvykle neovlivní  
+Obsah obrázku text, skica, černobílá, umění
+
+Obsah generovaný pomocí AI může být nesprávný.
+68. Který obrázek podává vysvětlení vzniku interferenčního odporu? 
+a) A 
+b) C 
+c) D 
+69. Hlavní příčinou odtržení proudu je vždy 
+a) překročení kritického úhlu náběhu  
+b) přechod laminárního proudění na turbulentní 
+c) snížení rychlosti letu pod hodnotu minimální rychlosti ve vodorovném přímočarém ustáleném  letu 
+70. Může dojít k překročení kritického úhlu náběhu i při vyšší rychlosti, než je minimální rychlost  uváděná letovou příručkou a označovaná obvykle vs? 
+a) ne, nikdy 
+b) může, ale jen na kluzáku, který má nosné plochy pokryté námrazou 
+c) může, neboť odtržení proudu je způsobeno překročením kritického úhlu náběhu, které  nastane i při vyšší rychlosti  
+71. Jaké největší nebezpečí hrozí, jestliže pilot kluzáku při vzletu navijákem přejde do stoupání  prudkým přechodovým obloukem? 
+a) pád kluzáku při přerušení tahu navijáku, ke kterému může dojít v tomto případě mnohem  snáze jednak v důsledku přetržení vlečného lana nebo přetížením motoru navijáku  
+b) přetažení a pád kluzáku na vysoké rychlosti  
+c) nadměrně vysoká spotřeba paliva navijáku 
+72. Podle obrázku určete, jak je velký úhel náběhu kluzáku letícího klouzavým letem?
+a) 8° 
+b) 3° 
+c) 11°  
+Obsah obrázku řada/pruh, černá, černobílá, černobílý
+
+Obsah generovaný pomocí AI může být nesprávný.
+73. Podle obrázku určete, jak je velký úhel náběhu kluzáku při navijákovém vzletu?
+a) 29° 
+b) 15° 
+c) 14°  
+Obsah obrázku text, řada/pruh, černá, snímek obrazovky
+
+Obsah generovaný pomocí AI může být nesprávný.
+74. Vysunutí vztlakových klapek převážně způsobí 
+a) vzrůst součinitel vztlaku a odporu 
+b) vzrůst součinitele vztlaku a odporu, mimo to se projeví klopivý moment ve smyslu “těžký na  hlavu”  
+c) vzrůst součinitele vztlaku, pokles součinitele odporu a mimo to se projeví klopivý moment ve  smyslu “těžký na ocas”
+75. Vysunutí vztlakových klapek 
+a) zhorší klouzavost  
+b) zlepší klouzavost 
+c) zlepší obratnost  
+Obsah obrázku text, černá, hudební nástroj, černobílá
+
+Obsah generovaný pomocí AI může být nesprávný.
+76. Na obrázku jsou poláry kluzáku se zasunutými a vysunutými vztlakovými klapkami (na kladnou  výchylku). Jak je označena polára, která patří kluzáku s vysunutými vztlakovými klapkami?
+a) A 
+b) B  
+c) A i B 
+77. Na minimální rychlosti pro vodorovný let  
+a) nelze vůbec žádnou zatáčku provést  
+b) lze provést zatáčku s náklonem max. 30 stupňů 
+c) nelze provést zatáčku nad 60 stupňů
+NAVIGACE
+1. Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země,
+se nazývají póly (točny). Jsou to póly
+a) Magnetické
+b) zeměpisné
+c) totožné
+2. Poloha zeměpisného a magnetické pólu je
+a) totožná
+b) není shodná
+c) magnetický pól je vždy na východ od zeměpisného
+3. Malá kružnice je
+a) kružnice, jejíž rovina neprochází středem zeměkoule
+b) poledník, který prochází rovníkem na opačné straně
+c) jakákoliv kružnice na povrchu země neprocházející průsečíkem nultého poledníku a rovníku
+4. Deklinace je největší
+a) v blízkosti pólů
+b) na rovníku
+c) na jižní polokouli
+5. Zeměpisný poledník je
+a) část kružnice, jejíž rovina je kolmá na zemskou osu
+b) polovinou poledníkové kružnice
+c) kružnice kolem zeměkoule
+6. Zápis d = -3 znamená, že kompasový sever je
+a) západně od severu magnetického
+b) východně od severu magnetického
+c) západně od severu zeměpisného
+7. Zeměpisné souřadnice nám udávají
+a) název určitého místa
+b) zeměpisnou polohu určitého místa
+c) polohu časového pásma
+8. Dříve než v Praze vychází slunce
+a) v Londýně
+b) v Paříži
+c) v Moskvě
+9. 225 stupňů je vedlejší světová strana
+a) jihovýchod
+b) severozápad
+c) jihozápad
+10. 045 stupňů je vedlejší světová strana
+a) severovýchod
+b) severozápad
+c) jihozápad
+11. Pro přesnější označení směru užíváme
+a) radiány
+b) směrníky
+c) stupně
+12. Sever magnetický je směr, který
+a) určuje magnetka kompasu na který nepůsobí žádné vedlejší rušivé vlivy
+b) je určený myšlenou přímkou, která vede středem země a protíná její povrch v bodech, které
+nazýváme sever magnetický a jih magnetický
+c) změříme na mapě
+13. Deklinace je úhel mezi severem
+a) zeměpisným a kompasovým
+b) magnetickým a kompasovým
+c) zeměpisným a magnetickým
+14. Letecká mapa ICAO 1 : 500 000 se používá pro navigační lety, protože je věrohodná
+a) v plochách
+b) v tratích a úhlech
+c) v plochách, tratích a úhlech
+15. Řešíte úlohu: Vp = 100 km/h, výška letu 1600 m, t = +15° C
+a) PVR = 110 km/h
+b) PVR = 100 km/h
+c) PVR = 90 km/h
+16. Zápis D = +2 znamená
+a) západní, tj. kladnou deklinaci
+b) východní, tj. zápornou deklinaci
+c) východní, tj. kladnou deklinaci
+17. Řešíte úlohu: Km = 312°, PVR = 100 km/h, V/v = 135°/5 m/sec
+a) TR = 100 km/h, US = 2°L
+b) TR = 118 km/h, US = 1°P
+c) TR = 130 km/h, US = 3°L
+18. Izogona je
+a) čára spojující magnetický a zeměpisný pól
+b) přímka, na které leží stejné agony
+c) čára spojující místa se stejnou deklinací
+19. Pokud je Kz = 225o
+, D = +3
+o
+, d = +3
+o
+, pak je
+a) Km = 228
+o
+, Kk = 231
+o
+b) Km = 222
+o
+, Kk = 219
+o
+c) Km = 222
+o
+, Kk = 225
+o
+20. Deviace je způsobena
+a) magnetickými předměty v blízkosti magnetky kompasu
+b) magnetismem Země
+c) průběhem denní doby
+21. Směr měříme ve stupních
+a) ve směru otáčení hodinových ručiček
+b) proti směru otáčení hodinových ručiček
+22. Směr měříme
+a) od nultého poledníku
+b) od severu zeměpisného místního poledníku
+c) od směrníku
+23. Pro označení směru používáme zásadně skupinu čísel
+a) třímístnou
+b) dvoumístnou
+c) podle potřeby
+24. Zeměpisný sever a jih
+a) mění se v závislosti na roční době
+b) působí na něj magnetismus země
+c) nemění polohu
+25. Zeměkoule je
+a) ideální koule
+b) rotační elipsoid na pólech zploštělý
+c) nepravidelný kuloid
+26. Pokud je Kz = 285
+o
+, D = 4
+o
+W, d = -8
+o
+, pak je
+a) Km= 281
+o
+, Kk = 273
+o
+b) Km = 289
+o
+, Kk = 297
+o
+c) Km
+= 281
+o
+, Kk = 290
+o
+27. Časová změna jednoho časového pásma je
+a) 30 minut
+b) 1 hodina
+c) 2 hodiny
+28. Řešíte úlohu: TR = 180 km/h, T= 120 km
+a) doba letu 30 ́
+b) doba letu 50 ́
+c) doba letu 40 ́
+29. Podle tabulky jste zjistil, že východ slunce na 15
+o
+E bude v 05
+o
+24 ́. Chcete-li zahájit let s
+ 
+východem
+slunce z letiště ležícím na 19
+o
+30 ́E, můžete tento let zahájit nejdříve v ZT
+a) 05
+o
+06 ́
+b) 05
+o
+14 ́
+c) 05
+o
+34 ́
+30. Deviační tabulka slouží
+a) k určení magnetického severu
+b) k určení rozdílu mezi deklinací a severem zeměpisným
+c) k určení hodnoty deviace letadla v základních směrech
+31. Pokud je Kz = 050
+o
+, D = 2
+o
+E, d = +5
+o
+, pak je
+a) Km = 052
+o
+, Kk = 057
+o
+b) Km = 048
+o
+, Kk = 053
+o
+c) Km = 048
+o
+, Kk = 043
+o
+32. Které z uvedených měřítek je největší
+a) 1 : 1 000 000
+b) 1 : 100 000
+c) 1 : 500 000
+33. Řešíte úlohu: Vp = 180 km/h, výška letu 1800m, t = 0°C
+a) PVR = 170 km/h
+b) PVR = 180 km/h
+c) PVR = 195 km/h
+34. V ČR podle AIP GEN 2-1-1 se používají jednotky udávající dohlednost včetně dráhové dohlednosti
+a) km nebo metry
+b) námořní míle a metry
+c) námořní míle a km
+35. Mění se čas na nultém poledníku i při přechodu na letní čas v ČR?
+a) ano
+b) ne
+36. Údaje pro nastavení výškoměru se udávají
+a) v milimetrech
+b) v hektopascalech
+c) ve stopách
+37. Skutečný, zcela holý, povrch země se soušemi, nerovnostmi a hladinami moří se nazývá
+a) projekce mapy
+b) topografická plocha
+c) topografická situace
+38. Poledníky se směrem na sever a na jih od rovníku
+a) vzájemně sbíhají
+b) rozbíhají
+c) jsou stále rovnoběžné
+39. Která z dále uvedených podmínek je nejdůležitější pro srovnávací navigaci?
+a) navigační příprava
+b) dobrá mapa
+c) viditelnost země
+40. Navigace výpočtem je
+a) srovnávání vypočtených časů se skutečností
+b) podkladem celé práce pro navigační vedení letadla
+41. Úhel mezi severem zeměpisným a plánovanou tratí, měřený od severu zeměpisného je
+a) úhel větru na trať
+b) úhel letadla
+c) plánovaný traťový úhel zeměpisný
+42. Úhloměrem měříme trať
+a) ze směru vzletu
+b) od severu zeměpisného
+c) od severu magnetického
+43. Pro směr a sílu větru používáme zkratku V/v
+a) první písmeno značí sílu větru a druhé směr větru
+b) první písmeno značí směr větru a druhé sílu větru
+44. Úhel snosu je
+a) úhlový rozdíl mezi prodlouženou osou letadla a tratí letěnou
+b) rozdíl ve stupních mezi Kz a směrem větru
+c) úhlový rozdíl mezi severem zeměpisným a magnetickým
+45. Pokud na mapě, kde souřadnicová síť je orientována k severu magnetickému zjistíte,
+že Kmag = 070
+o
+, D = 7
+o
+W, d = +6
+o
+, pak je
+a) Kz = 063
+o
+, Kk = 057
+o
+b) Kz = 063
+o
+, Kk = 069
+o
+c) Kz = 077
+o
+, Kk = 083
+o
+46. Pro správné stanovení smyslu úhlu snosu platí, že
+a) vítr snáší letadlo z Kk na trať letěnou
+b) vítr snáší letadlo z Kz na trať
+c) vítr snáší letadlo z trati plánované na Kz
+47. Velikost úhlu větru na trať může být
+a) 0 - 360o
+b) 0 - 180o
+c) 0 - 045o
+48. Směr sever odpovídá kursu
+a) 180o
+b) 360o
+c) 090o
+49. Z hlediska srovnávací orientace je barevně nejkontrastnější
+a) léto
+b) jaro
+c) podzim
+50. Při provádění srovnávací orientace během letu orientujete mapu
+a) tak, aby se daly dobře číst nápisy na mapě
+b) podle význačných orientačních bodů
+c) tak, aby směr letu přenesený do mapy byl rovnoběžný s podélnou osou letadla
+51. Magnetické siločáry země
+a) jsou rovnoběžné s povrchem země
+b) jsou na severní polokoulí rovnoběžné s povrchem země, na jižní polokouli nejsou
+c) nejsou rovnoběžné s povrchem zeměkoule
+52. Ke ztrátě orientace za letu může dojít především
+a) není-li mapa správně orientovaná podle světových stran
+b) je-li kouřmo
+c) nejsou-li stranou od letadla vidět dobře orientační body
+53. Při provádění srovnávací orientace je vždy spolehlivější
+a) pozorně prohlížet terén pod letadlem
+b) soustředit pozornost na význačný orientační bod
+c) vyhledat a určit několik orientačních bodů
+54. Je čas měřený na poledníku v Greenwich současně místním i pásmovým časem?
+a) ne
+b) ano
+55. Překonáme-li datumovou čáru směrem na západ
+a) připočteme kalendářní den
+b) odečteme kalendářní den
+56. Rozdíl mezi UTC a letním časem v ČR je
+a) 1 hodina
+b) není žádný
+c) 2 hodiny
+57. V ČR podle AIP GEN 2-1-1 se používají jednotky pro výšky
+a) metry
+b) centimetry a metry
+c) stopy a metry
+58. Horizontální rychlost se udává
+a) ve stopách
+b) v km/hod, v m/sec a v uzlech
+c) v uzlech
+59. Podle tabulky jste zjistil, že východ slunce na 15
+o
+E bude v 05
+o
+24 ́. Chcete-li zahájit let s
+ 
+východem
+slunce z letiště ležícím na 19
+o
+30 ́E, můžete tento let zahájit nejdříve v ZT
+a) 05
+o
+14 ́
+b) 05
+o
+06 ́
+c) 05
+o
+34 ́
+60. Kurs 175
+o
+je zhruba směrem na
+a) sever
+b) jihozápad
+c) jih
+61. V ČR podle AIP GEN 2-1-1 se používají jednotky pro vzdálenosti
+a) metry
+b) námořní míle/kilometry
+c) pouze kilometry
+62. Doba východu a západu slunce se mění
+a) s roční dobou
+b) působením magnetického pole zeměkoule
+c) intensitou slunečního záření
+63. Občanské svítání a občanský soumrak začíná, když je slunce pod horizontem
+a) 6
+o
+b) 3
+o
+c) 8
+o
+64. Zeměkoule je rozdělena na
+a) 24 časových pásem
+b) 12 časových pásem na východ a 12 na západ
+c) každý stupeň má své časové pásmo
+65. Středovým poledníkem nultého pásma je
+a) UTC
+b) poledník, procházející hvězdárnou v Greenwich v Anglii
+c) poledník, procházející městem Oxford v Anglii
+66. Řešíte úlohu: Km = 225°, PVR = 120 km/h, V/v = 090°/20 km/h
+a) TR = 110 km/h, US = 7°L
+b) TR = 125 km/h, US = 2°P
+c) TR = 135 km/h, US = 7°P
+67. Řešíte úlohu: TR = 90 km/h, T= 210 km
+a) doba letu 2°20 ́
+b) doba letu 2°10 ́
+c) doba letu 1°30 ́
+68. Směr východ odpovídá kursu
+a) 090
+o
+b) 180
+o
+c) 270
+o
+69. V našich zeměpisných šířkách je inklinace
+a) kolem 30
+o
+b) kolem 65
+o
+c) kolem 90
+o
+70. Magnetické póly
+a) mají stálou polohu vzhledem k pólům zeměpisným
+b) jsou totožné s póly zeměpisnými
+c) nemají stálou polohu vzhledem k pólům zeměpisným
+71. 1 stupeň zeměpisné délky představuje časově
+a) 1 min
+b) 4 min
+c) 6 min
+72. Kurs 320
+o
+je zhruba směrem na
+a) sever
+b) severovýchod
+c) severozápad
+73. Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd, nazýváme
+a) topografickou situací
+b) topografickou plochou
+c) projekcí mapy
+74. Při srovnávání mapy s terénem je nejdůležitější
+a) přesné hodinky
+b) pozorně prohlížet terén pod letounem
+c) zběhlost ve čtení map
+75. Hlavními navigačními přístroji jsou
+a) variometr, rychloměr, sklonoměr
+b) rychloměr, kompas, hodiny
+c) výškoměr, kompas, variometr
+76. Všechny časové údaje pro leteckou potřebu včetně sportovního létání musí být
+a) uváděny v UTC
+b) uváděny v GMT
+c) uváděny v místním čase
+77. Provádíte-li zatáčku na sever podle magnetického kompasu, zatáčku
+a) přetočíte
+b) nedotočíte
+c) zastavíte přesně na zamýšleném kursu
+78. 10 cm na mapě 1 : 200 000 odpovídá ve skutečnosti
+a) 20 km
+b) 50 km
+c) 200 km
+79. Pravé projekce map
+a) používají úhlů 90
+o
+b) jsou matematické
+c) jsou geometrické
+PROVOZNÍ POSTUPY
+1. Aby piloti měli přiměřené znalosti předpisů, zákonů a postupů vztahujících se k výkonu jejich
+funkcí je povinnost:
+a) Provozovatele.
+b) Pilota.
+c) Vlastníka letadla.
+2. Provozním předpisem platným v současné době v ČR pro soukromé lety letadel je:
+a) L 6 / I.
+b) L 6 / II.
+c) JAR-OPS 2.
+3. Provozní předpis pro soukromé lety letadel ukládá povinnosti těmto osobám:
+a) Veliteli letadla a provozovateli letadla.
+b) Veliteli letadla a uživateli letadla.
+c) Veliteli letadla a vlastníkovi, případně nájemci letadla.
+4. Velitel letadla musí dodržovat příslušné zákony, předpisy a postupy státu:
+a) V jehož vzdušném prostoru je letadlo provozováno.
+b) Zápisu letadla do rejstříku.
+c) Který vydal veliteli letadla průkaz způsobilosti pilota.
+5. Všichni členové letové posádky na svém pracovním místě musí mít zapnuty:
+a) Břišní a ramenní pasy po dobu celého letu.
+b) Břišní pasy po dobu celého letu a ramenní pasy při vzletu a při přistání.
+c) Břišní pasy po dobu celého letu.
+6. Průkaz pilota kluzáků vydává ÚCL s platností :
+a) Do konce kalendářního roku + 9 let.
+b) Do konce kalendářního roku + 5 let.
+c) Na stejnou dobu jako je platná kvalifikace SPL/TMG/.
+7. Za záznamy o provedených letech a závadách zjištěných za letu letadla provozovaného při
+soukromých letech odpovídá:
+a) Velitel letadla.
+b) Uživatel letadla.
+c) Vlastník, případně nájemce letadla.
+8. Může vlastník letadla převést některé povinnosti, které mu ukládá předpis pro provoz letadel pro
+soukromé lety, na nájemce?
+a) Ne.
+b) Ano za předpokladu, že o tom byla uzavřena písemná dohoda podepsaná vlastníkem i
+nájemcem.
+c) Ano za předpokladu, že o tom byla uzavřena ústní dohoda mezi vlastníkem a nájemcem za
+přítomnosti alespoň dvou dalších svědků.
+9. Provozně technické doklady letadel se vyplňují:
+a) Na konci každého provozního dne letadla na základě údajů v palubním deníku souhrnně za
+celý den
+b) Podle vnitřních pravidel provozovatele, minimálně však 1x měsíčně
+c) Po každém letu.
+10. Čitelnost zkušebního vysílání se udává
+a) pěti stupni
+b) třemi stupni
+c) čtyřmi stupni
+11. Jaké je správné umístění polohových světel na letounu?
+a) Ocas - bílé, levé křídlo - červené, pravé křídlo - zelené.
+b) Ocas - červené, levé křídlo - bílé, pravé křídlo - zelené.
+c) Ocas - zelené, levé křídlo - bílé, pravé křídlo - červené.
+12. Pilot kluzáků /motorových kluzáků/
+a) Nemusí pro jednotlivé typy kluzáků/motorových kluzáků/ provést rozdílový výcvik.
+b) Provádí rozdílový výcvik v rozsahu rozhodnutí pilota.
+c) Musí pro jednotlivé typy kluzáků/motorových kluzáků/ provést rozdílový výcvik.
+13. Má-li být kvalifikace SPL nebo TMG využívána pro lety s dalšími osobami na palubě musí mít pilot
+a) Celkový nálet 25 hodin na TMG a SPL a celkem 5 hodin na použitém typu.
+b) Nejméně 25 hodin v příslušné kategorii a 15 hodin samostatné doby na typu.
+c) Nejméně 25 hodin samostatné letové doby v příslušné kategorii a 5 hodin samostatné doby
+na použitém typu.
+14. Tísňová frekvence pro letadlové radiostanice VKV je:
+a) 120.5 MHz.
+b) 121.5 MHz.
+c) 122.5 MHz.
+15. Odpovědnost za údržbu letadla má:
+a) Velitel letadla.
+b) Uživatel letadla.
+c) Vlastník, případně nájemce letadla.
+16. Je-li letadlo vybaveno odpovídačem:
+a) Musí ho pilot mít za letu nepřetržitě v provozu
+b) Zapíná ho pilot od hladiny 5 000 ft.
+c) Zapíná ho pilot při průletu převodní hladinou.
+17. Velitele letadla pro soukromý let letadla stanovuje:
+a) Vlastník letounu.
+b) Provozovatel letounu.
+c) Uživatel letounu.
+18. Noc je v ČR definována takto:
+a) Doba mezi západem slunce a východem slunce.
+b) Je doba mezi koncem občanského soumraku a začátkem občanského svítání, nebo jiný
+podobný časový úsek mezi západem a východem slunce, který může stanovit příslušný
+letecký úřad.
+c) Doba mezi západem slunce - 30 minut a východem slunce + 30 minut.
+19. Údobí nouze zahrnuje situaci, kdy je nejistota o bezpečnosti letadla, dále situaci, kdy je důvodná
+obava o bezpečnosti letadla a situaci, kdy je určitá jistota, že letadlu hrozí vážné nebezpečí.
+Doplňte ve správném pořadí názvy těchto situací:
+a) Údobí nejistoty (INCERFA), pohotovosti (ALERFA), tísně (DETRESFA).
+b) Údobí tísně (DETRESFA), nejistoty (INCERFA), pohotovosti (ALERFA).
+c) Údobí pohotovosti (ALERFA), tísně (DETRESFA), nejistoty (INCERFA).
+20. Pokud pilot závažným způsobem poruší v ČR letecké předpisy:
+a) Zástupce provozovatele letiště mu může na místě udělit blokovou pokutu.
+b) Inspektor ÚCL mu může na místě udělit blokovou pokutu.
+c) Úřad pro civilní letectví s ním může vést správní řízení.
+21. Událost jiná než letecká nehoda, spojená s provozem letadla, která ovlivňuje nebo by mohla
+ovlivnit bezpečnost provozu je:
+a) letecká mimořádná událost
+b) Incident
+c) Katastrofa.
+22. Provozovatel:
+a) Není oprávněn stanovit větší rozsah rozdílového výcviku.
+b) Je oprávněn stanovit větší rozsah rozdílového výcviku po schválení pilotem.
+c) Je oprávněn stanovit větší rozsah rozdílového výcviku.
+23. Pracovník odpovídající odbornou kvalifikací, určený provozovatelem k samostatnému odbornému
+zjišťování příčin incidentů u provozovatelů nebo organizací je:
+a) Zmocněnec.
+b) Vyšetřovatel
+c) Odpovědná osoba.
+24. Může vlastník letadla převést některé povinnosti, které mu ukládá předpis, na nájemce?
+a) Ne.
+b) Ano za předpokladu, že o tom byla uzavřena písemná dohoda podepsaná vlastníkem i
+nájemcem.
+c) Ano za předpokladu, že o tom byla uzavřena ústní dohoda mezi vlastníkem a nájemcem za
+přítomnosti alespoň dvou dalších svědků.
+25. Průvodní doklad k osvědčení letové způsobilosti obsahující omezení, v jehož v jehož rozsahu je
+letadlo považováno za způsobilé, které obsahuje pokyny a informace nezbytné pro členy letové
+posádky k bezpečnému provozu letadla je:
+a) Provozní příručka
+b) Letová příručka
+c) Technická příručka
+26. Velitel letadla musí dodržovat příslušné letecké zákony, předpisy a postupy státu:
+a) V jehož vzdušném prostoru je letadlo provozováno.
+b) Zápisu letadla do rejstříku.
+c) Který vydal veliteli letadla průkaz způsobilosti pilota.
+27. Doklad osvědčující, že předepsaná údržba byla provedena uspokojivě a postupy předepsanými
+v příručce pro údržbu je:
+a) Doklad o vykonaných periodických pracích
+b) Údržbový list letadla.
+c) Potvrzení o údržbě.
+28. Platnost kvalifikace SPL /TMG/ je:
+a) 1 kalendářní rok.
+b) Vždy stejná jako platnost průkazu způsobilosti.
+c) 2 kalendářní roky.
+29. Odpovědnost za údržbu letadla provozovaného pro soukromé lety má:
+a) Velitel letadla.
+b) Uživatel letadla.
+c) Vlastník, případně nájemce letadla.
+30. Provozní doba neveřejného vnitrostátního letiště:
+a) Je určena pro každé letiště jeho letištním řádem.
+b) Je určena minimálně takto : minimálně 7 hodin denně
+c) Není určena.
+31. Provozní plocha je:
+a) Část letiště určená pro vzlety, přistání a pojíždění letadel s výjimkou odbavovacích ploch.
+b) Část letiště určená pro vzlety, přistání a pojíždění letadel.
+c) Část letiště určená pro vzlety a přistání letadel.
+32. Za vedení Palubního deníku je odpovědný:
+a) Velitel letadla.
+b) Provozovatel letadla.
+c) Vlastník letadla.
+33. Údobí nouze zahrnuje situaci, kdy je nejistota o bezpečnosti letadla, dále situaci, kdy je důvodná
+obava o bezpečnosti letadla a situaci, kdy je určitá jistota, že letadlu hrozí vážné nebezpečí.
+Doplňte ve správném pořadí názvy těchto situací:
+a) Údobí nejistoty (INCERFA), pohotovosti (ALERFA), tísně (DETRESFA).
+b) Údobí tísně (DETRESFA), nejistoty (INCERFA), pohotovosti (ALERFA).
+c) Údobí pohotovosti (ALERFA), tísně (DETRESFA), nejistoty (INCERFA).
+34. Velitele letadla pro soukromý let stanovuje:
+a) Vlastník letounu.
+b) Provozovatel letounu.
+c) Uživatel letounu.
+35. Vyrovnávání tlaků mezi horní a spodní stranou křídla, vytvářející proti sobě rotující víry, které se
+odvíjejí od konců křídel nazýváme:
+a) Mezní vrstva.
+b) Vlnová turbulence.
+c) Turbulence v úplavu.
+36. Při navazování spojení lze použít
+a) zkrácenou volací značku
+b) pouze nezkrácenou volací značku
+37. Průvodní doklad k osvědčení letové způsobilosti obsahující omezení, v jehož v jehož rozsahu je
+letadlo považováno za způsobilé, které obsahuje pokyny a informace nezbytné pro členy letové
+posádky k bezpečnému provozu letadla je:
+a) Provozní příručka
+b) Letová příručka
+c) Technická příručka
+38. Pracovník odpovídající odbornou kvalifikací, určený provozovatelem k samostatnému odbornému
+zjišťování příčin incidentů u provozovatelů nebo organizací je:
+a) Zmocněnec.
+b) Vyšetřovatel
+c) Odpovědná osoba
+39. Pro jednotlivé typy kluzáků (motorových kluzáků):
+a) Je nutné provést rozdílový výcvik
+b) Není nutné provádět rozdílový výcvik
+c) Je nutné provést rozdílový výcvik po dohodě s pilotem.
+40. Událost jiná než letecká nehoda, spojená s provozem letadla, která ovlivňuje nebo by mohla
+ovlivnit bezpečnost provozu je:
+a) Letecká mimořádná událost
+b) Incident
+c) Katastrofa.
+41. Ověřovat, zda je Osvědčení o letové způsobilosti platné je povinností :
+a) Provozovatele.
+b) Velitele letadla.
+c) Vedoucího leteckého provozu.
+42. Údaj QNH se vztahuje k :
+a) Nadmořské výšce letiště.
+b) Střední hladině moře.
+c) Vztažnému bodu letiště.
+43. Let musí být prováděn a s letadlem zacházeno tak, aby :
+a) Nedošlo k letecké nehodě.
+b) Nebyla ohrožena bezpečnost cestujících a posádky letadla, osob a majetku na zemi
+c) Nebyla ohrožena bezpečnost cestujících, nákladu, osob a majetku na zemi.
+44. Provozní plocha je
+a) Část letiště určená pro vzlety a přistání letadel.
+b) Část letiště určená pro vzlety, přistání a pojíždění letadel
+c) Část letiště určená pro vzlety, přistání a pojíždění letadel s výjimkou odbavovacích ploch.
+45. Fráze „vysílám naslepo“ se použije
+a) při neznalosti frekvence volané stanice
+b) při neúspěšném navázání spojení
+c) na pokyn letecké stanice
+46. Výrazem CAVOK se dají nahradit údaje o:
+a) Dohlednosti, stavu počasí, množství nízkých oblaků.
+b) Směru a rychlosti větru, dohlednosti, stavu počasí.
+c) Dohlednosti, teplotě vzduchu, rosném bodu.
+47. Doklad osvědčující, že předepsaná údržba na letadle byla provedena uspokojivě a postupy
+předepsanými v příručce pro údržbu je:
+a) Doklad o vykonaných periodických pracích
+b) Údržbový list letadla.
+c) Potvrzení o údržbě.
+48. Lety VFR se nesmí provádět nad letovou hladinu:
+a) 900 nad nejnižší letovou hladinou.
+b) 3000 m.
+c) 6100 m.
+49. Nadmořské výška letiště je :
+a) Výška vztažného bodu letiště.
+b) Výška nejvyššího bodu RWY
+c) Výška místa na provozní ploše letiště určená k nastavení výškoměru.
+50. Tabulka východů a západů slunce je uvedena v AIP části:
+a) ENTR.
+b) AD.
+c) GEN.
+VÝKONY A PLÁNOVÁNÍ
+1. Odpovědnost za to, že při zahájení letu nebude překročena maximální povolená hmotnost
+letadla, má:
+a) Velitel letadla.
+b) Vlastník letadla, případně nájemce letadla.
+c) Výrobce letadla.
+2. Omezení maximální hmotnosti letadla jsou uvedena:
+a) V letové příručce daného letadla.
+b) V příručce pro údržbu daného letadla.
+c) V osvědčení letové způsobilosti daného letadla.
+3. V těžišti letadla působí:
+a) Aerodynamické síly.
+b) Hmotové síly, t.j. tíha a setrvačné síly.
+c) Aerodynamické a hmotové síly.
+4. Omezení polohy těžiště letadla důležitá pro letové výkony a vlastnosti letadla se týkají:
+a) Pouze přední polohy těžiště.
+b) Pouze zadní polohy těžiště.
+c) Přední i zadní polohy těžiště.
+5. Střední aerodynamická tětiva:
+a) Je vzdálenost od přídě letounu k těžišti letounu.
+b) Je vzdálenost mezi těžištěm letounu a neutrálním bodem letounu.
+c) Odpovídá hloubce obdélníkového křídla.
+6. Centráž letadla se obvykle udává:
+a) V procentech statické zásoby.
+b) V procentech střední aerodynamické tětivy.
+c) V procentech zatížení podvozkových kol, stojí-li letadlo na zemi.
+7. Co je hustotní výška?
+a) Je to výška ve standardní atmosféře, která odpovídá dané hustotě vzduchu.
+b) Je to nadmořská výška v dané atmosféře, která odpovídá dané hustotě vzduchu.
+c) Je to výška nad zemí v dané atmosféře, která odpovídá dané hustotě vzduchu.
+8. Je-li za letu centráž běžného sportovního letounu v povolených mezích, ale blízko maximální
+zadní hodnoty, bude letoun při letu v turbulenci:
+a) Poměrně stabilní.
+b) Poměrně málo stabilní.
+c) Podélná stabilita nezávisí na centráži.
+9. Hmotnost letadla musí být vždy uvedena v:
+a) Potvrzení o údržbě.
+b) Provozní příručce.
+c) Letové příručce.
+10. Co by se stalo, kdyby pilot zapomněl na vzlet vztlakové klapky v poloze pro přistání?
+a) Letoun by měl velmi krátký rozběh a odpoutal by se při malé rychlosti, kdy ještě nejsou
+dostatečně účinné řídící plochy.
+b) Letoun by měl velmi krátký rozběh, ale po vzletu by pilot musel vztlakové klapky zasouvat
+postupně a rozptyloval by se tím.
+c) Letoun by při rozjezdu pomalu zrychloval a po odpoutání by letěl blízko pádové rychlosti a
+téměř by nezrychloval.
+11. Kdyby za letu letounu byla poloha těžiště za zadní povolenou mezí, bylo by nebezpečí,
+že:
+a) Letoun bude podélně nestabilní, t.j. bude samovolně měnit úhel náběhu.
+b) Maximální výchylka výškového kormidla nebude stačit pro některé režimy letu, např. pro
+přechodový oblouk při přistání.
+c) Maximální výchylky všech řídících ploch nebudou stačit pro některé režimy letu, např. pro
+vybírání ostrých zatáček.
+12. Co je tlaková výška?
+a) Je to výška v dané atmosféře, která odpovídá danému tlaku.
+b) Je to výška ve standardní atmosféře, která odpovídá danému tlaku.
+c) Je to výška v dané atmosféře, která odpovídá danému tlaku při teplotě +15°C.
+13. Na které fyzikální veličině závisí poloha těžiště letounu?
+a) Na statickém momentu.
+b) Na momentu setrvačnosti.
+c) Pouze na hmotnosti.
+14. Statický moment je součin:
+a) Hmotnosti a ramene.
+b) Hmotnosti a ramene na druhou.
+c) Hmotnosti na druhou a ramene na druhou.
+15. Použitelná délka vzletu se označuje zkratkou:
+a) TORA (take-off run available).
+b) TODA (take-off distance available).
+c) LDA (landing distance available).
+16. Proč se při stanovování výkonů letadel při vzletu zavádí pojem hustotní výška?
+a) Umožňuje vzít v úvahu změny teploty vzduchu.
+b) Umožňuje vzít v úvahu změny teploty i tlaku vzduchu.
+c) Umožňuje vzít v úvahu současně změny teploty i tlaku vzduchu i nadmořskou výšku letiště.
+17. Jaké jsou fáze vzletu?
+a) Rozjezd, nadzdvihnutí, přechodový oblouk, rozlet, stoupání.
+b) Rozjezd, nadzdvihnutí, rozlet, přechodový oblouk, stoupání.
+c) Rozjezd, nadzdvihnutí, stoupání, přechodový oblouk, rozlet.
+18. Jaká je správná rychlost při nadzdvihnutí letadla při vzletu?
+a) Přibližně o 10 až 15% větší než minimální rychlost.
+b) Přibližně o 2 až 3% větší než minimální rychlost.
+c) Stejně velká jako rychlost, kdy je dosaženo maximální klouzavosti.
+19. Zvýšení hmotnosti letadla má za následek:
+a) Prodloužení délky rozjezdu při vzletu.
+b) Zkrácení délky rozjezdu při vzletu.
+c) Nemá vliv na délku rozjezdu při vzletu.
+20. Zvýšení hmotnosti letadla má za následek:
+a) Menší úhel stoupání po vzletu.
+b) Větší úhel stoupání po vzletu.
+c) Nemá na úhel stoupání vliv.
+21. Jaký vliv má větší nadmořská výška letiště na délku vzletu?
+a) Zkrátí délku vzletu.
+b) Prodlouží délku vzletu.
+c) Nemá vliv na délku vzletu.
+22. Platí vždy, že větší nadmořská výška letiště má za následek pokles výkonů letadla při vzletu?
+a) Ano.
+b) Ne zcela přesně. Výkony letadla závisí na tlakové výšce. Ta zahrnuje i vliv změn tlaku vzduchu
+způsobených počasím.
+c) Ne zcela přesně. Výkony letadla závisí na hustotní výšce. Ta zahrnuje i vliv změn tlaku a
+teploty vzduchu způsobených počasím.
+23. Proč se před vzletem obvykle vysouvají vztlakové klapky do polohy na vzlet?
+a) Zkrátí se tím délka rozjezdu.
+b) Zvětší se tím úhel stoupání po vzletu.
+c) Zvětší se tím stoupavost po vzletu.
+24. Letová příručka některých typů letadel připouští provádění vzletu se zasunutými vztlakovými
+klapkami. V tom případě se vztlakové klapky nechávají na vlet zasunuty, když:
+a) Je třeba zkrátit rozjezd i za cenu toho, že bude menší stoupavost.
+b) Je třeba zkrátit délku vzletu do výšky 15 m.
+c) Je třeba po vzletu dosáhnout co největší stoupavost i za cenu toho, že se prodlouží délka
+rozjezdu.
+25. Kdyby za letu letadla byla poloha těžiště před přední povolenou mezí, bylo by nebezpečí, že:
+a) Letoun bude podélně nestabilní, t.j. bude samovolně měnit úhel náběhu.
+b) Maximální výchylka výškového kormidla nebude stačit pro některé režimy letu, např. pro
+přechodový oblouk před přistáním.
+c) Maximální výchylky všech řídících ploch nebudou stačit pro některé režimy letu, např. pro
+vybírání ostrých zatáček.
+26. Jaké jsou fáze přistání?
+a) Klouzání z předepsané výšky, přechodový oblouk (vyrovnání), výdrž (podrovnání), dosednutí,
+dojezd.
+b) Klouzání z předepsané výšky, přechodový oblouk (vyrovnání), vyplavání, dosednutí, dojezd.
+c) Klouzání z předepsané výšky, vyplavání, přechodový oblouk (vyrovnání), výdrž (podrovnání).
+27. Jaký vliv má při přistání protivítr?
+a) Úhel klouzání vůči zemi se zvětší.
+b) Úhel klouzání vůči zemi se zmenší.
+c) Úhel klouzání vůči zemi se nezmění.
+28. Proč se u většiny letadel vysouvají na přistání vztlakové klapky na větší úhel vysunutí než na vzlet?
+a) Aby letoun měl při případném průletu větší stoupavost.
+b) Zejména proto, aby letoun mohl mít menší rychlost při přistání a tudíž menší potřebnou délku
+přistání.
+c) Aby letoun měl menší rychlost při přistání a hlavně, aby měl větší odpor a "neplaval".
+29. Vysunutím vztlakových klapek vznikne moment:
+a) Těžký na ocas.
+b) Moment se nezmění.
+c) Těžký na hlavu.
+30. Hmotnost letadla musí být vždy uvedena v:
+a) Letové příručce.
+b) Provozní příručce.
+c) Potvrzení o údržbě.
+31. Volným pohybem nákladu by mohlo dojít k:
+a) Volný pohyb nákladu nemůže zásadně ovlivnit bezpečnost letu.
+b) Znehodnocení nákladu a poškození letadla .
+c) Ohrožení bezpečnosti letu.
+32. Je-li za letu centráž letadla v povolených mezích, ale blízko maximální přední hodnoty, letoun
+bude při letu v turbulenci:
+a) Poměrně stabilní.
+b) Poměrně málo stabilní.
+c) Podélná stabilita nezávisí na centráži.
+33. Pro správné naložení a vyvážení letadla je nutné:
+a) Určení těžiště.
+b) Znát obsah přepravovaných věcí .
+c) Nepřekročit 15 % SAT.
+34. Volný pohyb nákladu v letadle může způsobit:
+a) Problémy pro pilota a posádku ze letu z důvodu udržováním nákladu.
+b) Změnu výsledné polohy těžiště a tím ohrožení bezpečnosti letu.
+c) V případě, že je volný náklad oddělen od pilotního prostoru nemůže způsobit problém. .
+35. Je-li za letu centráž běžného sportovního letadla v povolených mezích, ale blízko maximální zadní
+hodnoty, bude letoun při letu v turbulenci:
+a) Poměrně stabilní.
+b) Poměrně málo stabilní.
+c) Podélná stabilita nezávisí na centráži.
+36. Na které fyzikální veličině závisí poloha těžiště letadla?
+a) Na statickém momentu.
+b) Na momentu setrvačnosti.
+c) Pouze na hmotnosti.
+37. Pro výpočet těžiště letadel se používají metody:
+a) Grafická.
+b) Výpočtová a grafická.
+c) Tabulková, grafická, výpočtová
+38. Aby bylo dosaženo podélné stability, těžiště musí vždy ležet:
+a) Za neutrálním bodem letadla.
+b) Před neutrálním bodem letadla.
+c) V neutrálním bodě letadla.
+39. Kdyby za letu letadla byla poloha těžiště za zadní povolenou mezí, bylo by nebezpečí, že:
+a) Letoun bude podélně nestabilní, t.j. bude samovolně měnit úhel náběhu.
+b) Maximální výchylka výškového kormidla nebude stačit pro některé režimy letu, např. pro
+přechodový oblouk při přistání.
+c) Maximální výchylky všech řídících ploch nebudou stačit pro některé režimy letu, např. pro
+vybírání ostrých zatáček.
+40. Vysunutí vztlakových klapek za letu vznikne moment:
+a) „Těžký na ocas“.
+b) Vyvážení letadla se nezmění.
+c) „Těžký na hlavu“.
+41. Na které fyzikální veličině závisí poloha těžiště letadla?
+a) Na statickém momentu.
+b) Na momentu setrvačnosti.
+c) Pouze na hmotnosti.
+42. Vysouvání nebo zasouvání podvozku:
+a) Nepůsobí na polohu těžiště.
+b) Působí na polohu těžiště pouze u letadel s příďovým podvozkem.
+c) Působí vždy na polohu těžiště.
+VŠEOBECNÁ ZNALOST LETADEL
+1. Podle principu letu se rozdělují letadla na
+a) letouny, letadla a vrtulníky
+b) lehčí vzduchu a těžší vzduchu
+c) motorové a bezmotorové
+2. Pojem „letadlo“ je definován následovně
+a) zařízení, u něhož je vztlak potřebný k letu vyvozován aerostatickými silami obklopujícího
+ovzduší
+b) jedná se o motorové letadlo schopné řízeného letu v atmosféře
+c) zařízení schopné vyvozovat síly nesoucí jej v atmosféře z reakcí vzduchu, které nejsou
+reakcemi vůči zemskému povrchu
+3. Podle umístění nosných ploch rozdělujeme letadla na
+a) dolnoplošníky, středoplošníky, hornoplošníky
+b) Jednoplošníky a dvouplošníky
+c) jednoplošníky, středoplošníky a hornoplošníky
+4. Nosná soustava letadla je
+a) hlavní část nosné plochy letadla
+b) část draku vytvářející při letu rozhodující podíl vztlaku
+c) část draku sloužící k vytvoření převážné části vztlaku, patří do ní i ta zařízení, která s její
+funkcí úzce souvisí nebo jsou její neoddělitelnou součástí (kormidla příčného řízení, klapky,
+rušiče vztlaku apod.).
+5. „Sekundární“ konstrukce letadla zahrnuje
+a) součásti, jejichž poruchy letadlo po pevnostní stránce vážně ohrozí
+b) součásti, jejichž poruchy letadlo po pevnostní stránce vážně neohrozí
+c) součásti, jejichž poruchy mají významný vliv na rozsah údržby letadla
+6. Typ letadla je
+a) letadlo charakterizované v typovém osvědčení: koncepcí, konstrukcí, výkony a vlastnostmi
+b) letadlo charakterizované v typovém osvědčení: konstrukcí a výkony
+c) letadlo charakterizované v typovém osvědčení: konstrukcí, výkony a vlastnostmi
+7. Násobek zatížení je
+a) poměr vztlaku a odporu na letadle
+b) poměr specifikovaného zatížení k celkové tíze letadla. Udává, kolikrát je vztlak letadla
+v daném časovém okamžiku větší než jeho tíha
+c) poměr statického a dynamického zatížení na letadle
+8. Při předepsaném maximálním provozním zatížení (stanoveno v leteckých předpisech)
+a) musí správně fungovat všechny části nezbytné pro bezpečný provoz letadla ve vzduchu i na
+zemi
+b) nemusí správně fungovat všechny části nezbytné pro bezpečný provoz letadla ve vzduchu i na
+zemi
+c) musí správně fungovat všechny části pro bezpečný provoz letadla ve vzduchu
+9. Pro konstrukci jednotlivých částí letadel a jejich systémů se v obecném souhrnu používají tyto
+druhy materiálů
+a) slitiny lehkých kovů, oceli, titanové slitiny, zušlechtěná dřeva, plasty, ostatní materiály
+(pryže, nátěry, lepidla), nové materiály (komposity, keramické materiály)
+b) slitiny lehkých kovů, titan a jeho slitiny, plasty, ostatní materiály (pryže, nátěry, lepidla), nové
+materiály (komposity, keramické materiály)
+c) duraly, oceli, plasty, komposity
+10. V letecké výrobě kluzáků a malých letadel se používají tyto druhy dřev (zušlechtěných)
+a) smrk, borovice, jasan, bříza
+b) borovice, smrk, bříza, buk, olše, lípa, jasan, jilm
+c) bříza, buk, jasan, jilm
+11. Nejperspektivnějším typem materiálů pro letecké konstrukce na přelomu 20. a 21. století jsou
+materiály
+a) kompositní
+b) na bázi titanových slitin
+c) jednosložkové
+12. Hlavní charakteristiky nosných ploch letadla jsou
+a) rozpětí, profily nosných ploch, velikost nosných ploch, štíhlost, zúžení
+b) poloha nosných ploch vůči trupu, půdorysný tvar, rozpětí, profily nosných ploch, velikost
+nosných ploch, štíhlost, zúžení, úhel šípu, úhel vzepětí, úhel seřízení, zkroucení
+c) poloha nosných ploch vůči trupu, půdorysný tvar, rozpětí, profily nosných ploch, velikost
+nosných ploch, štíhlost, zúžení, úhel šípu, úhel vzepětí
+13. Konstrukční prvky nosné soustavy jsou
+a) nosníky, žebra, potahy, závěsná a spojovací kování
+b) nosníky, žebra, podélné výztuhy
+c) nosníky, žebra, podélné výztuhy, potahy, závěsná a spojovací kování
+14. Dvounosníková konstrukce křídla je
+a) konstrukce se dvěma hlavními nosníky
+b) konstrukce s jedním hlavním a jedním pomocným nosníkem
+c) konstrukce se dvěma hlavními a jedním pomocným nosníkem
+15. Samonosné křídlo je
+a) křídlo s vnějším vyztužením
+b) křídlo bez vnějšího vyztužení
+c) křídlo podepřené k trupu vzpěrou
+16. Skořepinová konstrukce trupu je
+a) konstrukce, jejíž krutová a ohybová pevnost a tuhost je zajišťována potahem
+b) konstrukce, jejíž krutová a ohybová pevnost a tuhost je zajišťována přepážkami
+c) konstrukce, jejíž krutová a ohybová pevnost a tuhost je zajišťována přehradami
+17. Přetlaková část trupu je
+a) celá vnitřní část tj. užitkový prostor trupu
+b) utěsněná část trupu, v níž se udržuje potřebný tlak ve velkých výškách
+c) utěsněná část trupu, v níž se udržuje stejný tlak za letu jako je na zemi
+18. Kolem příčné osy se letoun řídí
+a) křidélky
+b) směrovým kormidlem
+c) výškovým kormidlem
+19. Kormidla příčného řízení slouží k zajištění změny úhlu příčného sklonu letadla kolem
+a) podélné osy (v letadlové souřadnicové soustavě)
+b) bočné osy (v letadlové souřadnicové soustavě)
+c) kolmé osy (v letadlové souřadnicové soustavě)
+20. Hlavní podvozek letadla je
+a) základní konstrukční skupina přistávacího zařízení
+b) podvozek zachycující převážnou část energie po zemi se pohybujícího letadla
+c) podvozek zachycující veškerou energii pohybujícího se letadla
+21. Pojem „letoun“ je definován takto
+a) letadlo těžší než vzduch s pohonem, vyvozující vztlak za letu hlavně z aerodynamickýc sil na
+plochách, které za daných podmínek letu zůstávají vůči letadlu nepohyblivé
+b) motorové letadlo schopné řízeného letu v atmosféře
+c) letadlo těžší než vzduch, u něhož je vztlak potřebný k letu vyvozován jiným způsobem než
+aerodynamickými silami na nosných plochách
+22. Klasifikační třídy letadel jsou
+a) třídy letadel podle účelu
+b) třídy, do nichž se zařazují letadla na základě splnění příslušných předpisů způsobilosti, a to
+z těchto hledisek: řiditelnosti a namáhání, účel použití, stupeň provozní bezpečnosti
+c) třídy rozdělení letadel podle délky vzletu a přistání
+23. Podle půdorysného tvaru křídla rozdělujeme letouny do následujících skupin
+a) s přímým křídlem, se šípovým křídlem, s trojúhelníkovým křídlem, s proměnnou geometrií
+křídla
+b) s přímým křídlem, se šípovým křídlem, eliptická, s trojúhelníkovým křídlem, se speciálním
+tvarem křídla
+c) s přímým křídlem, s lichoběžníkovým křídlem, eliptická, se šípovým křídlem,
+s trojúhelníkovým křídlem, se speciálním tvarem křídla, s proměnnou geometrií křídla
+24. Řízení letadel je
+a) ovládací prvek v kabině pilota
+b) soustava prvků řízení umožňující přenos řídící činnosti z řídidel na řídící orgány
+c) řídící páka nebo volant v pilotní kabině
+25. Příčná soustava v konstrukci draku letounu je
+a) soubor příčných nosných prvků v konstrukci křídla, trupu a ocasních ploch
+b) soubor nenosných konstrukčních prvků trupu letounu
+c) soustava příčného vyvážení letounu
+26. Na letadlo působí během provozu řada zatížení, která musí jeho konstrukce zachytit. Zatížení
+rozdělujeme na:
+a) dynamická a proměnná
+b) statická, dynamická, manévrovací a poryvová
+c) statická a dynamická
+27. Dynamické zatížení určitého prvku nebo části letadla je definováno následovně
+a) je to zatížení, jehož velikost se s časem nemění
+b) je to zatížení, jehož velikost se mění s časem poměrně rychle
+c) je to zatížení, jehož velikost se s čase mění pomalu
+28. Dřevo jako letecký stavební materiál je často využíván ve formě překližek. Překližky jsou vyráběny
+sklížením tenkých listů loupané dýhy v počtu 3 až 5, při čemž první a poslední vrstva má směr
+vláken shodný a zbývající jsou pootočeny. Je charakteristika překližky správná?
+a) správná charakteristika letecké překližky
+b) počet vrstev (listů) je mnohem větší (10 a více)
+c) všechny vrstvy mají směr vláken shodný
+29. Geometrická štíhlost křídla je
+a) poměr prvé mocniny rozpětí křídla k ploše křídla
+b) poměr druhé mocniny rozpětí křídla k ploše křídla
+c) poměr třetí mocniny rozpětí křídla k ploše křídla
+30. Účelem žeber v konstrukci křídla je
+a) zachytit ohybová zatížení (ohybové momenty) po rozpětí křídla
+b) zachytit smyková zatížení křídla
+c) přenášet zatížení z potahu na nosnou konstrukci a v některých případech může zavádět do
+konstrukce osamělé síly (např. přes uchycení závěsů podvozku apod.)
+31. Příhradový trup letadla je
+a) sestavený trup bez potahu. Obsahuje nosníky, podélníky, přepážky a výztuhy
+b) trup vytvořený smíšenou konstrukcí
+c) trup vytvořený prostorovou prutovinovou soustavou potaženou většinou nenosným
+potahem
+32. Základními prostředky stability a řiditelnosti klasického letadla jsou
+a) kormidla příčného řízení
+b) ocasní plochy a kormidla příčného řízení
+c) casní plochy
+33. Diferencovaná křidélka jsou křidélka, jejichž úhlové výchylky jsou
+a) nahoru a dolů rozdílné
+b) nahoru a dolů přibližné stejné
+c) dolů větší
+34. Typické rozdělení podvozku letounů podle jejich konstrukce je následující
+a) pružinové a vozíkové podvozky
+b) teleskopické, pákové a pružinové podvozky
+c) teleskopické a pákové podvozky
+35. Vedlejší soustava řízení letadla je
+a) soustava zařízení, jejichž činností vzniká moment kolem příslušné osy letadla. Jsou to např.
+kormidla, řídící trysky, rotory apod.
+b) soustava zařízení, jimiž příslušný člen posádky působí na soustavu řízení
+c) soustava zařízení sloužící k přenosu činnosti z ovládače na ovládanou část, např. na
+podvozek, vztlakové klapky, na ovládání nákladových dveří apod
+36. Řízení letadla rozdělujeme podle druhu konstrukcí řídidel (řídících orgánů) na
+a) pákové a volantové
+b) volantové a s ovladačem (ručka
+c) pákové, volantové, s rukojetí na páce, s ovladačem (elektroimpulsní řízení)
+37. Rozsah a četnost periodických prohlídek letadla určuje
+a) ÚCL
+b) výrobce
+c) provozovatel
+38. Slot (náběžná ploška) je
+a) ploška před náběžnou částí křídla. Zabraňuje odtržení proudu vzduchu při větších úhlech
+náběhu
+b) horní část náběžné části křídla, která se vysouvá směrem dopředu
+c) náběžná část křídla sklopená směrem dolů
+39. Letadlové systémy (Soustavy, příp. instalace) je možno rozdělit do následujících hlavních skupin
+a) silové systémy, smíšené systémy
+b) silové systémy, systémy vybavení letadla a pohonných jednotek
+c) silové systémy, systémy vybavení letadla, elektroimpulsní systémy
+40. Létání ve velkých výškách vyžaduje zabezpečit normální životní podmínky pro pobyt a činnost
+člověka (pilota, cestujícího). Se vzrůstající výškou se mění některé stavové veličiny (veličiny
+určující stav ovzduší) následovně dle MSA (ISA)
+a) tlak klesá, teplota klesá
+b) tlak klesá, teplota stoupá, vlhkost stoupá
+c) tlak klesá, teplota klesá, vlhkost klesá
+41. Letadla těžší vzduchu rozdělujeme podrobněji na
+a) bezmotorová a motorová
+b) motorová, bezmotorová a vzducholodě
+c) letadla, letouny a kluzáky
+42. „Drak letadla“ tvoří
+a) konstrukce letadla (nosná soustava, trup, ocasní plochy, řízení a přistávací zařízení)
+s pohonnými jednotkami a výstrojí
+b) konstrukce letadla (nosná soustava, trup, ocasní plochy, řízení a přistávací zařízení) bez
+pohonných jednotek a jejich příslušenství, výstroje a instalace
+c) nosná soustava, trup, řízení, přistávací zařízení
+43. Vodorovné casní plochy letadla jsou tvořeny
+a) pevnou nepohyblivou částí /výškovým kormidlem/ a pohyblivou části/ stabilizátorem/
+b) pevnou nepohyblivou částí / stabilizátorem/ a pohyblivou části /výškovým kormidlem/
+c) pohyblivými částmi a to stabilizátorem a výškovým kormidlem
+44. Pojem „přistávací zařízení“ je definován v souladu s technickými normami takto
+a) část letadla umožňující vzlet, přistání a pojíždění
+b) soustava kol na letadle
+c) část letadla umožňující přistání
+45. „Primární“ konstrukce letadla zahrnuje
+a) součásti, jejichž poruchy letadlo po pevnostní stránce vážně neohrozí
+b) součásti, jejichž poruchy mohou mít vliv na velký rozsah údržby letadla
+c) součásti, jejichž poruchy letadlo po pevnostní stránce vážně ohrozí
+46. Podélná soustava v konstrukci draku letounu je
+a) soubor nenosných konstrukčních prvků trupu letounu
+b) soubor podélných nosných prvků v konstrukci křídla, trupu a ocasních ploch
+c) soustava podélného vyvážení letounu
+47. Poloskořepinová konstrukce je
+a) konstrukce, u níž je použito dvou nebo více typů konstrukcí
+b) konstrukce, jejíž krutová a ohybová pevnost a tuhost je zajišťována potahem
+c) konstrukce sestávající z nosného potahu v ohybu a smyku, zesíleného podélnými, popř.
+příčnými výztuhami
+48. Za dynamické zatížení letadla považujeme tato zatížení
+a) zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů, zatížení od
+sil při vzletu a přistání, zatížení související s přetlakováním kabiny
+b) zatížení od tíhy paliva v křídlech při plnění nádrží
+c) zatížení od pohybu cestujících na palubě za letu
+49. Při rovnoměrném přímočarém letu působí na konstrukci letadla tato zatížení
+a) tíha, vzdušné (aerodynamické) zatížení, síly od pohonné skupiny, síly setrvačné
+b) tíha, vzdušné (aerodynamické) zatížení, síly od pohonné skupiny
+c) tíha, vzdušné (aerodynamické) zatížení, síly od pohonné skupiny, síly setrvačné, reakce od
+země
+50. Z hlediska konstrukčních prvků a materiálového použití lze rozdělit konstrukce draků letadel na
+tyto druhy
+a) konstrukce kovové a konstrukce smíšené
+b) konstrukce kovové, konstrukce dřevěné, konstrukce kompositní a konstrukce smíšené
+c) konstrukce kovové, konstrukce dřevěné a konstrukce kompositní
+51. Podle tvaru nosných ploch rozeznáváme křídla letounů
+a) přímá, lichoběžníková, eliptická, šípová, trojúhelníková, speciální, s měnitelnou geometrií
+b) přímá, lichoběžníková, speciální
+c) přímá, šípová, eliptická, speciální, s měnitelnou geometrií
+52. Centroplán je
+a) samostatná střední část křídla spojená s trupem nebo tvořící s ním celek, k níž jsou
+připevněny vnější části křídla
+b) kloubové zavěšení křídla nad trupem, podepřené vzpěrami
+c) soustava vzpěr, popř. konstrukce upevňující křídlo umístěné nad trupem k trupu
+53. Dělené křídlo je
+a) křídlo podepřené k trupu jednou vzpěrou
+b) křídlo sestavené ze dvou nebo více rozpojitelných částí
+c) křídlo, jehož jednotlivé části mají různý úhel šípu
+54. Trup letadla je
+a) část draku letadla sloužící hlavně ke spojení jednotlivých částí draku mezi sebou
+b) část draku letadla sloužící hlavně ke spojení jednotlivých částí draku a k umístění posádky,
+cestujících, nákladu, výstroje, popř. hnací jednotky
+c) část letadla vytvořené nosníkovou konstrukcí a sloužící hlavně ke spojení jednotlivých částí
+draku mezi sebou
+55. Co je hlavní příčinou krutu a ohybu trupu letounu za letu?
+a) především kombinovaná zatížení přejímaná od ocasních ploch
+b) otáčivé pohyby letounu
+c) účinek hmotových sil, které působí jako jednotlivé osamělé síly
+56. Smíšená konstrukce trupu je charakterizována takto
+a) konstrukce sestávající ze dvou, tří nebo více skořepinových panelů (desek)
+b) konstrukce, u níž je použito dvou nebo více typů konstrukcí (např. konstrukce
+poloskořepinová a příhradová) nebo konstrukce, u níž je použito dvou nebo více hlavních
+konstrukčních materiálů
+c) soubor podélných a příčných nosných prvků v konstrukci trupu
+57. Jak se nazývá pohyb (otáčení) letadla kolem podélné osy
+a) bočení
+b) klonění
+c) klopení
+58. Plovoucí ocasní plochy jsou
+a) pohyblivá část vodorovných ocasních ploch
+b) pohyblivá část svislých ocasních ploch
+c) ocasní plochy bez pevné části, pohyblivé jako celek
+59. Pákový podvozek je konstrukční uspořádání podvozku
+a) jenž může být za letu zatažen do draku
+b) u něhož není osa kola spojena pákou s tlumičem
+c) u něhož je osa kola spojena pákou s tlumičem
+60. Hlavní soustava řízení letadla je
+a) soustava řízení umožňující přenos řídící činnosti z řídidel na řídící orgány
+b) soustava řízení, kterou je za letu řízeno klopení, klonění a zatáčení letadla
+c) soustava řízení, ve které je pro přenos řídící činnosti z řídidel na řídící orgány použito táhel i
+lan
+61. Laminátový trup
+a) vykazuje příznivou váhu při malé tuhosti
+b) vykazuje značnou tuhost při nepříznivé váze
+c) vykazuje značnou tuhost při příznivé váze
+62. Trup letadla je charakterizován následovně
+a) část draku letadla, sloužící hlavně kde spojení jednotlivých částí draku a k umístění
+posádky, cestujících, nákladu, výstroje popř. hnací jednotky
+b) sestavený drak letadla bez potahu a křídel
+c) utěsněná část letadla s vnitřním vybavením a výstrojí
+63. Provozní zatížení letadlové konstrukce nebo její části je
+a) zatížení, používané při pevnostním průkazu jako maximální hodnota, která se u letadla za
+provozu může vyskytnout
+b) maximální zatížení, při kterém napětí v konstrukci právě stačí k udržení rovnovážného stavu
+c) početní zatížení násobené požadovaným součinitelem bezpečnosti
+64. Mezi orgány řiditelnosti a stability počítáme
+a) křidélka, výškové kormidlo, směrové kormidlo
+b) křidélka, výškové kormidlo
+c) výškové kormidlo, směrové kormidlo
+65. V konstrukci draku klasického letadla převládají tyto materiály
+a) hořčíkové slitiny
+b) hliníkové slitiny
+c) oceli různých tříd
+66. Výhodou plastů je, že jsou jimi nahrazeny u mnoha konstrukčních částí letadel zejména kovy a
+dřevo. Plasty jsou materiály získané technickou cestou, které z hlediska zpracování dělíme na
+a) termosety a termoplasty
+b) termosety a bakelity
+c) termoplasty, termosety a plexiskla
+67. Jednotlivé druhy konstrukcí křídel rozdělujeme do těchto skupin
+a) konstrukce nosníkové, nosníkové poloskořepiny, ploskořepiny, skořepiny, smíšené
+konstrukce, plná křídla
+b) konstrukce nosníkové, poloskořepinové a smíšené konstrukce
+c) konstrukce nosníkové, nosníkové poloskořepiny, poloskořepiny, skořepiny
+68. Torzní skříň křídla je
+a) část konstrukce křídla zachycující zejména ohybové momenty. Je tvořena nosným potahem a
+stojinami nosníků
+b) část konstrukce křídla zachycující kroutící momenty a posouvající síly (smyková napětí),
+popř. část ohybových momentů. Je tvořena nosným potahem a stojinami nosníků
+c) část konstrukce křídla zachycující převážně smyková zatížení. Je tvořena nosným potahem a
+stojinami nosníků
+69. Poloskořepinová konstrukce trupu má podélnou soustavu tvořenou hustě rozmístěnými
+podélnými výztuhami (podélníky). Kroucení trupu (kroutící moment) u této konstrukce zachycují
+a) podélné výztuhy tíha, vzdušné (aerodynamické) zatížení, síly od pohonné skupiny
+b) přepážky
+c) nosný potah, vyztužený podélníky a přepážkami
+70. Která z uvedených letadlových částí tvoří ocasní plochy letadla
+a) stabilizátor a kýlová plocha
+b) plovoucí stabilizátor a směrové kormidlo
+c) vodorovné ocasní plochy, svislé ocasní plochy
+71. Jak se nazývá otáčení letadla okolo svislé osy
+a) zatáčení
+b) klopení
+c) klonění
+72. Vodorovné ocasní plochy (VOP) zajišťují
+a) podélnou stabilitu a výškové řízení
+b) příčnou stabilitu a výškové řízení
+c) stranovou stabilitu a výškové řízení
+73. Odlehčovací ploška (fletner) je
+a) ploška umístěná na odtokové hraně kormidla, jejíž výchylka nezávisí na výchylce kormidla.
+Vychyluje se v opačném smyslu a snižuje závěsový moment
+b) ploška umístěná na odtokové hraně kormidla, jejíž výchylka závisí na výchylce kormidla.
+Vychyluje se v opačném smyslu a snižuje závěsový moment
+c) ploška umístěná na odtokové hraně kormidla, jejíž výchylka závisí na výchylce kormidla.
+Vychyluje se v opačném smyslu a zvyšuje závěsový moment
+74. Jak se nazývá divergentní samobuzené kmitání některé části letounu vyvolané vzájemným
+působením aerodynamických sil, setrvačných sil a pružných vrtaných sil?
+a) třepání (buffeting)
+b) třepetání (flutter)
+c) volné kmitání
+75. Do oblasti protipožární pasivní ochrany patří i chování lidí (posádek, techniků, provozních
+pracovníků, cestujících) při provozu letadla
+a) ano
+b) ne
+c) jedná se o aktivní protipožární ochranu
+76. Každé letadlo provozované v ČR musí mít platný doklad o jeho technické způsobilosti. U letadel
+registrovaných ÚCL je to:
+a) Technický průkaz ultralehkého letadla
+b) Osvědčení letové způsobilosti
+c) Letecká příručka
+77. Smíšená soustava řízení letadla je
+a) soustava řízení, ve které je pro přenos řídící činnosti z řídidel na řídící orgány použito táhel i
+lan
+b) soustava řízení, kterou je za letu řízeno klopení, klonění a zatáčení letadla
+c) soustava řízení umožňující ovládání řídidel ze dvou sedadel
+78. Umělý cit s systému řízení je
+a) zařízení sloužící ke znásobení síly působící na řídidlo (u nepřímého řízení)
+b) zařízení zajišťující, aby síly na řídidle byly přiměřené (u nepřímého řízení)
+c) zařízení zvyšující citlivost řízení (u nepřímého řízení)
+79. Soustava řízení s tuhým převodem je částí mechanické soustavy řízení letadla, ve které jsou
+použita pro přenos sil
+a) lana nebo řetízky
+b) táhla
+c) lana a táhla

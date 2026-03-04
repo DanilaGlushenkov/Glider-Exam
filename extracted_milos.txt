@@ -1,0 +1,12 @@
+
+ERROR: file 'c:\!Projects\Glider Exam\Source\od milose-20260304T104639Z-3-001\od milose\VŠEOBECNÉ_ZNALOSTI_GLD.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+
+ERROR: file 'c:\!Projects\Glider Exam\Source\od milose-20260304T104639Z-3-001\od milose\meteor.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+
+ERROR: Package not found at 'c:\!Projects\Glider Exam\Source\od milose-20260304T104639Z-3-001\od milose\navigace_GLD.doc'
+
+ERROR: file 'c:\!Projects\Glider Exam\Source\od milose-20260304T104639Z-3-001\od milose\provozní_postupy__.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+
+ERROR: file 'c:\!Projects\Glider Exam\Source\od milose-20260304T104639Z-3-001\od milose\předpis.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+
+ERROR: file 'c:\!Projects\Glider Exam\Source\od milose-20260304T104639Z-3-001\od milose\základy_letu.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'

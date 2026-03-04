@@ -1,0 +1,463 @@
+
+============================================================
+NAVIGACE
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TESTC
+Odbornost: Pilot kluzáku motorových kluzáku Prcdmét: Navigace
+1. Úhel mczi severem zemčpisným a planovanou tratí, mčřený od severu zemépisného je uhel vetru na trať b)  uhel letadla plánovaný traťový úhel zemépisný
+2. Úhloměrem měříme trat'
+ze smeru vzletu od severu zemepisneho od severu 'magnetickeho
+3. Pro směr a sílu větru použiváme zkratku Vlv
+pnni písmeno znaci silu vetru a druhé směr větru pnní pismeno značí směr větru a druhé sílu větru
+Úhel snosu je
+úhlový rozdíl mezi prodlouženou osou letadla a tratí letěnou rozdíl ve stupnich mezi Kza smérem větru úhlový rozdil mezi severem zemépisným a magnetickým
+5.Pokud na mapě, kde souřadnicová síť je orientována k severu magnetickému zjistíte, že Kmag 070", D = 7W,d = +6" pak je
+Kz = 0630, Kk = 0570 b) Kz = 063 , Kk = 0690 Kz = 077 ,Kk = 0830
+Suana
+DAT :0i03 05
+
+--- 02.jpg ---
+Pro správné stanov Cug smyslu úhlu snosu platí 7e vítr snáší letadlo z Kk na trať letenou vitr snáší letadlo z Kz na trať vÍtr snáší letadlo z trati planované na Kz
+7 Velikost úhlu větru na trat' muže být 3600 1800 0450
+8. Směr sever odpovídá kursu 1800 3600 0900
+9.Z hlediska srovnávaci orientace je barevně nejkontrastnější léto b) jaro podzim
+10. Při provádění srovnávací orientace během letu orientujete mapu tak, aby se daly dobře číst nápisy na mapé podle význačných orientačních bodů tak, aby směr letu přenesený do mapy byl rovnoběžný podélnou osou letadla
+11. Během letu orientujete mapu podle význačných orientacních bodú b) podle terénu 'podle údajů kompasu
+Surana 2
+DAT 01.03305
+
+--- 03.jpg ---
+12. Ke ztrátě orientace za letu muže dojít především neni-li mapa správně orientovaná b) je-li kouimo podle svélových stran nejsou-li stranou od letadla vidět dobře orientační body
+13. Při provádění srovnávací orientace je vždy spolehlivější pozomne prohlížet terén pod letadlem soustředit pozornost na význačný orientační bod vyhledat a určit nekolik orientačních bodů
+14. Je čas měřený na poledníku v Greenwich současně místním pásmovým časem?
+ne ano
+15. Překonáme-li datumovou čáru směrem na západ
+připočteme kalendářní den odečteme kalendářní den
+16. Rozdíl mezi UTC a letním časem v ČR je
+hodina není žádný 2 hodiny
+17. V ČR podle AIP GEN 1-2-1 se používají jednotky pro výšky
+metry centimetry metry stopy a metry
+DaT:0i 0J 05
+Strana
+
+--- 04.jpg ---
+18. Horizontální rychlost se udává
+vC stopách kmhhod, msec a v 'uzlech uzlech
+19. Podle tabulky jste zjistil, že východ slunce na ISPE bude v 05" 24 ~ Chcete-li zahájit let s východem slunce z letiště ležícím na 190 30'E, můžete tento let zahájit nejdříve ZT
+050 14 05" 06' 050 34
+20. Kurs 175" je zhruba směrem na
+sever
+b)   jihozápad jih
+DAT   0i 0} 0s
+Suana
+
+
+============================================================
+LETECKE PREDPISY
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TEST B
+Odbornost Pilot kluzáku a motorových kluzáku Předmĺt Lctecký_pŕedpis
+1. Část letiště urěená pro vzlety, přistání # pojíždění letadel, sestávající z provozní plochy odhavovací plochy (ploch) sc nazýva
+pohybova plocha prvvozní plocha letistní plocha
+2. Letadlo, které přilétává na neřizené letiště ncho z něho odlétává, je povinno dodržet publikované parametry letištního okruhu, pokud informace přijatá ze stanoviště AFIS nestanoví jinak. případě, že parametry letištního okruhu nejsou známy, letadlo musí provúdět všechny zatáčky při přiblížení na přistání neho po vzletu
+doprava doleva nebo doprava dle skutečné provozní situace na letišti a na jeho okruhu doleva
+Letová dohlednost je dohlednost dopředu z kabiny letadla dohlednost z letadla za letu nad výšku 700 m QNH největší vzdálenost, na kterou je možno spolehlivě rozeznat na neosvětleném pozadí svétla 0 svítivosti přibližně 0O0 cd
+Doba mezi koncem oběanského soumraku a začátkem občanského svítání nebo jiný podobný časový úsek mezi západem a východem slunce; který může stanovit příslušný úřad je
+noc nautický soumrak soumrak
+5. Letištní provozní zóna (ATZ) je vymezena a) horizontálnf kružnicí(nebo její částí) 0 poloméru JNM(S Skm) od vztažného bodu letiště vertikálné zemským povrchem nadmorskou výškou 4 0oon(1200m) nad vztažným bodem letište b) horizontálni kružnicí(nebo jejf částí) 0 poloméru 2NM(S km) od vztažného bodu letište vertikálne zemským povrchem a nadmorskou výškou 3 OoOn(9oom) nad vztažným bodem lctiste horizontální kružnici(nebo její částf) 0 poloméru 3NM(S,Skm) od středu letiste a vertikalne zemským povrchem a nadmorskou výškou 4000n(1200m) nad středem letiste
+Strano
+Dat 01, 09 0s
+
+--- 02.jpg ---
+Lctadlo, ktcré priletava do ATZ mimo provorni dohu Jetisie, QNII nastuvene nn pocatku pruvndenehes letu oblusInl QFF rcpionlnl QNII
+Sýškomér
+Pfcdlctavajicije 10 lctadlo. ktcre s1 drulicmu ptihlivuje re/u po truti , svírujíci podelnou osou druheho letudla úhel menst nez 7u 602 802
+8. Vymnezcn prnvonhlú plochu ne zemi nebo na vode Pu dohledem príslusné sluzby Hzenf letovcho pIvoza vybruna nebo upravená jako pouvitelnú plocha; nad nlž mužc Ictadlo pmvest cast sveho pocatecnlho sluupáni   do piedepsane výšky je
+pohybovd plocha rozlctuvú plochn prcdpoli
+Za vedenf Palubniho deníku jc odpov,dný
+provozovatel letudla vclitcl Ictudla velitel Ictudla. kucry múžc pavefit   jinu osobu. uvšuk toto ho nezhuvuje zodpovednosti uplnost uvedenych údujů
+10. Ve vzdusném prustoru 0 jc požndavek pru lety VFR nu spojeni :
+ncvyhaduje sc Munr byl suulc obousmérné nCvyiujc Id Ooo n
+1. Let VFR nad ohlaenustí mubc hýt proveden není-li celkové pokryt oblucnosti ou Ictuolem
+'ctsi nc} ABajc moYno jel provudct podle sruvnuvac( nvipace veUf nelS/K u jc mokno jcj provudet podle srovnvacl nuvipnce tukove nby brnnilo stovnivuc{ nnviguci
+Sttra 2
+Da1 06, 04
+
+--- 03.jpg ---
+12. Letecký rejstřík je : veřejně přístupný seznam seznam pro potreby UCL a MDS seznam, do ktercho mohou nahlizet ÚCL MDS, evidovaný letecký personál , letečtí provozovatelé
+13, Vztažný bod letiště
+je stanoven na letištích $ řízeným provozem musi být stanoven pro všechna veřcjná letíště musi být stanoven pro každe letište
+14. $ výjimkou; kdy je to nezbytne pro vzlet nebo přistání nebo 'pokud Lak povolí příslušný úřad(MDS) let VFR nesmi být prováděn ve Výšce ne nižší než 300 m nad zemí nebo vodou b) ve výšce ne nižší než 150 m nad zemí nebo vodou ve výšce ne nižší než 100 m nad zemí nebo vodou
+15. Pokud fyzická osoba vykonává činnost leteckého personálu bez platného průkazu způsobilosti může jí být uložena pokuta až do výše
+50 000 Kč 100 000 Kč 150 000 Kč
+16. Tabulka východů a západů slunce je uvedena AIP části ENR b) AD GEN
+17. Altitude je :
+výška letu letadla nad úrovní letiště b) výška letu nad zemí c) výška letu měřená od střední hladiny moře
+Strana
+DAT 0l0J 05
+
+--- 04.jpg ---
+18. Dvojitý bílý kříž, umístený horizontálné návěstní ploše znamená _ 7c na letisti se 'provadéjí výsadky Ma letisti jc kombinovaný provoz na letisti je provoz kluzáků
+19.Smysl kroužení více kluzáků ve stoupavém proudu urcuje pilot kluzáku; který začal kroužit jako první je urcena podle nejvyššího kluzáku řídí kluzákem který stoupá nejrychleji
+20. Pokud není schváleno příslušným úřadem(ÚCL)jinak lety VFR se nesmí 'provádčt nad 3050 m nad FL 200 nad FL 150
+Strana
+DAT;0i 0J 0s
+
+
+============================================================
+LETOVÉ VÝKONY A PLÁNOVÁNÍ
+============================================================
+
+--- 01.jpg ---
+ZKUSEBNÍ TESTB
+Odhornnste Pilot kluzuku motorových Kluzaka Crcumndt: Cine € Vkony Ilanosan Jaký vllv ma větší nadmorska vyika letiŠtě na délku Vletu: Znlf delku vzlelu Prodlou?t uelku vzlct Nctnd vliv na delku vzletus
+Co Je ' takosa ,yska:
+Je to vyska v dané atmosfčře, ktetá odpovida dunemu taku Jeto viska Vc slandardni atmosteie, kicra odpovidn Jc to výska dunemu tuku dune atmosiche ktcra odpovidú danému tluku při Icplote "ISEC.
+Staticky moment je soucin:
+Hmnotnosti numene  Imnotnosti rtlcnc nn druhou Hmouosti nn druhou humcnc uu drubol;
+Prue se pŕi stanov ování výkonu letadel při vzletu zavadí pojem hustotut vyska ? Umožznuje vzit = úvnhu zmény Ieploty vrduchu; Umoznuje vzIt úvahu zmeny tcploty  Ilaku vzduchu Umoznuje Vzii uvnhu soucusne zcny tcploty Ictiste ítlaku vzduchu i ndmorskou vysku
+Platf vhdy, ke větší nudmořská výškn letiste mnu nusledek pokles pfl veletu? vkonu Ictadla
+ns Ne zcela pŕesnes Vykany Ietadla závisi na tlakové výšce; Ta zahmuje = tuku vzduchu /pusobenych pocnsim vluv 7en Ne nclu pFcsnč , Vykony lctadla zuvisf hustotui vysce Ta zuhmuie vliv taku u Icploty veduch rpúsobenyrl [kusim ; Wnien
+Proe sc pfcd vzlctem ohvykle souvujl vztlukove klopky polohy nu vzlet? ZLrati ~e Imn delkn ruzjezdu ZvětšÍ se Imn úhel sloupsini Jw vzletu Zyeusf se tmn stonpuvast po veletu 
+Di
+shann
+
+--- 02.jpg ---
+Letová příručka nčkterých typů letounú připouští provádění vzletu se zasunutými yztlakovými klapkami kdly>: tom případě se vrlakové klapky nechávají na vlet zasunuty,
+Je teba zkratit rozjezd 7 cenu loho, Zc bude mensi b)   Je tieba zkrátit délku vzletu sloupavost do výsky 15 m. Je treba po vzletu dosáhnout co nejvetši delka rozjezdu. stoupuvost 7a cenu toho, že sc prodlouží
+8. Kdyby za letu letounu byla poloha těžiště před přední nebezpcčí, že: povolenou mezí, hylo by Lctoun bude podélně nestabilní; Lj. bude samovolně měnit úhel náběhu; Maximální výchylka výškového kormidla nebude ntačič pro přechodový oblouk před přistáním. pro nčkteré režimy letu, např. Maximální výchylky všech řídicich ploch nebudou stačit pro některé např. pro vybírání ostrých zatáček. 'rczimy letu,
+9. Jaké jsou fáze přistání? Kosuzání z předepsané výšky, přechodový oblouk (vyrovnání) dosednutí, dojezd . výdrž (podrovnání), Koouzání z předepsané výšky, přechodový oblouk (vyrovnání), dojezd. vyplavání, doscdnutí. Klouzání z předepsané výšky: vyplavání; přechodový oblouk (podrovnání), dosednutí; dojezd. (vyrovnání), výdrž
+10. Jaký vliv má při přistání protivítr? Úhel klouzání vůči zemi se zvětší: Úhel klouzání vúči zemi sc zmenší. Úhel klouzání vůči zemi se nezmení
+II. Proč se u většiny letounu vysunutí než na yzlet? vysouvají na přistání vztlakové klapky na větší úhel
+Aby letoun měl při případném průletu větší Zejména proto aby letoun mohnmíe mvnsš rytohpsv osi  potřebnou délku pŕistání. při přistání a tudíž menší Aby letoun měl menší rychlost při přistání a hlavně, aby měl větší "neplaval" - odpor a
+Strana 2
+DAT 0103,05
+
+--- 03.jpg ---
+12 Ke urátě orientace = 24 letu muže dojit pfcdevŘím 0) nenl-li nipa b)jc-li sprivne orientovanú podle svctových stran koutmo 0) nejsou-li stranou od letudlu videt dohic orientacnt hody
+13, Pří prováděni srovnavací orientace je vždy spolehlivejsf pororne prvhltzet teren pod letnllem soustredit pozornost na vyznueny orientucnl hod vyhledut _ urcit nekollk oricntacnich bodů
+14. Je &s mčŕcng na poledníku Grcenwich současne mistnim pusmovým éusem?
+uno
+15. Prckonáme-li dutumovou čáru smérem na /apud
+pripocteme kalendárni den odectemc kulendorni den
+16. Rozdfl mez UTC lctnim cascm CR je
+hodinu nenf Zidny Zhodiny
+17 V 'ČR 'poule  AIP GEN 1-2-1 se pouzivají jednotky pro vý'ky
+mnctry centineuy MCUy stopy ICtry
+Suurun <
+fat-0| 4} 01
+
+--- 04.jpg ---
+18. Horizontální rychlost se udává
+Yc stopach kmhhod, mscca uzlech uzlech
+19. Podle tnbulky jste rjistil, 7e východ slunce nn 15"E bude 050 24 , Chcete-li zahajit let s východem slunce letiste lcticim na 190 30 E mnužete tento let zuhújit nejdŕíve ZT
+059 14* 05" 06 05" 34
+20 Kurs 175" je zhrubu smérem na
+Sever jihonapud
+DAT M1 @J 0s
+
+
+============================================================
+LIDSKA VYKONNOST
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TESTC
+Odbornost: Pilot kluzáku motorových kluzaku Vŕcdmčt: Lidlska výkonnost
+Valsulvuv munévr slouži:
+uvolneni dýchncich cest pti znlknuti, avodleni ptivodu kysliku pFi hezvedomt  kodstrunent zulchnuu Isich
+2. Optimálnf uélkn spunku dosnelcho Eloveka je:
+6 hodin. hodin Iohodin
+ost HE aliuh Adpoted , Ptpadnou  prO  Sprl' splonc dzou 0141
+3. Oxldu uhlicicho je aumoslérickém vzduchu prihlínd:
+3u90 300. 0,03
+Smi pilot pFcd letem užit léky?
+Ano, krome Ickú . rpusobujícich útlum centrální nervove soustuvy. Ne, pouze prislušnč schválená lcčiva Nc; Ieky uzivut nesmi
+adou oukuj huudou 4 n4 ect bodó pro
+5. Tlak vzuchu nu úrovni hludiny moŕe podle definice stundurini   uatmosféry ICAO je:
+Poradovu
+760 mmHg 760 Pn 760 kPa
+je30 Minot
+Mezi opiaty nepatft:
+kokuin. kofcin: hcroin
+Dat;0i 01 0$
+Suui
+NEU
+
+--- 02.jpg ---
+Alkohol lhuskem orxunizmu zpusohuje: desynchronuzuci dchy dnutuci, dysrs unli ,
+8. Clovek poznasani svéha ukoll wyu7is ;
+vumani  phustuvivost. pumeť .
+Přímým výsledkem nrocesu Vultuau/ Weue:
+Hppoui [ Imure (chin
+pocilck. chanktcr; jcm
+10. Ktery stuv pozornosti je pru pilota uritečný povubuje se zu schopnost:
+kolfsánl porornosti. ascilucc pozurnosti rzdeleni pozorusti
+Ll. Pozornost blfže nespccifikuje:
+znetcní, koncentruce, pfedstavivost 
+12. Vnfmáni nejvýraznéjl ovlivnuje:
+citlivost smysla pumneť rwhodnost
+Dat 7010s
+Strunn 2
+Pschike , atehe [ ochkeni oqn ruttoknan
+Fyzikalni / 1te7 [ aepoveinnt Enore inioklin _
+
+--- 03.jpg ---
+Mlezi /ns chicke raid}e nchath:
+{chlent. Pozonost rrhodovant
+Fyzikälnf zht87 pllota rpusohuje:
+odpowvednost cunoce mnikroklimn 
+15 Hypoxii mužeme zhrinit:
+dychunim vzcnych plynú presuncm da vyésI ndmarske vysky- dychunim eístého kysliku
+16. K rchlému  spraynemu rozhmlovani nejvíc pŕispívú:
+zkusenust duslednn priprnvn danou cinnusl fstr e pricovni zull2enf ymovn spolupruce- fyzickl kondicc.
+17. Odolnost lidského orgunísmu vuči hypoxil je v prubehu dne ncjvyšší:
+kolem 17. hundiny kolem 12. hodiny Lolcm= hodiny;
+18. Na vedome (innostl Eloveku dosuieni stunovcncho cile ncjvice  Ivnlile Jcho:
+churaktcr = vlohy vule houzevnulosl Iempenment Puner
+Dt0l,01 i
+
+--- 04.jpg ---
+19, Ktcre psychlcke slastnosti ncjíc pfísphajl k rothodnusti:
+upélivox ovedoqttonz chualicr { naanl Jkucnost schoiistau
+20. Aby chon nocl vdéli dang prrdtit dobrc, muslme Ukut :
+znostiil ptimno 0* pfednnetaby bzl ve afedu Mlinice mnostrit oko do nckonttnd Ulvat rozmnea 15* 1220* okolo Paurptovateho pfedmnetu
+Stns =
+010
+
+
+============================================================
+METEOROLOGIE
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TEST €
+Odhornost: Pllot kluzlku = motorových kluzaku "sdmit: Mctcoroloric Výškoměr nastavený na tak QNH lettště ukaznje po přístání Ietisti ptibliznou nndmorskou výšku letiste nndmonskou výsku VPD nulovou vysku
+Zmenu faze leu Vodnf parn "w/Ýv4
+sublumnce kondenzace vypalovanf 30
+bllzkosti tropopaury Velicc eusto setkavame
+tnkou turbulenc( b) >dynamickou turbulenci CAT vInovym proudenim
+pFípudé, 7c Ictadlo leti ve studenem vzduchu; Pak
+Ictudlo je výse, nezjc hodnotu vysky udavune vyakomerem letadlo je nizc ncz hodnolu udavunú výskomermn Ictadlo jc ve výšcc udivune Výskomercm
+Nu zakladé mimořúdných leteckých meteorologických pozorovanf jsou sestavovany
+ptedpovedi pro vzlet 0 ptistini hluseni VOLMET zvlastní zprávy SPECI mimotudna hlascní SPECIAL
+Isobary Jsou túry pfízcmnich meteorologických mnpúch, kterc spojují mista
+se sicinon teplotou se stciným takem stcjnou vlhkosti
+Struna
+
+--- 02.jpg ---
+Tlakovú nue cyklona jc oblust
+nizkcho tlaku nejnižšl hodnotou ve svém stŕcdu snizujici sc hodnotou tlaku smércm od střcdu nejnižší hodnotou po okrajich oblasti
+8. Nebezpečné jevy spojené bourkou
+Výstupné prvudy u růst Cb oblaku silné výstupne proudy maximem horní polovině Cb - silná turbulence, sestupné prvudy maximem blízko základny, silná námraza, clektrické vlastnosti Cb hustota oblaku; který je složen z kapalné pevné fáze vody
+Bouřky tvoří
+každé denní době, jsou-li příhodné podmínky b) ncjčastěji odpoledne a večer, hodinách nejvyšších přízemních teplot nejcastěji během noci
+10. Isobarická hladina je plocha
+'jejímž každém bodě je stejný tlak b) v jejímž každém bodé je stejná výška vjejímž každém bodě je stcjná hustota
+11. Mapy absolutní barické topografie (mapy výškové) jsou meteorologické mapy, na kterých jsou zakresleny
+výšky daných isobarických ploch daném čase na střední hladinou more b) výšky stejných teplot výšky stejných hustot
+Struno 2
+DAT: 0l 03,0s
+
+--- 03.jpg ---
+12, Kollsani Alakove bsoharicke hludiny kterese isteu naryvejf (nMorneno Ksoluruml
+isoluchy Isobury Isohy psys
+13, Podle příčin vzniku známe turhulenci termickau , která vmnika prostiedl, Ltere jc chrktcristicke Isulermii livem nstecinaomemehu zhrivant zemskeho rovrchu E Umn 1 nestejnumerncho ohhvant ptilehlych vzduchovych vrstev vlivem kopcuvitcho Ierenu
+14. Jak nazývame lurhulenci vznlklou vlivcm nestejnomérneho ohřůtf zemskeho povrchu
+mcchanickou dynmickou termickou
+15.Aby se vytvoflla numraza na letadle mnuénem /nnnistvl musi hjt splneno musf byt pfftomnny velké pfcchlnzené vudni kupky povrch letudla mnusi mft teplotu nt8í nc 0 € Jetndla musi letet rychloslf ulespon S00 knh prustoru, kde je 'ysoki vlhkost u teplala ulcspon -I0PC Ictodlo musl letet pamlu oblasti kluunych teplot hlizkych 0C
+Ktere z ubluku povazujeme vznacne konvcktivni oblaky
+cumulus, Cb = cumulonimhus ICu - vežavilý cumulus; Cu cumulus c) Cb cumulonimubs, ICu-vezovIy cumnulus
+
+--- 04.jpg ---
+17. Jak je správně dekódován uvedený stav počasí REDZ po desti mrznouUCI désť po mrholení
+18. Na mapě standardní isobarické hladiny se zakreslují ěáry, které nazýváme isotachy tyto čar vymnCzUjI
+místa se stejnou hustotou vzduchu místa se stejnou rychlostí větru této hladině mnista se stejnou vlhkost
+19. Výstraha na sněžení se vydává
+pro letovou oblast (FIR) pro lctiště SIGMET
+20. Provedeme-li na přízemní meteorologické mapě frontální analýzu, získáme tím rozložení oblastí stejného počasí rozložení oblastí bouřek polohy jednotlivých front, frontálního počasí a rozdčlení vzduchových hmot
+Strana
+DAT 01,0305
+
+
+============================================================
+PROVOZNÍ POSTUPY
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TEST4
+otorosých kluzáku Oubornost: (ulot Lozaku Pedmeta Provozn Duny
+Leu-li Ictoun ČR 15 minut po zapudu slunce let VFR, Je tn podle 'provoznfho predpusu povarovano
+Let VFR vedne, Let VFR Doci Let VFR z soumraku
+Provozním prcdpiscm platným soueusne dobe ČR pro soukromé lety letounu je:
+Lo L Lo JAR-OPS 2
+Provozni předpis pru soukromé lety letounu ukládá povinnosti těmto osobám:
+Vclitcli letadla ^ provozovateli letudla Velitcli Ietadla uzivutcli Icladla Velitcli Ictadla vlustníkovi, pripudne najemci letudlu
+Velitel letadla musí dodržovat pŕíslušné zúkony. předpisy postupy státu:
+jchoz vzdušném prostoru je letadlo provozovuno_ Zapisu letudla do rcjstFíku; Který vydul veliteli letadla průkaz zpusobilosti pilota
+Vsichni élenové letové posádky nu SVeun prucovnim miste
+apnuny:
+Btišnf rmennf pasy po dobu celcho letu Btišnf pasy po dobu celeho lctu ruhenn pusy pri vzletu pŕi pristani Brisnf pusy po dobu celcho lctu
+Suata
+Dat 01,0} 03
+
+--- 02.jpg ---
+6. Při letu letounu pro soukromé účcly musí hýt pilotní kabině: Minimalne jeden ruční hasící přístroj b) Minimálne jeden ruční hasící přístroj- pokud tak stanovil výrobce letadla. Minimálne jeden ručni hasící přístroj při mimoletištních letech.
+7. Za záznamy 0 provedených letech závadách zjištěných za letu letounu provozovaného při soukromých letech odpovídá: Velitel letadla. Uživatel letadla. Vlastník, případně nájemce letadla.
+8. Může vlastník letadla převést některé povinnosti; které mu ukládá předpis pro provoz letounů pro soukromé lety , Da nájemce?
+Ne. Ano za předpokladu; že 0 tom byla uzavřena písemná dohoda podepsaná vlastníkem nájemcem. Ano za předpokladu; že 0 tom byla uzavřena ústní dohoda mezi vlastníkem a nájemcem za přítomnosti alespoň dvou dalšich svědků
+9. Musí být letoun při soukromém letu VFR vybaven variometrem? Ano, vždy. Pouze při letech VFR v noci a při řízených letech VFR v letových hladinách. Ne.
+10. Musóbýž letoun při soukromém letu VFR vybaven rychloměrem; barometrickým výškoměrem magnetickým kompasem? Ano. Pouze při letech VFR v noci a při řízených letech VFR v letových hladinách. Ne.
+Strana 2
+DAT. 01 03.05
+
+--- 03.jpg ---
+Il. Jaké je správné umístění polohových světel na letounu? Ocas bilé. levé křídlo červené, pravé křídlo zelené čtyrycet sedm Ocas cervene  levé křídlo bílé, pravé křidlo zelené. Ocas zelene, levé křídlo bílé, pravé křídlo červené.
+12 Kdy musí být ve vybavení jednomotorového letounu při soukromém letu záchranné vesty pro všechny osoby na 'palubě?
+Pokud část letu vede nad vodní plochou Pokud část letu vede ve větší vzdálenosti od pobřeží než 50 námořních mil. Pokud část letu vede v takové vzdálenosti od pobřeží, že ho nelze dosáhnout klouzavým letem.
+13. Musí být letoun při soukromém letu VFR v ČR vybaven radiostanici? Ano, vždy . Jen při letech IFR. Jen při letech IFR, při letech VFR noci, při řízených letech VFR a tam, kde je to požadováno z hlediska rozdelení vzdušného prostoru.
+14. Tísňová frekvence pro letadlové radiostanice VKV je:
+120.5 MHz 121.5 MHz 122.5 MHz
+15. Odpovědnost za údržbu letounu provozovaného pro soukromé ,lety ma: Velitel letadla. Uživatel letadla. Vlastník, případně nájemce letadla.
+Surana 3
+DAT ; 0/ 03,05
+
+--- 04.jpg ---
+16. Obsahují letecké předpisy v ČR požadavek na tY . praxi pilota poslední době při soukromých letech letounem; tj.3 yzlety přistání jako řídící pilot letounu daného typu nebo třídy za posledních 90 dnu?
+Ano. Pozaduje to provozni předpis pro soukromé lety Vubec ne. letounu JAR-FCL io požaduje pouze při letech s cestujícími. Podobné požadavky provozních směrnicích některých mohou být provozovatelů; např. AeČR_
+17. Velitele letadla pro soukromý let letounu stanovuje: Vlastník letounu: Provozovatel letounu. Uživatel letounu.
+18. Noc je v ČR definována takto:
+Doba mezi západem slunce a východem slunce. Doba mezi západem slunce + 30 minut a východem slunce Doba mezi západem slunce 30 minut. 30 minut a východem slunce 30 minut.
+19. Údobí nouze zahrnuje situaci; kdy je nejistota 0 bezpečnosti letadla, dále ie důvodná obava % bezpečnosti letadnaenisiouaci bapcénositaejisduaa dáte eituaci; kdy hrozí vážné nebezpečí. Doplňte ve správném pořadi _ 'letadlu názvy 'těchto situaci: Údobí nejistoty (INCERFA) pohotovosti (ALERFA) tísně (DETRESFA) b)   Údobí tísně (DETRESFA) nejistoty (NCERFA) pohotovosti (ALERFA) Údobí pohotovosti (ALERFA), tísně (DETRESFA) nejistoty ( INCERFA)
+20. Pokud pilot závažným způsobem poruší v ČR letecké předpisy: Zástupce provozovatele letiště mu může na místě udělit blokovou pokutu . Inspektor ÚCL mu může na místě udělit blokovou pokutu. Úřad pro civilní letectvi $ ním může vést správní řizení.
+Strana 4
+DAT:0i 03 0s
+
+
+============================================================
+VSEOBECNE ZNALOSTI LETADEL
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TESTA
+Odbornost: Pllot khuzaka "icdmdu: Vcuhecne rnulosti letadel
+Podle principu letu se rozdéluji letadla na lctouny Icudla srluluiky b)Ichui v zduchu tezst vzduchu molorove bezmotorvve
+2. Pojem ~letadlo" je definovan následovné
+Ztizenl, nchozje valak poticbny letu vyvozován uerostatickymi silumi obklopujiciho ovzdusi Ujcdná sc motorove letadlo schopne tzencho Ictu atmostétc c} zatizeni schopné vyvozovut síly ncsoucí jej utmnosfefe feakcí vzduchu Ltere nejsou rcakcenu vůči zemskemu povrchu
+3 . Podle umístení nosných ploch rozdélujeme letadl nu
+dolnoplošníky, stedoplošníky , hornoplošniky b) Jcdnoplosuíky dvouplosníky c) jednoplosniky stcdoplostuky bornoplosniky
+Nosna soustaya Ictadla je
+hlavnl cast nosne plochy letudlu cist draku vytvářcjící při Ictu rozhodujicí podil vuluku cúst draku sloužicf k vytvurenf prcvÁžné čústi yztluku putii do nfit zutuzcnĹ, kterd s jeji funkcf úzce souvisi nebo jsou jeji neoddelitelnou součástí (kormidla pŕíčncho rizent, klopky, rusice vztlaku apod )
+~Sekundarnf" konstrukce letadla zahrnuje
+soucústi, Jejichz poruchy Ictudlo po pcvnostnl strúncc vlne ohrozl součústi.jejichz poruchy letadlo po pevnostní strince vužne ncohrozi soucústi.jejichz poruchy muji význumnný vliv na rozsah údrzby letudlu
+Strana
+Dat0i 01 0s
+
+--- 02.jpg ---
+Typ letadla je
+Ietadlo churukterzovuno typovem osvedceni: koncepci, konstrukei, výkony Ylnsnosuini Ictdlo churukterizovane Iypovem osveucenl: Konstrukci u vykony latudlo charakterizovane Iypovem osvedceni: konstrukci, vykony vlastnostmi
+Nasobek zutüení je
+pomer vztlaku odporu nu Ictudle pomer spccifikovuncho znu2cni celkove Ize Ietudln  Udivakolikrüt jc vztlakletadla danem Casovem okamziku vétSí nez jeho uba Pomer siatickcho dynamickeho zatizent n lctadle
+8. Pri 'predepsaném maximálnim provozním zatiženi (stanoveno Icteckých pŕedpiscch) musí spraxne fungovul všechny casti nezbytné pra bezpečng provoz letadla ve Vzduchu i na zcmi nemusí sprdvné fungovat vscchny casti nezbyuc pro bezpccný provoz letadla ve vzduchu I zemr musi spravne fungovat vsechny části pro bezpcčný provoz letndla ve vzduchu
+9. Pro konstrukci jednotlivých částí letadel jcjich systemnu s€ ohecnem souhrnu použnajf tyto druhy muteriälu
+slitiny lehkých kovn oceli titanové slitiny, zušlechtena dfeva plusty; ostatnf materiály (pryze; nútery, lepidla ) nove materialy (komposity kerumicke muteritly ) slitiny lehkých kovú ttnn Jcho slutiny , plusty osulni materialy (pryze, nutéry . Icpidla) nové muteriály (komposity, keramicke materialy) duraly. oceli, plusty , komposity
+10. Vletecke výrubá kluzsku malých letadel se použivají nyt0 druby dŕev (zuslechtených)
+sinrk, borovice. jusun bŕíz borovice; smrk, brizn, buk. olse. lípu, jusan,Illm btizn; buk, jasan;jilm
+Strunu 2
+DAt 0i W) 03
+
+--- 03.jpg ---
+1L. Nejperspektivnějším století jsou typem materialu pro letecke konstrukce na pŕelomu 20.a 21. materiály kompositni na bazi titanových slitin jednosložkové
+12. Hlavní charakteristiky nosných ploch letadla jsou rozpeti, profily nosných ploch; velikost nosných ploch, štíhlost, zúžení poloha nosných ploch vůči trupu; půdorysný tvar; rozpětí, profily nosných ploch; velikost nosných ploch; štihlost, zúžení, úhel šípu, úhel vzepětí, úhel seřizeni, zkrouceni poloha nosných ploch vůči trupu; půdorysný tvar, rozpětí, profily nosných ploch, velikost nosných ploch, štíhlost, zúžení, úhel šípu; úhel vzepětí
+13. Konstrukční prvky nosné soustavy jsou nosníky, žebra; potahy, závěsná a spojovací kování nosníky, žebra podélné výztuhy nosníky . žebra; podélné výztuhy, potahy , závěsná a spojovací kování
+14. Dvounosníková konstrukce křídla je
+konstrukce se dvěma hlavními nosníky b) konstrukce s jedním hlavním a jedním pomocným nosníkem konstrukce se dvěma hlavními a jedním pomocným nosníkem
+15. Samonosné křídlo je
+křídlo $ vnějším vyztužením b) křídlo bez vnějšího vyztužení křídlo podepřené k trupu vzpěrou
+Strana 3
+DAT : 01,03,05
+
+--- 04.jpg ---
+16. Skorepinová konstrukce trupu je konstrukce; jejiz krutova a ohybová pevnost a tuhost je zajišťována potahem Konstrukce. jejiz krutová a ohybová pevnost a tuhost je zajišťována přepázkami konstrukce; jejíz krutová a ohybová pevnost a tuhost je zajišťována prehradami
+17. Přetlaková část trupu je
+cel vnitřni cast tj _ užitkový prostor trupu utésnéna cast trupu. niž se udržuje potřebný tlak ve velkých výškách utésnéná část trupu; níž se udržuje stejný tlak za letu jako je na zemi
+18. Kolem příčné osy se letoun řídí
+křidélky smérovým kormidlem výškovým kormidlem
+19. Kormidla příčného řízení slouží k zajištění ( změny úhlu příčného sklonu letadla kolem
+podélné osy (v letadlové souřadnicové soustavě) bočné osy letadlové souradnicové soustavě) kolmé osy letadlové souradnicové soustavě)
+20. Hlavní podvozek letadla je
+základní konstrukční skupina přistávacího zařízení b) podvozek zachycující převážnou část energie po zemi se pohybujícího letadla podvozek zachycující veškerou energii pohybujícího se letadla
+Strana 4
+Dat: 0103,05
+
+
+============================================================
+ZÁKLADY LETU
+============================================================
+
+--- 01.jpg ---
+ZKUŠEBNÍ TESTD
+Odbornost: Pilot kluzaku moturových kluzáku Picdmét: Zklady letu
+Jak je Y uerody namické poláŕe oznucen bod. kdy akrohatický kluzak letí na Zadech?
+2. Vedtyřcch dnech byly nu letišti nadmořske výšce 800 naméŕeny hodnoty tlaku teploty . Které tyt0 hodnoty odpovídají podmínkám MSA pro výšku 800 m?
+tlak QFE 1013 hP4 teplotn 10 " b) tluk QFE 921 hPa Icplou -3 "C c) tlak QFE 921 hPzteplotn 10  
+3. Pŕi stremhlavem letu je úhle n_béhu
+2) "kritický" nebor' letu dujde snudno prckroceni mnx: povoleneho zatizeni konstrukce b) blízký nule, soucinitel vzlaku je velmi malý nebo nulový vetSI nez klouzuvem Ictu
+Jaké nehezpečí hrozi, když kluzak zu letu pŕckročí nejvyššÍ povolený provozni nisobek  3u%?
+dojdc ke znicení konstrukce kluziku popruská lak na lakovuných cástech konstrukce kluzuku na konstrukci kluziku se objevi trvale detormace, nedojde ule k jejimu zniceni
+DaT 01 0J 0s
+
+--- 02-2.jpg ---
+Vytafcnf namrun
+nck plochach kluzku m 
+nasledek
+rust soucinltele oporusoutinitel vatlku ustava scjny
+'menu sscch Jcfodynamickych charakteristik _ tEL soucinitel vnlaku s}tpe Le [sle soucinitchodnoru prurch klopiveho monchlu sta14 ncprawvidelny Prirustel hmnotnostt, ucfudynamicke chuakterisuty obvyLle neovlnsni
+10. Ktery obrizck podáva vysvetlení vzniku interfereneniho odporu?
+Ll. Hlavní pritinou odtrieni proudu je v7dy
+prckroccui kritickeho uhlu nibchu prechod laminamibo proudeni nn turbulenini Anlen rychlosti letu 'pod hodnotu minimalni rychlosti ve vodorovncm ptmnocutem usuilenem lctu
+12 Může dojut k prckrocení kritického uhlu nahehu i pŕí v){í rychlostis ncz je minlmalnf rychlost uvádéná Ictovou pfrudkou onacovunhohsykle v
+nc, nkdy mter ale jcn nn kluzaku ktery ma nosne plochy pokryte námnrazou muzc, nchor' odtrzení proudu je zpusobeno překrocenim kritickeha uhlu nbehu Ktere nsunc pni vysst rychlosti
+Strnad
+4t 0i @a
+
+--- 02.jpg ---
+5. Který bod nakreslené vztlakové 'čáry odpovídá nulovemu vztlaku kluzáku?
+c)
+6. Výchozi hodnoty MSA jsou Mlas 1013,25 hPa teplota 15 "C; hustota vzduchu 1,225 kgm?, ms?; Tyto hodnoty jsou vždy vztaženy tíhové zrychlení 9,81 tak 1013,25 hPa, teplota 15'- na nadmořskou výšku letiště . m/s? . Tyto hodnoty hustota vzduchu 1,225 kgm , tíhové zrychlení 9,81 jsou vztaženy na střední hladinu moře Hako 760 hPa; teplota 15 "€,hustota vzduchu 7,225kgore Tyto hodnoty jsou vzl/eny tíhové zrychlení 9,81 m/s? na střední hladinu moře.
+7. Pŕi překročení kritického úhlu náhěhu nedochází ke zmčnč klopivého momentu se méní klopivý moment kluzáku klopivý moment způsobí pád kluzáku do vývrtky
+Yzduch proudí ustáleně trubicí kruhového 0a obrázku. éasti proměnného průřezu nakreslenou je ze všech tří částí trubice největší hmotnostní tok rychlost proudu statický tlak
+Strana 2
+DAt ui 0} 05
+
+--- 03.jpg ---
+navijakem přejde do 13. Jaké největší nebezpcčí hrozí, jestliže pilot kluzáku při vzletu stoupáni prudkým přcchodovým obloukem? tomto 'případé pad kluzaku př prcrušeni tahu navijáku, ke kterému muže dojit mnohem snaze jednak dusledku přetržení vlečného lana nebo pretizením motoru navlaku pretažení 'pád kluzáku na vysoke rychlosti nadmerě vysoká spotreba paliva navijáku
+Wv
+HMVI
+[cdr 1Mvdl
+14. Podle obrázku určete, jak je velký úhel náběhu kluzáku letícího klouzavým letem?
+89 b) 1/'
+un
+15. Podle obrázku urěete; jak je velký úhel náběhu kluzáku při navijákovém vzletu? 290 15" 140
+Strana
+DAT: 01 03,05
+
+--- 04.jpg ---
+16. Vysunuti vztlakových klapek převážně způsobí vzrúst součinitel vztlaku a odporu "těžký Yzrůst součinitele vztlaku a odporu; mimo to se projeví klopivý moment ve smyslu na hlavu" vzůst součinitele vztlaku; pokles součinitele odporu a mimo to se projeví klopivý moment ve smyslu "těžký na ocas"
+17. Vysunutí vztlakových klapek zhorší klouzavost zlepší klouzavost zlepší obratnost
+18. Na obrázku jsou poláry kluzáku se zasunutými a vysunutými (na kladnou 'chyIku) Jak je označena polyrai; ktersupatýnkilwzakkowmú Rapkami vztlakovými klapkami? 3 vysunutymi
+b) AiB
+19. Při obtékání tělesa vznikají aerodynamické síly. Nazývají se vztlak, odpor a výsledná aerodynamická síla vztlak, tíha a odpor výsledná aerodynamická síla; která se rozkládá na vztlak a odpor
+Surana 5$
+DAT: 01 05 05
+
+--- 05.jpg ---
+20. Vysunutim 'ztlakových klapek za letu
+vrOsIe 'vzlak Kluzáku neboť vzroste soucinitel vztlaku b) vzroste soucinitel vztlaku ale vztlak zustane stejný vzlak se zmenši. protože vzroste soucinitel odporu
+Strana 6
+DAT_ 0i 03 03
+
