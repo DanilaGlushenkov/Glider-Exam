@@ -28,12 +28,21 @@ def load_question_bank() -> dict:
     bank = parse_markdown_questions(MD_PATH)
     answer_keys = parse_answer_keys(VZOR_PATH)
 
-    merged_questions = [
-        question.model_copy(
-            update={"correct_answer": answer_keys.get(question.id, question.correct_answer)}
+    merged_questions = []
+    for question in bank.questions:
+        answer = answer_keys.get(question.id, question.correct_answer)
+        # Validate answer key against available options before merging
+        if answer:
+            valid = all(
+                a.strip() in question.options
+                for a in answer.split(",")
+                if a.strip()
+            )
+            if not valid:
+                answer = None  # discard invalid answer key
+        merged_questions.append(
+            question.model_copy(update={"correct_answer": answer})
         )
-        for question in bank.questions
-    ]
     merged_bank = bank.model_copy(update={"questions": merged_questions})
 
     # Return as dict for Streamlit cache serialization

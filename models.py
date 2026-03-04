@@ -30,9 +30,15 @@ class Question(BaseModel):
             for ans in self.correct_answer.split(","):
                 ans = ans.strip()
                 if ans and ans not in self.options:
-                    raise ValueError(
-                        f"Question {self.id}: correct answer '{ans}' not in options {list(self.options.keys())}"
+                    # Data quality issue: answer key references missing option.
+                    # Clear invalid answer instead of crashing.
+                    import logging
+                    logging.getLogger(__name__).warning(
+                        "Question %s: correct answer '%s' not in options %s — clearing answer",
+                        self.id, ans, list(self.options.keys()),
                     )
+                    self.correct_answer = None
+                    break
         return self
 
 
