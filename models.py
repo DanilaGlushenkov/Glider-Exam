@@ -71,9 +71,16 @@ class ProgressEntry(BaseModel):
     flagged: bool = False
 
 
+class ResumeState(BaseModel):
+    """Persisted quiz position for a category (STANDARD mode only)."""
+    next_question_index: int
+    total_questions: int
+
+
 class UserProgress(BaseModel):
     """All user progress, keyed by question ID."""
     entries: dict[str, ProgressEntry] = Field(default_factory=dict)
+    resume_state: dict[str, ResumeState] = Field(default_factory=dict)
 
     def record_answer(self, question_id: str, answer: str, is_correct: bool) -> None:
         entry = self.entries.get(question_id, ProgressEntry())

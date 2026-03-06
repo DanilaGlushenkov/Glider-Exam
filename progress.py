@@ -7,7 +7,7 @@ import os
 import tempfile
 from pathlib import Path
 
-from models import UserProgress
+from models import ResumeState, UserProgress
 
 logger = logging.getLogger(__name__)
 
@@ -62,3 +62,22 @@ class ProgressManager:
             except OSError:
                 pass
             raise
+
+    def save_resume(
+        self, progress: UserProgress, category: str, next_index: int, total: int
+    ) -> None:
+        """Persist the quiz resume position for a category."""
+        progress.resume_state[category] = ResumeState(
+            next_question_index=next_index,
+            total_questions=total,
+        )
+        self.save(progress)
+
+    def get_resume(self, progress: UserProgress, category: str) -> "ResumeState | None":
+        """Return saved resume state for a category, or None if not set."""
+        return progress.resume_state.get(category)
+
+    def clear_resume(self, progress: UserProgress, category: str) -> None:
+        """Remove resume state for a category and persist."""
+        progress.resume_state.pop(category, None)
+        self.save(progress)

@@ -3,7 +3,7 @@ from __future__ import annotations
 import pytest
 from pydantic import ValidationError
 
-from models import Question, QuestionBank, QuizMode, UserProgress
+from models import Question, QuestionBank, QuizMode, ResumeState, UserProgress
 
 
 def test_question_creation_valid_data() -> None:
@@ -198,3 +198,36 @@ def test_quiz_mode_enum_values() -> None:
     assert QuizMode.STANDARD.value == "standard"
     assert QuizMode.RETRY_WRONG.value == "retry_wrong"
     assert QuizMode.RETRY_FLAGGED.value == "retry_flagged"
+
+
+# ---------------------------------------------------------------------------
+# ResumeState tests
+# ---------------------------------------------------------------------------
+
+def test_resume_state_creation() -> None:
+    resume = ResumeState(next_question_index=5, total_questions=30)
+    assert resume.next_question_index == 5
+    assert resume.total_questions == 30
+
+
+def test_resume_state_json_round_trip() -> None:
+    progress = UserProgress(
+        resume_state={"aerodynamika": ResumeState(next_question_index=5, total_questions=30)}
+    )
+    serialized = progress.model_dump_json()
+    restored = UserProgress.model_validate_json(serialized)
+    assert "aerodynamika" in restored.resume_state
+    assert restored.resume_state["aerodynamika"].next_question_index == 5
+    assert restored.resume_state["aerodynamika"].total_questions == 30
+
+
+def test_user_progress_resume_state_defaults_empty() -> None:
+    progress = UserProgress()
+    assert progress.resume_state == {}
+
+
+def test_user_progress_resume_state_old_json_without_key() -> None:
+    """Old progress.json files without the resume_state key should load cleanly."""
+    old_json = '{"entries": {}, "flags": []}'
+    restored = UserProgress.model_validate_json(old_json)
+    assert restored.resume_state == {}

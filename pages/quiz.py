@@ -72,7 +72,14 @@ def _switch_to_dashboard(progress_manager: ProgressManager, progress: UserProgre
     st.switch_page("pages/dashboard.py")
 
 
-def _switch_to_results(progress_manager: ProgressManager, progress: UserProgress) -> None:
+def _switch_to_results(
+    progress_manager: ProgressManager,
+    progress: UserProgress,
+    selected_category: str,
+    mode: QuizMode,
+) -> None:
+    if mode == QuizMode.STANDARD:
+        progress_manager.clear_resume(progress, selected_category)
     _save_progress(progress_manager, progress)
     st.switch_page("pages/results.py")
 
@@ -124,11 +131,23 @@ def main() -> None:
             st.switch_page("pages/dashboard.py")
         st.stop()
 
+    if mode == QuizMode.STANDARD:
+        resume = progress_manager.get_resume(progress, selected_category)
+        if resume is not None:
+            if resume.next_question_index < len(quiz_question_ids):
+                if st.session_state.get("current_q_index", 0) == 0:
+                    st.session_state.current_q_index = resume.next_question_index
+            else:
+                progress_manager.clear_resume(progress, selected_category)
+                st.warning(
+                    "The question bank was updated — restarting from the beginning."
+                )
+
     current_q_index = st.session_state.current_q_index
     if current_q_index >= len(quiz_question_ids):
         st.success("Quiz complete for this session.")
         if st.button("Finish Quiz", type="primary"):
-            _switch_to_results(progress_manager, progress)
+            _switch_to_results(progress_manager, progress, selected_category, mode)
         if st.button("⬅️ Back to Dashboard"):
             _switch_to_dashboard(progress_manager, progress)
         st.stop()
@@ -149,6 +168,15 @@ def main() -> None:
 
     with top_cols[0]:
         if st.button("🏠 Quit"):
+            if mode == QuizMode.STANDARD:
+                # Save resume: if answer was already submitted, advance past
+                # this question; otherwise resume at the same question.
+                submitted_flag = bool(st.session_state.get("submitted", False))
+                next_idx = current_q_index + (1 if submitted_flag else 0)
+                if next_idx < total_questions:
+                    progress_manager.save_resume(
+                        progress, selected_category, next_idx, total_questions,
+                    )
             _switch_to_dashboard(progress_manager, progress)
 
     with top_cols[1]:
@@ -221,10 +249,17 @@ def main() -> None:
         is_last_question = current_q_index == total_questions - 1
         if is_last_question:
             if st.button("Finish Quiz", type="primary"):
-                _switch_to_results(progress_manager, progress)
+                _switch_to_results(progress_manager, progress, selected_category, mode)
         else:
             if st.button("Next Question ➡️", type="primary"):
                 st.session_state.current_q_index += 1
+                if mode == QuizMode.STANDARD:
+                    progress_manager.save_resume(
+                        progress,
+                        selected_category,
+                        st.session_state.current_q_index,
+                        len(quiz_question_ids),
+                    )
                 st.session_state.submitted = False
                 st.session_state.last_recorded_answer = ""
                 st.session_state.last_was_correct = False
